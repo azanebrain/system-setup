@@ -215,7 +215,7 @@
     // This setting can be used to make it complete on tab instead.
     // Completing on tab is generally a superior option, as it removes
     // ambiguity between committing the completion and inserting a newline.
-    "auto_complete_commit_on_tab": false,
+    "auto_complete_commit_on_tab": true,
 
     // Controls if auto complete is shown when snippet fields are active.
     // Only relevant if auto_complete_commit_on_tab is true.
@@ -298,7 +298,7 @@
 
     // OS X only: When files are opened from finder, or by dragging onto the
     // dock icon, this controls if a new window is created or not.
-    "open_files_in_new_window": true,
+    "open_files_in_new_window": false,
 
     // OS X only: This controls if an empty window is created at startup or not.
     "create_window_at_startup": true,
@@ -306,7 +306,7 @@
     // Set to true to close windows as soon as the last file is closed, unless
     // there's a folder open within the window. This is always enabled on OS X,
     // changing it here won't modify the behavior.
-    "close_windows_when_empty": false,
+    "close_windows_when_empty": true,
 
     // Show the full path to files in the title bar.
     // On OS X, this value is overridden in the platform specific settings, so

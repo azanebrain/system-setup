@@ -13,3 +13,6 @@ Emmet
 
 Git Gutter:
 https://github.com/jisaacks/GitGutter
+
+Syntax Highlighting for Sass
+(enable with: View -> Syntax -> Syntax Highlighting for Sass)

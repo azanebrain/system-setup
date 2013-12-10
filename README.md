@@ -53,6 +53,11 @@ Set the hotkey:
 - In Iterm > Preferences > Keys
 - Set the 'Show/Hide iTerm with a system-wide hotkey' to Apple+Space
 
+Mac Settings
+============
+- Turn dock hiding on/off
+- Turn off 'Windows Space' to get into spotlight
+
 Sublime Text 2
 ============
 
@@ -71,6 +76,17 @@ Sublime FTP
 (create a connection by saving the file to: 
 
 Zen Tabs
+
+Subl
+(make sure ~/bin has been created)
+```
+sudo ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.2/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
+This won't work until your add this to your .bash_profile file
+```
+export PATH=$PATH:~/bin
+```
+And restart the terminal
 
 GitHub
 ============

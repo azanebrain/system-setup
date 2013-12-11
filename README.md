@@ -58,6 +58,19 @@ Mac Settings
 - Turn dock hiding on/off
 - Turn off 'Windows Space' to get into spotlight
 
+
+Chrome
+============
+
+Extensions:
+- Vimium
+- GTasks
+- MeasureIt
+- Window Resizer
+- OneTab
+- Instrumente
+- [Visual Event](http://www.sprymedia.co.uk/article/Visual+Event+2)
+
 Sublime Text 2
 ============
 

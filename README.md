@@ -104,3 +104,11 @@ And restart the terminal
 GitHub
 ============
 Add the [SSH key](https://github.com/settings/ssh)
+
+
+AMPPS
+===
+- [Download](http://www.ampps.com/download)
+- Turn on the Apache server and go to [http://localhost](http://localhost)
+- Make a new domain (such as mysite.dev)
+- Select that it is an addon domain, use the full filepath for the domain (/Users/me/Sites/mysite), under Advanced: add an entry to the host file

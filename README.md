@@ -29,6 +29,7 @@ brew cask install iterm2
 brew cask install spotify
 brew cask install sublime-text
 brew install node
+brew install phantomjs
 ```
 
 Link alfred:

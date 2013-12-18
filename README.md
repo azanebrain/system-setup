@@ -72,6 +72,7 @@ Chrome
 ============
 
 Extensions:
+- Colorzilla
 - Vimium
 - GTasks
 - MeasureIt

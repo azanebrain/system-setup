@@ -30,6 +30,7 @@ brew cask install spotify
 brew cask install sublime-text
 brew install node
 brew install phantomjs
+brew install casperjs
 ```
 
 Link alfred:

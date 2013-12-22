@@ -31,6 +31,7 @@ brew cask install sublime-text
 brew install node
 brew install phantomjs
 brew install casperjs
+npm install -g yo
 ```
 
 Link alfred:
@@ -45,7 +46,6 @@ If you'd rather have the apps in Applications instead of linked, open an app and
 Yeoman / Grunt / Bower
 
 ```
-npm install -g yo
 ```
 
 iTerm

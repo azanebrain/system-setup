@@ -31,7 +31,8 @@ brew cask install sublime-text
 brew install node
 brew install phantomjs
 brew install casperjs
-npm install -g yo
+sudo npm install -g yo coffee-script
+sudo gem install haml sass compass
 ```
 
 Link alfred:
@@ -90,6 +91,8 @@ Sublime Text 2
 Package Manager
 https://sublime.wbond.net/installation
 
+Need to find a JS/Coffeescript linter
+
 Emmet
 
 Git Gutter:
@@ -108,7 +111,7 @@ Subl
 ```
 sudo ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.2/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 ```
-This won't work until your add this to your .bash_profile file
+This won't work until your add this to your .bash_profile file:
 ```
 export PATH=$PATH:~/bin
 ```

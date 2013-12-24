@@ -32,8 +32,10 @@ brew install node
 brew install phantomjs
 brew install casperjs
 sudo npm install -g yo coffee-script
-sudo gem install haml sass compass
+sudo gem install haml sass compass foundation 
 ```
+
+yo installs bower, grunt-cli
 
 Link alfred:
 ```

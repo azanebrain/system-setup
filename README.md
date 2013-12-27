@@ -86,6 +86,7 @@ Extensions:
 - OneTab
 - Instrumente
 - [Visual Event](http://www.sprymedia.co.uk/article/Visual+Event+2)
+- [Markdown Reader](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc/details?hl=en) (make sure to enable 'Allow File URLs' through chrome://extensions
 
 Sublime Text 2
 ============

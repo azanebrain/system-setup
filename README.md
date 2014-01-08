@@ -20,11 +20,12 @@ $ brew cask search <your-app>
 ```
 brew install brew-cask
 brew install tree
-brew cask install google-chrome
-brew cask install firefox
-brew cask install google-drive
-brew cask install dropbox
 brew cask install alfred
+brew cask install dropbox
+brew cask install firefox
+brew cask install google-chrome
+brew cask install google-drive
+brew cask install heroku-toolbelt
 brew cask install iterm2
 brew cask install spotify
 brew cask install sublime-text

@@ -125,6 +125,16 @@ GitHub
 ============
 Add the [SSH key](https://github.com/settings/ssh)
 
+## Github Shinies for changing assignee, label, and milestone through commit messages ##
+- (from http://www.reigndesign.com/blog/adding-labels-and-re-assigning-github-issues-via-commit-message/)
+- heroku login
+- git clone git@github.com:joshrendek/github-postcommit-shinies.git; cd github-postcommit-shinies; sudo gem install heroku bundler; bundle install
+- Bundle might need a ton of other gems. If it doesn't, you can throw this next section of commands onto the previous and do the whole shebang in one go
+- git add Gemfile.lock; git commit -m 'Gemfile lock'; heroku create --stack cedar; git push heroku master; heroku ps
+- Now go to the Admin page of your Github repository and click on the Service Hooks button on the left menu then click on the Post-Service-URLs button and paste your Heroku URL of your app and click the Update Settings button. Done!
+
+Use with =user and ~label
+
 
 AMPPS
 ===

@@ -3,6 +3,10 @@ system-setup
 
 My web dev setup
 
+# RSA Key
+
+cd ~/.ssh; ssh-keygen -t rsa -C "your_email@example.com"; ssh-add id_rsa
+
 Homebrew and Cask
 ============
 
@@ -123,7 +127,9 @@ And restart the terminal
 
 GitHub
 ============
+
 Add the [SSH key](https://github.com/settings/ssh)
+- Copy with: pbcopy < ~/.ssh/id_rsa.pub
 
 ## Github Shinies for changing assignee, label, and milestone through commit messages ##
 - (from http://www.reigndesign.com/blog/adding-labels-and-re-assigning-github-issues-via-commit-message/)

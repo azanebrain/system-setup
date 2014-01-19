@@ -7,6 +7,16 @@ My web dev setup
 
 cd ~/.ssh; ssh-keygen -t rsa -C "your_email@example.com"; ssh-add id_rsa
 
+Mac Settings
+============
+- Turn dock hiding on/off
+- Turn off 'Windows Space' to get into spotlight
+- View hidden files:
+```
+defaults write com.apple.finder AppleShowAllFiles TRUE
+killall Finder
+```
+
 Homebrew and Cask
 ============
 
@@ -73,12 +83,6 @@ Set the hotkey:
 - In Iterm > Preferences > Keys
 - Set the 'Show/Hide iTerm with a system-wide hotkey' to Apple+Space
 - Set the color scheme (Zenburn-hotkey) for this profile
-
-Mac Settings
-============
-- Turn dock hiding on/off
-- Turn off 'Windows Space' to get into spotlight
-
 
 Chrome
 ============

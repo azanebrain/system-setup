@@ -11,7 +11,9 @@ Homebrew and Cask
 ============
 
 Start off by installing Homebrew (instructions [here](http://brew.sh/) )
+
 [RVM](https://rvm.io/)
+
 [XCode](https://developer.apple.com/xcode/)
 
 And the cask

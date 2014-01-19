@@ -12,9 +12,9 @@ Mac Settings
 - Turn dock hiding on/off
 - Turn off 'Windows Space' to get into spotlight
 - View hidden files:
+- 
 ```
-defaults write com.apple.finder AppleShowAllFiles TRUE
-killall Finder
+defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
 ```
 
 Homebrew and Cask

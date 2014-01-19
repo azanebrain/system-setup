@@ -62,18 +62,17 @@ iTerm
 ============
 
 Load the themes:
-- Iterm > Prefernces > Colors
+- Iterm > Preferences > Profiles > Colors
 - Under Load Presets > Import 
 - Select all of the color schemes
-- Make a new Profile
+- Select the default profile
 - Select the color scheme you want
-- Set it as default
-- Go to the General tab and rename the profile
 - _Themes from https://github.com/mbadolato/iTerm2-Color-Schemes_
 
 Set the hotkey:
 - In Iterm > Preferences > Keys
 - Set the 'Show/Hide iTerm with a system-wide hotkey' to Apple+Space
+- Set the color scheme (Zenburn-hotkey) for this profile
 
 Mac Settings
 ============

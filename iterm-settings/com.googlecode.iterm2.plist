@@ -505,20 +505,26 @@
 	<true/>
 	<key>MaxVertically</key>
 	<false/>
+	<key>NSColorPanelMode</key>
+	<string>6</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/Sites/system-setup/iterm2-color-schemes</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{786, 505}</string>
+	<key>NSNavPanelExpandedStateForSaveMode</key>
+	<true/>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
 	<string></string>
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
+	<key>NSWindow Frame NSColorPanel</key>
+	<string>1707 76 214 309 1280 -280 1920 1058 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>511 229 924 485 0 0 1440 878 </string>
+	<string>189 174 924 485 0 0 1280 778 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>56 281 585 451 0 0 1440 878 </string>
+	<string>271 61 1320 587 0 0 1680 1028 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1062,7 +1068,7 @@
 			<key>Log Directory</key>
 			<string></string>
 			<key>Minimum Contrast</key>
-			<real>0.0</real>
+			<real>0.35390624403953552</real>
 			<key>Mouse Reporting</key>
 			<true/>
 			<key>Name</key>
@@ -1084,7 +1090,7 @@
 			<key>Screen</key>
 			<integer>-1</integer>
 			<key>Scrollback Lines</key>
-			<integer>1000</integer>
+			<integer>0</integer>
 			<key>Scrollback With Status Bar</key>
 			<false/>
 			<key>Scrollback in Alternate Screen</key>
@@ -1228,7 +1234,7 @@
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
-			<false/>
+			<true/>
 			<key>Use Bold Font</key>
 			<true/>
 			<key>Use Bright Bold</key>
@@ -2036,7 +2042,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-01-19T04:24:15Z</date>
+	<date>2014-01-20T04:34:00Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>

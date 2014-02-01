@@ -106,21 +106,16 @@ https://sublime.wbond.net/installation
 
 Need to find a JS/Coffeescript linter
 
-Emmet
-
-Git Gutter:
-https://github.com/jisaacks/GitGutter
-
-Syntax Highlighting for Sass
-(enable with: View -> Syntax -> Syntax Highlighting for Sass)
-
-Sublime FTP
-(create a connection by saving the file to: 
-
-Zen Tabs
-
-Subl
-(make sure ~/bin has been created)
+- Emmet
+- [Git Gutter](https://github.com/jisaacks/GitGutter)
+- Syntax Highlighting for Sass
+- - (enable with: View -> Syntax -> Syntax Highlighting for Sass)
+- Sublime FTP
+- - (create a connection by saving the file to: 
+- Search WordPress Codex
+- Zen Tabs
+- Subl
+- - (make sure ~/bin has been created)
 ```
 sudo ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.2/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 ```

@@ -27,7 +27,10 @@ Start off by installing Homebrew (instructions [here](http://brew.sh/) )
 [XCode](https://developer.apple.com/xcode/)
 
 And the cask
-$ brew tap phinze/homebrew-cask
+```
+brew tap phinze/homebrew-cask; brew install brew-cask
+
+```
 Now install all your programs.
 If you need to search for your apps use:
 

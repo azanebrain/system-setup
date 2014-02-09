@@ -56,7 +56,7 @@ yo installs bower, grunt-cli
 
 Link alfred:
 ```
-$ brew cask alfred link
+brew cask alfred link
 ```
 If you'd rather have the apps in Applications instead of linked, open an app and move it to the "Applications" folder, and make sure it stops asking you about that
 
@@ -66,6 +66,8 @@ If you'd rather have the apps in Applications instead of linked, open an app and
 Yeoman / Grunt / Bower
 
 ```
+npm install -g grunt-cli
+npm install -g grunt-init
 ```
 
 iTerm

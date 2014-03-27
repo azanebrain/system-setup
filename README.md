@@ -161,6 +161,7 @@ Either add these to .git/config for your individual project, or to your global g
 	lg = log --graph
 	lname = log --name-status
 	lnomerge = log --no-merges
+	lo = log --oneline
 	lp = log -p
 	m = merge
 	mt = mergetool

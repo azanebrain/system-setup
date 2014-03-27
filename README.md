@@ -130,6 +130,57 @@ export PATH=$PATH:~/bin
 ```
 And restart the terminal
 
+Git Aliases
+============
+
+Bash profile:
+```bash
+alias g='git'
+```
+
+Either add these to .git/config for your individual project, or to your global git configuration file with: `git config --global --edit`
+
+```bash
+[alias]
+	a = add 
+	b = branch
+	br = branch -r
+	ci = commit
+	cim = commit -am 
+	co = checkout
+	cob = checkout -b
+	cot = checkout -t
+	coto = !sh -c 'git checkout -t origin/$1' -
+	d = diff
+	dname = diff --name-only
+	st = status
+	fall = fetch --all
+	ftags = fetch --tags
+	k = !gitk
+	l = log
+	lg = log --graph
+	lname = log --name-status
+	lnomerge = log --no-merges
+	lp = log -p
+	m = merge
+	mt = mergetool
+	t = tag
+
+	com = checkout master
+	cod = checkout dev
+	po = pull origin
+	por = pull --rebase origin
+	pu = push origin
+	pom = pull origin master
+	porm = pull --rebase origin master
+	pum = push origin master
+	pod = pull origin dev
+	pord = pull --rebase origin dev
+	pud = push origin dev
+```
+
+All commands can be used with arguments. For example, the `po` and `pu` commands can be followed by the branch that you want to push/pull, and the `ci` command can be followed by your commit message.
+
 GitHub
 ============
 

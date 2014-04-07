@@ -130,6 +130,14 @@ export PATH=$PATH:~/bin
 ```
 And restart the terminal
 
+### End of Line Semi Colon
+
+Use: super + enter
+
+Setup: Add the eolsemicolon.sublime-macro file to the Packages directory. Open it by going to Preferences > Browse Packages, this will open up a window with a list of package directories. Go to the User folder and add the End of Line Semicolon macro file there
+
+Copy the contents of the keymap file (to Default (OSX).sublime-keymap) to the user keybindings (Preferences > Key Bindings - User), or copy the file to the same Packages directory as the macro file.
+
 Git Aliases
 ============
 
@@ -206,3 +214,20 @@ AMPPS
 - Make a new domain (such as mysite.dev)
 - Select that it is an addon domain, use the full filepath for the domain (/Users/me/Sites/mysite), under Advanced: add an entry to the host file
 - Default DB user is 'root' with password: 'mysql'
+
+
+[WP Cli](http://wp-cli.org/)
+===
+```
+curl -L https://raw.github.com/wp-cli/builds/gh-pages/phar/wp-cli.phar > wp-cli.phar; chmod +x wp-cli.phar; sudo mv wp-cli.phar /usr/bin/wp
+```
+
+Test with `wp`
+
+## [Bash completion](https://github.com/wp-cli/wp-cli/raw/master/utils/wp-completion.bash)
+
+## Errors with LAMP stacks:
+
+- See [this FAQ item on setting up with MAMP](https://github.com/wp-cli/wp-cli/wiki/FAQ#error-cant-connect-to-the-database)
+- For AMPPS: add this to ~/.bash_profile: `export PATH="/Applications/AMPPS/php/bin:/Applications/AMPPS/mysql/bin:$PATH"`
+- If that generates a bunch of jargon, try setting WP_CLI_PHP to the same dir as `which php`

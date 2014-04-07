@@ -1,0 +1,9 @@
+[
+{
+    "keys": ["super+enter"],
+    "command": "run_macro_file",
+    "args": {
+        "file": "Packages/User/eolsemicolon.sublime-macro"
+    }
+}
+]

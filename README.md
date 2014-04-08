@@ -214,7 +214,10 @@ AMPPS
 - Make a new domain (such as mysite.dev)
 - Select that it is an addon domain, use the full filepath for the domain (/Users/me/Sites/mysite), under Advanced: add an entry to the host file
 - Default DB user is 'root' with password: 'mysql'
-
+- Use mysql from the command line:
+```bash
+export PATH="/Applications/AMPPS/mysql/bin:$PATH"
+```
 
 [WP Cli](http://wp-cli.org/)
 ===

@@ -229,5 +229,8 @@ Test with `wp`
 ## Errors with LAMP stacks:
 
 - See [this FAQ item on setting up with MAMP](https://github.com/wp-cli/wp-cli/wiki/FAQ#error-cant-connect-to-the-database)
-- For AMPPS: add this to ~/.bash_profile: `export PATH="/Applications/AMPPS/php/bin:/Applications/AMPPS/mysql/bin:$PATH"`
-- If that generates a bunch of jargon, try setting WP_CLI_PHP to the same dir as `which php`
+- For AMPPS: you must set the PHP version to 5.4 or higher, and setup a symlink for the PHP binary:
+```bash
+sudo mv /usr/bin/php /usr/bin/php-backup
+sudo ln -s /Applications/AMPPS/php/bin/php /usr/bin/php
+```

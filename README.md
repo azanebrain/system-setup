@@ -119,6 +119,9 @@ Need to find a JS/Coffeescript linter
 - - (create a connection by saving the file to: 
 - Search WordPress Codex
 - Zen Tabs
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
+- [Sublime Alignment](http://wbond.net/sublime_packages/alignment)
+- [Clipboard History](https://github.com/kemayo/sublime-text-2-clipboard-history)
 - Subl
 - - (make sure ~/bin has been created)
 ```

@@ -157,7 +157,8 @@ Either add these to .git/config for your individual project, or to your global g
 	b = branch
 	br = branch -r 
 	ci = commit
-	cim = commit -am 
+	cia = commit --amend
+        cim = commit -am 
 	co = checkout
 	cob = checkout -b
 	cot = checkout -t

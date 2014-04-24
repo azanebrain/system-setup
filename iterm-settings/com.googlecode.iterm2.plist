@@ -616,7 +616,7 @@
 	<key>NSColorPanelMode</key>
 	<string>6</string>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Sites/system-setup/iterm2-color-schemes</string>
+	<string>~/Documents</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{786, 505}</string>
 	<key>NSNavPanelExpandedStateForSaveMode</key>
@@ -630,9 +630,15 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>1707 76 214 309 1280 -280 1920 1058 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>1384 60 924 485 1280 -280 1920 1058 </string>
+	<string>79 322 605 485 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>271 61 1320 587 0 0 1680 1028 </string>
+	<string>8 220 1068 774 0 0 1680 1028 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>12 192 585 451 0 0 1680 1028 </string>
+	<key>NSWindow Frame iTerm Window 2</key>
+	<string>0 568 585 451 0 0 1680 1028 </string>
+	<key>NSWindow Frame iTerm Window 3</key>
+	<string>208 51 1032 519 0 0 1680 1028 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -2088,6 +2094,8 @@
 			<string>/Users/aj</string>
 		</dict>
 	</array>
+	<key>NoSyncNeverRemindPrefsChangesCopy</key>
+	<true/>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -2150,7 +2158,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-01-20T04:34:00Z</date>
+	<date>2014-04-23T19:46:55Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -2181,6 +2189,10 @@
 	<true/>
 	<key>UseLionStyleFullscreen</key>
 	<true/>
+	<key>WebKitDefaultFontSize</key>
+	<integer>11</integer>
+	<key>WebKitStandardFont</key>
+	<string>Lucida Grande</string>
 	<key>WindowNumber</key>
 	<true/>
 	<key>WindowStyle</key>

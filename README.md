@@ -149,13 +149,13 @@ Bash profile:
 alias g='git'
 ```
 
-Either add these to .git/config for your individual project, or to your global git configuration file with: `git config --global --edit`
+Either add these to .git/config for your individual project, or to your global git configuration file (~/.gitconfig) or with: `git config --global --edit`
 
 ```bash
 [alias]
 	a = add 
 	b = branch
-	br = branch -r
+	br = branch -r 
 	ci = commit
 	cim = commit -am 
 	co = checkout
@@ -167,13 +167,14 @@ Either add these to .git/config for your individual project, or to your global g
 	st = status
 	fall = fetch --all
 	ftags = fetch --tags
+	gtfo = reset --hard HEAD
 	k = !gitk
 	l = log
 	lg = log --graph
 	lname = log --name-status
 	lnomerge = log --no-merges
-	lo = log --oneline
 	lp = log -p
+	lo = log --oneline
 	m = merge
 	mt = mergetool
 	t = tag

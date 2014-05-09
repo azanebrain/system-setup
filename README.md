@@ -242,3 +242,11 @@ Test with `wp`
 sudo mv /usr/bin/php /usr/bin/php-backup
 sudo ln -s /Applications/AMPPS/php/bin/php /usr/bin/php
 ```
+
+Key Remap
+============
+[KeyRemap4MacBook](https://pqrs.org/macosx/keyremap4macbook/)
+
+- Decrease the key repeat
+- Open up the settings, get to the private.xml, replace it with this custom one (keymap/private.xml)
+- Back in the Change Key tab click ReloadXML. The custom definitions will be at the top

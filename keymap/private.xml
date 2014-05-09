@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>Super Right to Control</name>
+    <identifier>private.commandr_to_control</identifier>
+    <autogen>__KeyToKey__ KeyCode::COMMAND_R, KeyCode::CONTROL_L</autogen>
+  </item>
+</root>

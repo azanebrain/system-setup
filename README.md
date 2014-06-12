@@ -250,3 +250,9 @@ Key Remap
 - Decrease the key repeat
 - Open up the settings, get to the private.xml, replace it with this custom one (keymap/private.xml)
 - Back in the Change Key tab click ReloadXML. The custom definitions will be at the top
+
+# Bigger Notes Dashboard Widget
+
+Provides a bigger note-taking space in the Dashboard
+
+https://github.com/fauria/bigger-notes

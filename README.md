@@ -151,47 +151,7 @@ alias g='git'
 
 Either add these to .git/config for your individual project, or to your global git configuration file (~/.gitconfig) or with: `git config --global --edit`
 
-```bash
-[alias]
-	a = add 
-	b = branch
-	br = branch -r 
-	ci = commit
-	cia = commit --amend
-        cim = commit -am 
-	co = checkout
-	cob = checkout -b
-	cot = checkout -t
-	coto = !sh -c 'git checkout -t origin/$1' -
-	d = diff
-	dname = diff --name-only
-	st = status
-	fall = fetch --all
-	ftags = fetch --tags
-	gtfo = reset --hard HEAD
-	k = !gitk
-	l = log
-	lg = log --graph
-	lname = log --name-status
-	lnomerge = log --no-merges
-	lp = log -p
-	lo = log --oneline
-	m = merge
-	mt = mergetool
-	t = tag
-
-	com = checkout master
-	cod = checkout dev
-	po = pull origin
-	por = pull --rebase origin
-	pu = push origin
-	pom = pull origin master
-	porm = pull --rebase origin master
-	pum = push origin master
-	pod = pull origin dev
-	pord = pull --rebase origin dev
-	pud = push origin dev
-```
+See .gitconfig
 
 All commands can be used with arguments. For example, the `po` and `pu` commands can be followed by the branch that you want to push/pull, and the `ci` command can be followed by your commit message.
 

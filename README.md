@@ -122,7 +122,16 @@ Need to find a JS/Coffeescript linter
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 - [Sublime Alignment](http://wbond.net/sublime_packages/alignment)
 - [Clipboard History](https://github.com/kemayo/sublime-text-2-clipboard-history)
-- Subl
+
+- [Syntax highlighting for CoffeeScript, Jade, Stylus](https://gist.github.com/liamdon/2467603)
+```bash
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+git clone git://github.com/jashkenas/coffee-script-tmbundle CoffeeScript
+git clone https://github.com/miksago/jade-tmbundle.git Jade
+git clone https://github.com/LearnBoost/stylus.git Stylus
+```
+
+- Active Subl
 - - (make sure ~/bin has been created)
 ```
 sudo ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.2/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl

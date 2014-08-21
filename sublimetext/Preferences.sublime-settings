@@ -7,7 +7,7 @@
 		"Vintage"
 	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"useTabStops": true,
 	"word_wrap": true
 }

@@ -106,6 +106,8 @@ Extensions:
 Sublime Text 2
 ============
 
+Settings: Copy the Preferences.sublime-settings into the user settings ( command + , )
+
 Package Manager
 https://sublime.wbond.net/installation
 
@@ -131,7 +133,7 @@ git clone https://github.com/miksago/jade-tmbundle.git Jade
 git clone https://github.com/LearnBoost/stylus.git Stylus
 ```
 
-- Active Subl
+- Activate Subl
 - - (make sure ~/bin has been created)
 ```
 sudo ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.2/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl

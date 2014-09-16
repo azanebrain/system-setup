@@ -57,6 +57,8 @@ sudo gem install haml sass compass foundation
 
 yo installs bower, grunt-cli
 
+ quick note on getting errors running npm without sudo. Make sure you own npm, or install with homebrew: [SO question on ](http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
+
 Link alfred:
 ```
 brew cask alfred link

@@ -1,7 +1,7 @@
-system-setup
-============
+# SYSTEM SETUP
 
 My web dev setup
+Maybe one day there'll be dot files...
 
 # RSA Key
 
@@ -194,6 +194,16 @@ AMPPS
 ```bash
 export PATH="/Applications/AMPPS/mysql/bin:$PATH"
 ```
+
+# VIM
+
+Copy the .vimrc file to ~
+
+## [Vundle](https://github.com/gmarik/Vundle.vim)
+
+Follow the [quick start instructions](https://github.com/gmarik/Vundle.vim#quick-start)
+
+### Non-Vundle packages
 
 [WP Cli](http://wp-cli.org/)
 ===

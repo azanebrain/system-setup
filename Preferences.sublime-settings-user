@@ -4,11 +4,22 @@
 	[
 		".svn",
 		".hg",
-		"CVS"
+		"CVS",
+                ".git",
+                "node_modules",
+                ".sass-cache",
+                "bower_components"
 	],
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"show_full_path": true
+        "auto_reload_changes": false,
+        "font_size": 18.0,
+        "highlight_modified_tabs": true,
+	"show_full_path": true,
+        "tab_size": 2,
+        "translate_tabs_to_spaces": true,
+        "useTabStops": true,
+        "word_wrap": true
 }

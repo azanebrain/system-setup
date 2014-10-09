@@ -96,6 +96,7 @@ Chrome
 
 Extensions:
 - Colorzilla
+- [Developer Tools Dark Theme](http://howchoo.com/g/tell-chrome-developer-tools-to-use-a-dark-theme)
 - Vimium
 - GTasks
 - MeasureIt

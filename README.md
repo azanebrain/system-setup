@@ -47,6 +47,7 @@ brew cask install google-drive
 brew cask install heroku-toolbelt
 brew cask install iterm2
 brew cask install istat-menus
+brew cask install little-snitch
 brew cask install spotify
 brew cask install sublime-text
 brew install node

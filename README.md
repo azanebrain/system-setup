@@ -40,6 +40,7 @@ $ brew cask search <your-app>
 brew install brew-cask
 brew install tree
 brew cask install alfred
+brew cask install atom
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
@@ -49,7 +50,6 @@ brew cask install iterm2
 brew cask install istat-menus
 brew cask install little-snitch
 brew cask install spotify
-brew cask install sublime-text
 brew install node
 brew install phantomjs
 brew install casperjs
@@ -77,8 +77,46 @@ npm install -g grunt-cli
 npm install -g grunt-init
 ```
 
-iTerm
-============
+
+# [Atom](https://atom.io)
+I like [Atom](https://atom.io) because it is made for devs who just want to get going. The out of the box features and customizability encompass the ideals that every IDE strives to provide to its user base. 
+
+I used Sublime Text for a while, but Atom operates closer to the terminal. You can do a lot more through key commands and the stuff I care about (terminal functionality, package mangement, git integration) is baked in with zero configuration needed. 
+
+[Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
+```
+apm install emmet file-icons resize-panes atom-color-highlight color-picker todo-show autocomplete-plus tabs-to-spaces linter vertical-align
+```
+
+## Atom Config
+Add the following to the Atom config file in  `Atom > Open Your Config`
+```
+'editor':
+  'invisibles': {}
+  'softWrap': true
+  'tabLength': 2
+  'tabs-to-spaces':
+    'onSave': 'untabify'
+```
+
+## Init
+Add the following to the Atom init file in `Atom > Open Your Init Script`
+```
+# Add semicolon at end of line
+editor = atom.workspace.getActiveEditor()tom.workspaceView.command 'custom:semicolonize', ->
+  editor.moveToEndOfLine()
+  editor.insertText(";\n")
+```
+
+## Keymapping
+Add the following to the Atom keymap file in `Atom > Open Your Keymap`
+```
+# Add semicolon to end of line wiht Alt + Enter
+'.editor:not(.mini)':
+  'alt-enter': 'custom:semicolonize'
+```
+
+# iTerm
 
 Load the themes:
 - Iterm > Preferences > Profiles > Colors

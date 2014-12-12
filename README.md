@@ -41,6 +41,7 @@ brew install brew-cask
 brew install tree
 brew cask install alfred
 brew cask install atom
+brew cask install boot2docker
 brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
@@ -50,6 +51,8 @@ brew cask install iterm2
 brew cask install istat-menus
 brew cask install little-snitch
 brew cask install spotify
+brew cask install vagrant
+brew cask install virtualbox
 brew install node
 brew install phantomjs
 brew install casperjs
@@ -67,6 +70,15 @@ brew cask alfred link
 ```
 If you'd rather have the apps in Applications instead of linked, open an app and move it to the "Applications" folder, and make sure it stops asking you about that
 
+### [Composer](https://getcomposer.org)
+Installation
+```
+brew update
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew install composer
+```
+I needed to install php53-56. Had to run `brew install php53 php54 php55 php56`. Ran into issues and had to run `sudo chown -R `whoami` /usr/local` followed by  `brew link libtool`
 
 ### YoGuBo
 

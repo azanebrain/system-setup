@@ -56,6 +56,7 @@ brew cask install virtualbox
 brew install node
 brew install phantomjs
 brew install casperjs
+brew install android-sdk
 sudo npm install -g yo coffee-script
 sudo gem install haml sass compass foundation 
 ```

@@ -98,7 +98,7 @@ I used Sublime Text for a while, but Atom operates closer to the terminal. You c
 
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
 ```
-apm install auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker todo-show autocomplete-plus tabs-to-spaces linter vertical-align
+apm install auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker todo-show autocomplete-plus tabs-to-spaces language-jade linter vertical-align
 ```
 
 ## Atom Config

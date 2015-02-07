@@ -39,6 +39,7 @@ $ brew cask search <your-app>
 ```
 brew install brew-cask
 brew install tree
+brew install git
 brew cask install alfred
 brew cask install atom
 brew cask install boot2docker

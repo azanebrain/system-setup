@@ -56,10 +56,11 @@ brew cask install vagrant
 brew cask install virtualbox
 brew install node
 brew install phantomjs
+brew install python
 brew install casperjs
 brew install android-sdk
-sudo npm install -g yo coffee-script
-sudo gem install haml sass compass foundation 
+sudo npm install -g yo coffee-script haml sass compass foundation 
+pip install stackit
 ```
 
 yo installs bower, grunt-cli

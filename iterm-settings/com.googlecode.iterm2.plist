@@ -649,13 +649,13 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>1707 76 214 309 1280 -280 1920 1058 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>79 322 924 485 0 0 1680 1028 </string>
+	<string>79 321 605 485 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>126 83 1088 932 0 0 1680 1028 </string>
+	<string>27 23 1221 954 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>538 81 1102 876 0 0 1680 1028 </string>
+	<string>1687 112 1474 791 1680 -30 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>0 364 969 655 0 0 1680 1028 </string>
+	<string>439 236 738 570 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>1933 91 585 451 1680 -30 1920 1058 </string>
 	<key>New Bookmarks</key>
@@ -2179,7 +2179,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2014-10-25T17:28:26Z</date>
+	<date>2015-02-01T04:42:58Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -2204,9 +2204,6 @@
 	<integer>10</integer>
 	<key>ToolbeltTools</key>
 	<array>
-		<string>Profiles</string>
-		<string>Jobs</string>
-		<string>Paste History</string>
 		<string>Notes</string>
 	</array>
 	<key>TripleClickSelectsFullWrappedLines</key>
@@ -9923,6 +9920,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>1.0.0.20140629</string>
+	<string>2.0.0.20141103</string>
 </dict>
 </plist>

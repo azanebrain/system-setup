@@ -37,6 +37,9 @@ If you need to search for your apps use:
 $ brew cask search <your-app>
 
 ```
+brew doctor
+brew update
+brew upgrade
 brew install brew-cask
 brew install tree
 brew install git

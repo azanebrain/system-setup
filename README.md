@@ -48,6 +48,7 @@ brew cask install atom
 brew cask install boot2docker
 brew cask install dropbox
 brew cask install firefox
+brew cask install flux
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install heroku-toolbelt

@@ -43,6 +43,7 @@ brew upgrade
 brew install brew-cask
 brew install tree
 brew install git
+brew install hub
 brew cask install alfred
 brew cask install atom
 brew cask install boot2docker

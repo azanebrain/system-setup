@@ -65,6 +65,7 @@ brew install phantomjs
 brew install python
 brew install casperjs
 brew install android-sdk
+brew install bradp/vv/vv
 sudo npm install -g yo coffee-script haml sass compass foundation 
 pip install stackit
 ```
@@ -98,6 +99,14 @@ npm install -g grunt-cli
 npm install -g grunt-init
 ```
 
+# [Vagrant](https://github.com/Varying-Vagrant-Vagrants/VVV)
+```
+cd ~/Sites
+hub clone Varying-Vagrant-Vagrants/VVV vvv
+```
+
+## [Variable VVV](https://github.com/bradp/vv)
+Set the default path in ~/.vv-config to the Sites dir. When you use `vv`, it will prompt you for the directory
 
 # [Atom](https://atom.io)
 I like [Atom](https://atom.io) because it is made for devs who just want to get going. The out of the box features and customizability encompass the ideals that every IDE strives to provide to its user base. 

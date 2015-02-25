@@ -105,6 +105,11 @@ cd ~/Sites
 hub clone Varying-Vagrant-Vagrants/VVV vvv
 ```
 
+Bash profile:
+```bash
+alias v='vagrant'
+```
+
 ## [Variable VVV](https://github.com/bradp/vv)
 Set the default path in ~/.vv-config to the Sites dir. When you use `vv`, it will prompt you for the directory
 

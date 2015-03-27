@@ -198,6 +198,7 @@ Need to find a JS/Coffeescript linter
 - Sublime FTP
 - - (create a connection by saving the file to: 
 - Search WordPress Codex
+- WordPress (by purplefish32)
 - Zen Tabs
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter-for-ST2)
 - [Sublime Alignment](http://wbond.net/sublime_packages/alignment)

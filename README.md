@@ -52,6 +52,10 @@ brew cask install spotify
 brew cask install vagrant
 brew cask install virtualbox
 brew install node
+# Run npm globally without sudo. See: http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo
+sudo chown -R `whoami` ~/.npm
+sudo chown -R `whoami` /usr/local/lib/node_modules
+# Back to other brews
 brew install phantomjs
 brew install python
 brew install casperjs
@@ -64,8 +68,6 @@ brew cask install electric-sheep
 ```
 
 yo installs bower, grunt-cli
-
- quick note on getting errors running npm without sudo. Make sure you own npm, or install with homebrew: [SO question on ](http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
 
 Link alfred:
 ```

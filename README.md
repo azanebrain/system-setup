@@ -7,16 +7,6 @@ Maybe one day there'll be dot files...
 
 cd ~/.ssh; ssh-keygen -t rsa -C "your_email@example.com"; ssh-add id_rsa
 
-Mac Settings
-============
-- Turn dock hiding on/off
-- Turn off 'Windows Space' to get into spotlight
-- View hidden files:
-- 
-```
-defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
-```
-
 Homebrew and Cask
 ============
 
@@ -48,7 +38,7 @@ brew cask install alfred
 brew cask install atom
 brew cask install boot2docker
 brew cask install dropbox
-brew cask install electric-sheep
+brew cask fetch electric-sheep
 brew cask install firefox
 brew cask install flux
 brew cask install google-chrome
@@ -69,6 +59,8 @@ brew install android-sdk
 brew install bradp/vv/vv
 sudo npm install -g yo coffee-script haml sass compass foundation 
 pip install stackit
+# Install applications that require a password (all have already been fetched)
+brew cask install electric-sheep
 ```
 
 yo installs bower, grunt-cli
@@ -98,6 +90,19 @@ Yeoman / Grunt / Bower
 ```
 npm install -g grunt-cli
 npm install -g grunt-init
+```
+
+Mac Settings
+============
+- Turn dock hiding on/off
+- Turn off 'Windows Space' to get into spotlight
+- Run these bash commands: 
+```
+# View hidden files in the Finder
+defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
+# Set the screen saver time limit to 20min (1,200 seconds)
+sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowIdleTime 1200 
+# didn't work: sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowModulePath "/Applications/Electric\ Sheep.app"
 ```
 
 # [Vagrant](https://github.com/Varying-Vagrant-Vagrants/VVV)

@@ -57,7 +57,7 @@ brew install python
 brew install casperjs
 brew install android-sdk
 brew install bradp/vv/vv
-sudo npm install -g yo coffee-script haml sass compass foundation 
+sudo npm install -g yo coffee-script haml sass compass foundation typescript
 pip install stackit
 # Install applications that require a password (all have already been fetched)
 brew cask install electric-sheep
@@ -126,7 +126,7 @@ I used Sublime Text for a while, but Atom operates closer to the terminal. You c
 
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
 ```
-apm install auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker todo-show autocomplete-plus tabs-to-spaces language-jade linter vertical-align
+apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker todo-show autocomplete-plus tabs-to-spaces language-jade linter vertical-align
 ```
 
 ## Atom Config

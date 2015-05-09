@@ -55,13 +55,14 @@ brew install node
 # Run npm globally without sudo. See: http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo
 sudo chown -R `whoami` ~/.npm
 sudo chown -R `whoami` /usr/local/lib/node_modules
-# Back to other brews
+# Back to what we were doing:
 brew install phantomjs
 brew install python
 brew install casperjs
 brew install android-sdk
 brew install bradp/vv/vv
-sudo npm install -g yo coffee-script haml sass compass foundation typescript
+# Node packages
+npm install -g yo coffee-script haml sass compass foundation tsd typescript
 pip install stackit
 # Install applications that require a password (all have already been fetched)
 brew cask install electric-sheep

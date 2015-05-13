@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "ec207350-2326-fb8d-7539-7fbcaaeb13a8"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "e8ed2432554e6b834141a535a1726b6e2833b3f8"
+  editor:
+    fontSize: 12
+    softWrap: true
+    invisibles: {}
+    showIndentGuide: true
+  core: {}
+  linter: {}
+  "autocomplete-plus": {}
+  whitespace:
+    ignoreWhitespaceOnlyLines: true
+    ensureSingleTrailingNewline: false
+    removeTrailingWhitespace: false

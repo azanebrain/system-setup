@@ -131,34 +131,9 @@ I used Sublime Text for a while, but Atom operates closer to the terminal. You c
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
 ```
 apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker git-plus todo-show autocomplete-plus tabs-to-spaces language-jade linter vertical-align
-```
-
-## Atom Config
-Add the following to the Atom config file in  `Atom > Open Your Config`
-```
-'editor':
-  'invisibles': {}
-  'softWrap': true
-  'tabLength': 2
-  'tabs-to-spaces':
-    'onSave': 'untabify'
-```
-
-## Init
-Add the following to the Atom init file in `Atom > Open Your Init Script`
-```
-# Add semicolon at end of line
-editor = atom.workspace.getActiveEditor()tom.workspaceView.command 'custom:semicolonize', ->
-  editor.moveToEndOfLine()
-  editor.insertText(";\n")
-```
-
-## Keymapping
-Add the following to the Atom keymap file in `Atom > Open Your Keymap`
-```
-# Add semicolon to end of line wiht Alt + Enter
-'.editor:not(.mini)':
-  'alt-enter': 'custom:semicolonize'
+# Configure Atom settings
+# This will put the settings file into the Atom folder, you can do this manually by copying the contents of each config file and pasting into each of the settings (Atom > Settings / Keymap / Init / etc)
+cp atom/* ~/.atom/
 ```
 
 # iTerm

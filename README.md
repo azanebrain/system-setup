@@ -100,12 +100,12 @@ Mac Settings
 ============
 - Turn dock hiding on/off
 - Turn off 'Windows Space' to get into spotlight
-- Run these bash commands: 
+- Run these bash commands:
 ```
 # View hidden files in the Finder
 defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
 # Set the screen saver time limit to 20min (1,200 seconds)
-sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowIdleTime 1200 
+sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowIdleTime 1200
 # didn't work: sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowModulePath "/Applications/Electric\ Sheep.app"
 ```
 
@@ -124,13 +124,13 @@ alias v='vagrant'
 Set the default path in ~/.vv-config to the Sites dir. When you use `vv`, it will prompt you for the directory
 
 # [Atom](https://atom.io)
-I like [Atom](https://atom.io) because it is made for devs who just want to get going. The out of the box features and customizability encompass the ideals that every IDE strives to provide to its user base. 
+I like [Atom](https://atom.io) because it is made for devs who just want to get going. The out of the box features and customizability encompass the ideals that every IDE strives to provide to its user base.
 
-I used Sublime Text for a while, but Atom operates closer to the terminal. You can do a lot more through key commands and the stuff I care about (terminal functionality, package mangement, git integration) is baked in with zero configuration needed. 
+I used Sublime Text for a while, but Atom operates closer to the terminal. You can do a lot more through key commands and the stuff I care about (terminal functionality, package mangement, git integration) is baked in with zero configuration needed.
 
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
 ```
-apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker todo-show autocomplete-plus tabs-to-spaces language-jade linter vertical-align
+apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker git-plus todo-show autocomplete-plus tabs-to-spaces language-jade linter vertical-align
 ```
 
 ## Atom Config
@@ -165,7 +165,7 @@ Add the following to the Atom keymap file in `Atom > Open Your Keymap`
 
 Load the themes:
 - Iterm > Preferences > Profiles > Colors
-- Under Load Presets > Import 
+- Under Load Presets > Import
 - Select all of the color schemes
 - Select the default profile
 - Select the color scheme you want
@@ -206,7 +206,7 @@ Need to find a JS/Coffeescript linter
 - Syntax Highlighting for Sass
 - - (enable with: View -> Syntax -> Syntax Highlighting for Sass)
 - Sublime FTP
-- - (create a connection by saving the file to: 
+- - (create a connection by saving the file to:
 - Search WordPress Codex
 - WordPress (by purplefish32)
 - Zen Tabs

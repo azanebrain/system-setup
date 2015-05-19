@@ -130,7 +130,7 @@ I used Sublime Text for a while, but Atom operates closer to the terminal. You c
 
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
 ```
-apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker git-plus todo-show autocomplete-plus tabs-to-spaces language-jade linter merge-conflicts vertical-align
+apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker git-plus todo-show autocomplete-plus tabs-to-spaces language-jade linter merge-conflicts project-manager vertical-align
 # Configure Atom settings
 # This will put the settings file into the Atom folder, you can do this manually by copying the contents of each config file and pasting into each of the settings (Atom > Settings / Keymap / Init / etc)
 cp atom/* ~/.atom/

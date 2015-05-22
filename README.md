@@ -77,6 +77,11 @@ brew cask alfred link
 ```
 If you'd rather have the apps in Applications instead of linked, open an app and move it to the "Applications" folder, and make sure it stops asking you about that
 
+### [StackIt](https://github.com/lukasschwab/stackit)
+The essential sidekick to any superhero developer. 
+stackit sends smart StackOverflow queries from your command line. 
+stackitfor.me -- Created at SB Hacks 2015. 
+
 ### [Composer](https://getcomposer.org)
 Installation
 ```

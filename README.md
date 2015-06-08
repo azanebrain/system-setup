@@ -56,6 +56,8 @@ brew install node
 # Run npm globally without sudo. See: http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo
 sudo chown -R `whoami` ~/.npm
 sudo chown -R `whoami` /usr/local/lib/node_modules
+# Add NVM (node version manager)
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.4/install.sh | bash
 # Back to what we were doing:
 brew install phantomjs
 brew install python

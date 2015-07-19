@@ -29,7 +29,9 @@
 	ls = log --since=1.days --shortstat
 	m = merge
 	mt = mergetool
-        p = pull
+	p = pull
+  s = show
+  sname = show --name-only
 	t = tag
 
 	com = checkout master
@@ -43,8 +45,10 @@
 	pod = pull origin dev
 	pord = pull --rebase origin dev
 	pud = push origin dev
-        rom = rebase origin master
-        rod = rebase origin dev
+  rom = rebase origin master
+  rod = rebase origin dev
+	rm = rebase master
+	rd = rebase dev
 
 	pp = pull prod
 	ppr = pull --rebase prod
@@ -55,7 +59,7 @@
 	ppd = pull prod dev
 	pprd = pull --rebase prod dev
 	pupd = push prod dev
-        rpm = rebase prod master
-        rpd = rebase prod dev
+  rpm = rebase prod master
+  rpd = rebase prod dev
 [core]
 	editor = /usr/bin/vim

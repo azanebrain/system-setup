@@ -1,36 +1,45 @@
 # SYSTEM SETUP
 
-My web dev setup
+My computer setup, with a heavy dose of web dev tools and features.
+
+I'm still working on this. Hopefully someday all these steps will be in one bash file that will setup everything in a few minutes without any human intervention
+
+
 Maybe one day there'll be dot files...
 
 # RSA Key
 
-cd ~/.ssh; ssh-keygen -t rsa -C "your_email@example.com"; ssh-add id_rsa
+change `your_email@example.com` to whatever you use on services that require your SSH key.
 
-Homebrew and Cask
-============
+cd mkdir -p ~/.ssh && ~/.ssh && ssh-keygen -t rsa -C "your_email@example.com" && ssh-add id_rsa
 
-Start off by installing Homebrew (instructions [here](http://brew.sh/) )
+# Homebrew 
+This awesome tool will let you install so much awesome stuff directly from the terminal. 
 
-[RVM](https://rvm.io/)
+Follow the instructions to [install Homebrew](http://brew.sh/) (with curl) and [XCode](https://developer.apple.com/xcode/) will be installed.
 
-[XCode](https://developer.apple.com/xcode/)
+Follow this up with installing [RVM](https://rvm.io/) because you'll probably need it in the future.
 
-And the cask
-```
-brew tap phinze/homebrew-cask; brew install brew-cask
+And then Cask, the homebrew tool to install desktop applications (like Chrome, Alfred, iTerm, DropBox, etc)
 
 ```
+brew tap phinze/homebrew-cask && brew install brew-cask
+```
+
 Now install all your programs.
+
 If you need to search for your apps use:
 
-$ brew cask search <your-app>
+```
+brew cask search <your-app>
+```
 
 ```
+# Even though we just installed brew, update it 
 brew doctor
 brew update
 brew upgrade
-brew install brew-cask
+# Now install all our cool tools and applications
 brew install tree
 brew install git
 brew install hub
@@ -54,6 +63,7 @@ brew cask install vagrant
 brew cask install virtualbox
 brew install node
 # Run npm globally without sudo. See: http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo
+mkdir -p ~/.npm
 sudo chown -R `whoami` ~/.npm
 sudo chown -R `whoami` /usr/local/lib/node_modules
 # Add NVM (node version manager)
@@ -65,26 +75,45 @@ brew install casperjs
 brew install android-sdk
 brew install bradp/vv/vv
 # Node packages
-npm install -g yo coffee-script haml sass compass foundation tsd typescript
+npm install -g bower coffee-script compass foundation grunt grunt-cli haml sass tsd typescript yo
+
+# Other cli tools
+
+# [StackIt](https://github.com/lukasschwab/stackit)
+# The essential sidekick to any superhero developer. 
+# stackit sends smart StackOverflow queries from your command line. 
+# stackitfor.me -- Created at SB Hacks 2015. 
 pip install stackit
 # Install applications that require a password (all have already been fetched)
 brew cask install electric-sheep
+
+# Link the Alfred download path with brew-cask so you can use Alfred to open programs installed with brew
+# "Good news as of v2.6 Alfred now has first-cass support for casks out of the box"
+# brew cask alfred link
 ```
 
-yo installs bower, grunt-cli
+Open up Alfred for the first time because you'll probably be using it in the upcoming steps
 
-Link alfred:
 ```
-brew cask alfred link
+open ~/Applications/Alfred\ 2.app
 ```
-If you'd rather have the apps in Applications instead of linked, open an app and move it to the "Applications" folder, and make sure it stops asking you about that
 
-### [StackIt](https://github.com/lukasschwab/stackit)
-The essential sidekick to any superhero developer. 
-stackit sends smart StackOverflow queries from your command line. 
-stackitfor.me -- Created at SB Hacks 2015. 
+# SSH Keys
 
-### [Composer](https://getcomposer.org)
+Copy the public ssh key
+
+```
+pbcopy < ~/.ssh/id_rsa.pub
+```
+
+Add the SSH Key to all of your accounts:
+
+- [BitBucket](https://bitbucket.org/account/user/azanebrain/ssh-keys/)
+- [GitHub](https://github.com/settings/ssh)
+- [GitLab](https://gitlab.com/profile/keys/new)
+
+
+## [Composer](https://getcomposer.org)
 Installation
 ```
 brew update
@@ -94,19 +123,22 @@ brew install composer
 ```
 I needed to install php53-56. Had to run `brew install php53 php54 php55 php56`. Ran into issues and had to run `sudo chown -R `whoami` /usr/local` followed by  `brew link libtool`
 
-### YoGuBo
+# Mac Settings
 
-Yeoman / Grunt / Bower
-
-```
-npm install -g grunt-cli
-npm install -g grunt-init
-```
-
-Mac Settings
-============
 - Turn dock hiding on/off
 - Turn off 'Windows Space' to get into spotlight
+- Set the display resolution
+- mouse speed
+- that app that lets me type fast
+- keyboard changes (caps lock)
+- add colemak keyboard
+- set function preference (hold `fn` key to use F# features)
+- show power charge number in menu bar
+- default apps at launch
+- dock on left side
+- dock items
+- dark style
+- hotkey to change desktop
 - Run these bash commands:
 ```
 # View hidden files in the Finder
@@ -115,6 +147,14 @@ defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
 sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowIdleTime 1200
 # didn't work: sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowModulePath "/Applications/Electric\ Sheep.app"
 ```
+
+# Application Settings
+
+## Alfred
+
+- Color scheme: dark
+- anythign else?
+
 
 # [Vagrant](https://github.com/Varying-Vagrant-Vagrants/VVV)
 ```
@@ -151,30 +191,19 @@ Load the themes:
 - Select all of the color schemes
 - Select the default profile
 - Select the color scheme you want
-- _Themes from https://github.com/mbadolato/iTerm2-Color-Schemes_
+- _ Themes from https://github.com/mbadolato/iTerm2-Color-Schemes _
 
 Set the hotkey:
 - In Iterm > Preferences > Keys
 - Set the 'Show/Hide iTerm with a system-wide hotkey' to Apple+Space
 - Set the color scheme (Zenburn-hotkey) for this profile
 
-Chrome
-============
+# Chrome
 
-Extensions:
-- Colorzilla
-- [Developer Tools Dark Theme](http://howchoo.com/g/tell-chrome-developer-tools-to-use-a-dark-theme)
-- Vimium
-- GTasks
-- MeasureIt
-- Window Resizer
-- OneTab
-- Instrumente
-- [Visual Event](http://www.sprymedia.co.uk/article/Visual+Event+2)
-- [Markdown Reader](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc/details?hl=en) (make sure to enable 'Allow File URLs' through chrome://extensions
+- Extensions are stored in the cloud so they are downloaded as soon as you log in.
+- Hold Cmd + Q to quit
 
-Sublime Text 2
-============
+# Sublime Text 2
 
 Settings: Copy the Preferences.sublime-settings into the user settings ( command + , )
 
@@ -223,8 +252,7 @@ Setup: Add the eolsemicolon.sublime-macro file to the Packages directory. Open i
 
 Copy the contents of the keymap file (to Default (OSX).sublime-keymap) to the user keybindings (Preferences > Key Bindings - User), or copy the file to the same Packages directory as the macro file.
 
-Git Aliases
-============
+# Git Aliases
 
 Bash profile:
 ```bash
@@ -237,8 +265,7 @@ See .gitconfig
 
 All commands can be used with arguments. For example, the `po` and `pu` commands can be followed by the branch that you want to push/pull, and the `ci` command can be followed by your commit message.
 
-GitHub
-============
+# GitHub
 
 Add the [SSH key](https://github.com/settings/ssh)
 - Copy with: pbcopy < ~/.ssh/id_rsa.pub
@@ -254,8 +281,8 @@ Add the [SSH key](https://github.com/settings/ssh)
 Use with =user and ~label
 
 
-AMPPS
-===
+# AMPPS
+
 - [Download](http://www.ampps.com/download)
 - Turn on the Apache server and go to [http://localhost/ampps](http://localhost/ampps)
 - Make a new domain (such as mysite.dev)
@@ -295,8 +322,8 @@ sudo mv /usr/bin/php /usr/bin/php-backup
 sudo ln -s /Applications/AMPPS/php/bin/php /usr/bin/php
 ```
 
-Key Remap
-============
+# Key Remap
+
 [KeyRemap4MacBook](https://pqrs.org/macosx/keyremap4macbook/)
 
 - Decrease the key repeat

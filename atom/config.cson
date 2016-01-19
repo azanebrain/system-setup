@@ -6,10 +6,10 @@
   metrics:
     userId: "e8ed2432554e6b834141a535a1726b6e2833b3f8"
   editor:
-    fontSize: 12
     softWrap: true
     invisibles: {}
     showIndentGuide: true
+    fontSize: 12
   core: {}
   linter: {}
   "autocomplete-plus": {}
@@ -17,3 +17,6 @@
     ignoreWhitespaceOnlyLines: true
     ensureSingleTrailingNewline: false
     removeTrailingWhitespace: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "atom-typescript": {}

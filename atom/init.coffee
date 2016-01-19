@@ -14,7 +14,7 @@
 #     editor.setSoftWrapped(true)
 
 # Add semicolon at end of line
-editor = atom.workspace.getActiveEditor()
-atom.workspaceView.command 'custom:semicolonize', ->
-  editor.moveToEndOfLine()
-  editor.insertText(";\n")
+# editor = atom.workspace.getActiveEditor()
+# atom.workspaceView.command 'custom:semicolonize', ->
+#   editor.moveToEndOfLine()
+#   editor.insertText(";\n")

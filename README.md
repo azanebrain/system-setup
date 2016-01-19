@@ -4,8 +4,15 @@ My computer setup, with a heavy dose of web dev tools and features.
 
 I'm still working on this. Hopefully someday all these steps will be in one bash file that will setup everything in a few minutes without any human intervention
 
-
 Maybe one day there'll be dot files...
+
+NOTE: Watch out for `newmachinename`. This should be replaced with the name of the new machine.
+
+# Setup folders
+
+```
+mkdir ~/Sites
+```
 
 # RSA Key
 
@@ -13,10 +20,10 @@ change `your_email@example.com` to whatever you use on services that require you
 
 cd mkdir -p ~/.ssh && ~/.ssh && ssh-keygen -t rsa -C "your_email@example.com" && ssh-add id_rsa
 
-# Homebrew 
-This awesome tool will let you install so much awesome stuff directly from the terminal. 
+# Homebrew
+This awesome tool will let you install so much awesome stuff directly from the terminal.
 
-Follow the instructions to [install Homebrew](http://brew.sh/) (with curl) and [XCode](https://developer.apple.com/xcode/) will be installed.
+Follow the instructions to [install Homebrew](http://brew.sh/) (with curl).
 
 Follow this up with installing [RVM](https://rvm.io/) because you'll probably need it in the future.
 
@@ -35,7 +42,7 @@ brew cask search <your-app>
 ```
 
 ```
-# Even though we just installed brew, update it 
+# Even though we just installed brew, update it
 brew doctor
 brew update
 brew upgrade
@@ -43,9 +50,19 @@ brew upgrade
 brew install tree
 brew install git
 brew install hub
+# PHP
+# To install other version of PHP scroll down to the PHP section
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew install php56
+# Composer
+curl -sS https://getcomposer.org/installer | php
+sudo mv composer.phar /usr/bin/
+# Desktop tools
 brew cask install alfred
 brew cask install atom
 brew cask install boot2docker
+brew cask install commander-one
 brew cask install dropbox
 brew cask fetch electric-sheep
 brew cask install firefox
@@ -53,14 +70,20 @@ brew cask install flux
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install heroku-toolbelt
+brew cask install hipchat
 brew cask install iterm2
 brew cask install istat-menus
+brew cask install karabiner
 brew cask install little-snitch
 brew cask install rescuetime
 brew cask install sequel-pro
+brew cask install skype
+brew cask install slack
+brew cask install spectacle
 brew cask install spotify
 brew cask install vagrant
 brew cask install virtualbox
+brew cask install vlc
 brew install node
 # Run npm globally without sudo. See: http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo
 mkdir -p ~/.npm
@@ -74,15 +97,36 @@ brew install python
 brew install casperjs
 brew install android-sdk
 brew install bradp/vv/vv
+
 # Node packages
-npm install -g bower coffee-script compass foundation grunt grunt-cli haml sass tsd typescript yo
+npm install -g bower caniuse-cmd coffee-script compass foundation grunt grunt-cli haml localtunnel sass tsd typescript yo
+
+# Ruby Gems
+gem install bundler
+
+# Vagrant
+vagrant plugin install vagrant-hostsupdater
+vagrant plugin install vagrant-triggers
+
+# WP Cli
+curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+chmod +x wp-cli.phar
+sudo mv wp-cli.phar /usr/local/bin/wp
+
+# Configure Apps
+
+# Enable https as default for Hub
+git config --global hub.protocol https
+
+# Install Atom Packages
+apm install atom-ternjs atom-typescript auto-update-packages docblockr emmet file-icons color-picker git-plus todo-show tabs-to-spaces language-jade language-typescript linter merge-conflicts project-manager vertical-align
 
 # Other cli tools
 
 # [StackIt](https://github.com/lukasschwab/stackit)
-# The essential sidekick to any superhero developer. 
-# stackit sends smart StackOverflow queries from your command line. 
-# stackitfor.me -- Created at SB Hacks 2015. 
+# The essential sidekick to any superhero developer.
+# stackit sends smart StackOverflow queries from your command line.
+# stackitfor.me -- Created at SB Hacks 2015.
 pip install stackit
 # Install applications that require a password (all have already been fetched)
 brew cask install electric-sheep
@@ -90,15 +134,204 @@ brew cask install electric-sheep
 # Link the Alfred download path with brew-cask so you can use Alfred to open programs installed with brew
 # "Good news as of v2.6 Alfred now has first-cass support for casks out of the box"
 # brew cask alfred link
-```
 
-Open up Alfred for the first time because you'll probably be using it in the upcoming steps
+# TODO:
+# [Vundle](https://github.com/gmarik/Vundle.vim): Follow the [quick start instructions](https://github.com/gmarik/Vundle.vim#quick-start)
+# [WP-CLI Bash completion](https://github.com/wp-cli/wp-cli/raw/master/utils/wp-completion.bash)
 
-```
+# Open some programs that need you to authorize their security requirements
 open ~/Applications/Alfred\ 2.app
+open ~/Applications/Dropbox.app
+open ~/Applications/Google\ Drive.app
+open /Applications/Karabiner.app
+open ~/Applications/Spectacle.app
+
+# Mac Settings
+# TODO:
+  - Turn dock hiding on/off
+  - Enable the computer to run while closed
+  - Turn off 'Windows Space' to get into spotlight
+  - Set the display resolution
+  - that app that lets me type fast
+  - keyboard changes (caps lock)
+  - add colemak keyboard
+  - set function preference (hold `fn` key to use F# features)
+  - show power charge number in menu bar
+  - default apps at launch
+  - dock on left side
+  - dock items
+  - dark style
+  - hotkey to change desktop
+  - file endings in finder browser
+  - Programs on startup
+    - Chrome
+    - f.lux
+    - hipchat
+    - iTerm
+    - Slack
+    - Spectacle
+    
+# View hidden files in the Finder
+defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
+# Set clock to 24 hour format
+defaults write com.apple.menuextra.clock DateFormat -string 'EEE MMM d  H:mm'
+# Set the screen saver time limit to 20min (1,200 seconds)
+sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowIdleTime 1200
+# Set correct scroll direction
+defaults write -g com.apple.swipescrolldirection -bool FALSE
+# Increase mouse tracking speed
+defaults write -g com.apple.mouse.scaling 3
+# Increase scroll wheel speed
+defaults write -g com.apple.scrollwheel.scaling -float 1
+# Enable press and hold to decrease key repeat time 
+defaults write -g ApplePressAndHoldEnabled -bool false
+# TODO: Figure out if these commands had an impact after restarting
+# Enable tap to click
+defaults -currentHost write -globalDomain com.apple.mouse.tapBehavior -int 1
+
+# Dock settings
+# Autohide the dock
+defaults write com.apple.dock autohide -bool true
+# Only show active apps
+defaults write com.apple.dock static-only -bool TRUE
+# Show the hidden state of apps
+defaults write com.apple.dock showhidden -bool TRUE
+# Remove the Auto-Hide Dock Delay 
+defaults write com.apple.dock autohide-time-modifier -float 1
+killall Dock
+
+# Restart the machine
+sudo shutdown -r
 ```
 
-# SSH Keys
+# [XCode](https://developer.apple.com/xcode/) 
+
+XCode must be installed through the App Store
+
+# Symlinking Important Config Files to Google Drive
+
+Maybe I'll change this one day, or add it to the big script, but for now, I create symbolic links for my important config and settings files to Google Drive since it has auto backup and revision history.
+
+```
+# Atom
+rm ~/.atom/config.cson ~/.atom/keymap.cson ~/.atom/styles.less ~/.atom/init.coffee ~/.atom/snippets.cson
+ln -s $PWD/atom/config.cson ~/.atom/config.cson
+ln -s $PWD/atom/keymap.cson ~/.atom/keymap.cson
+ln -s $PWD/atom/styles.less ~/.atom/styles.less
+ln -s $PWD/atom/init.coffee ~/.atom/init.coffee
+ln -s $PWD/atom/snippets.cson ~/.atom/snippets.cson
+
+# Bash Profile
+rm ~/.bash_profile
+ln -s ~/Google\ Drive/My-Programming/.bash_profile ~/.bash_profile 
+
+# Git 
+## Auto complete
+ln -s $PWD/git/git-completion.bash ~/git-completion.bash
+## Configuration
+ln -s $PWD/git/.gitconfig ~/.gitconfig
+
+# Sequel Pro Favorites
+# TODO: Linking from Google Drive has no impact because Sequel Pro doesn't update the file, it replaces it
+# rm ~/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist 
+# ln -s ~/Google\ Drive/My-Programming/Favorites-sqlpro.plist ~/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist 
+ln -s ~/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist ~/Google\ Drive/My-Programming/Favorites-sqlpro-newmachinename.plist 
+ln -s ~/Library/Application\ Support/Sequel\ Pro/Data/Favorites.plist ~/Google\ Drive/My-Programming/Favorites-sqlpro-newmachinename.plist
+
+# Karabiner - key remapping and speeding up the keystroke delay
+# @see https://pqrs.org/macosx/keyremap4macbook/
+sudo rm /Applications/Karabiner.app/Contents/Resources/private.xml && sudo ln -s $PWD/karabiner/private.xml /Applications/Karabiner.app/Contents/Resources/private.xml
+
+#TODO:
+# gitconfig
+# [Variable VVV](https://github.com/bradp/vv) : Set the default path in ~/.vv-config to the Sites dir. When you use `vv`, it will prompt you for the directory
+# .vimrc
+```
+
+# Other methods of installing these tools
+
+## [Composer](https://getcomposer.org)
+
+Trying to install Composer with Brew caused issues for me. If you want to do composer try this:
+
+```
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew install composer
+```
+
+I needed to install php53-56. Had to run `brew install php53 php54 php55 php56`. Ran into issues and had to run `sudo chown -R `whoami` /usr/local` followed by  `brew link libtool`
+
+## PHP
+
+Since `PHP` is symbolically linked to a specific version, you can't install multiple versions at the same time. To install different versions, just change the number where it is MAJORVERSION MINORVERSION (so: 5.6 is 56, 5.3 is 53, etc)
+
+```
+# Install PHP version 5.3
+brew install php53
+```
+
+# Application Settings
+
+## Alfred
+
+- Color scheme: dark
+- anything else?
+
+## Chrome
+
+__Note: I use Chrome Canary as my default Chrome. It used to be kinda janky, but now it's solid. Gotta love those bleeding edge upgrades__
+
+- Set the default: System Preferences > General > Default Web Browser
+- Extensions are stored in the cloud so they are downloaded as soon as you log in.
+- To enable the "Hold Cmd + Q to quit" option: Under Chrome in the toolbar, select "Warn Before Quitting"
+
+## Commander One
+
+- View hidden files
+
+View
+
+- Show full file name
+
+Appearance
+
+- Theme: Novel
+
+## iTerm
+
+TODO: Can these be symlinked?
+
+Load the themes:
+- Iterm > Preferences > Profiles > Colors
+- Under Load Presets > Import
+- Select all of the color schemes
+- Select the default profile
+- Select the color scheme (Monokai Soda / Solorized Dark / Neopolitan depending on my mood)
+- _ Themes from https://github.com/mbadolato/iTerm2-Color-Schemes _
+
+Set the hotkey:
+
+- In Iterm > Preferences > Keys
+- Set the 'Show/Hide iTerm with a system-wide hotkey' to Apple+Space
+- Set the color scheme (Zenburn-hotkey) for this profile
+
+## Karabiner
+
+Open up the settings (open Karabiner with Alfred), Under the 'Change Key' menu click the 'Reload XML' button
+
+Under Basic Configuration > Key repeat
+
+- Delay Until Repeat: 100ms
+- Key Repeat: 13ms
+
+## Scripts
+
+A selection of useful automation tasks like pausing YouTube located in /scripts. Can be added to Alfred if you have workflows, or saved run from Spotlight
+
+Props to [zach loubier](https://gist.github.com/zachloubier/9b07fd21292a7dfb92d9) for the scripts that control YouTube from the command line. They assume that you are using Chrome Canary. Update to your fav browser.
+
+## SSH Keys
 
 Copy the public ssh key
 
@@ -112,98 +345,28 @@ Add the SSH Key to all of your accounts:
 - [GitHub](https://github.com/settings/ssh)
 - [GitLab](https://gitlab.com/profile/keys/new)
 
+## Spectacle
 
-## [Composer](https://getcomposer.org)
-Installation
-```
-brew update
-brew tap homebrew/dupes
-brew tap homebrew/php
-brew install composer
-```
-I needed to install php53-56. Had to run `brew install php53 php54 php55 php56`. Ran into issues and had to run `sudo chown -R `whoami` /usr/local` followed by  `brew link libtool`
+- Run: as a background service
 
-# Mac Settings
+## System Preferences
 
-- Turn dock hiding on/off
-- Turn off 'Windows Space' to get into spotlight
-- Set the display resolution
-- mouse speed
-- that app that lets me type fast
-- keyboard changes (caps lock)
-- add colemak keyboard
-- set function preference (hold `fn` key to use F# features)
-- show power charge number in menu bar
-- default apps at launch
-- dock on left side
-- dock items
-- dark style
-- hotkey to change desktop
-- Run these bash commands:
-```
-# View hidden files in the Finder
-defaults write com.apple.finder AppleShowAllFiles TRUE; killall Finder
-# Set the screen saver time limit to 20min (1,200 seconds)
-sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowIdleTime 1200
-# didn't work: sudo defaults write /Library/Preferences/com.apple.screensaver loginWindowModulePath "/Applications/Electric\ Sheep.app"
-```
+Change CAPS Lock and Ctrl
 
-# Application Settings
+- Open up System Preferences -> Keyboard
+- Open the Modifier Keys menu
+- Fight off that carpel tunnel
 
-## Alfred
+# IDE / Text Editor
 
-- Color scheme: dark
-- anythign else?
-
-
-# [Vagrant](https://github.com/Varying-Vagrant-Vagrants/VVV)
-```
-cd ~/Sites
-hub clone Varying-Vagrant-Vagrants/VVV vvv
-```
-
-Bash profile:
-```bash
-alias v='vagrant'
-```
-
-## [Variable VVV](https://github.com/bradp/vv)
-Set the default path in ~/.vv-config to the Sites dir. When you use `vv`, it will prompt you for the directory
-
-# [Atom](https://atom.io)
+## [Atom](https://atom.io)
 I like [Atom](https://atom.io) because it is made for devs who just want to get going. The out of the box features and customizability encompass the ideals that every IDE strives to provide to its user base.
 
-I used Sublime Text for a while, but Atom operates closer to the terminal. You can do a lot more through key commands and the stuff I care about (terminal functionality, package mangement, git integration) is baked in with zero configuration needed.
+I used Sublime Text for a while, but Atom operates closer to the terminal. You can do a lot more through key commands and the stuff I care about (terminal functionality, package management, git integration) is baked in with zero configuration needed. That being said, I still jump between the two every few months...
 
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
-```
-apm install atom-typescript auto-update-packages emmet file-icons resize-panes atom-color-highlight color-picker git-plus todo-show autocomplete-plus tabs-to-spaces language-jade linter merge-conflicts project-manager vertical-align
-# Configure Atom settings
-# This will put the settings file into the Atom folder, you can do this manually by copying the contents of each config file and pasting into each of the settings (Atom > Settings / Keymap / Init / etc)
-cp atom/* ~/.atom/
-```
 
-# iTerm
-
-Load the themes:
-- Iterm > Preferences > Profiles > Colors
-- Under Load Presets > Import
-- Select all of the color schemes
-- Select the default profile
-- Select the color scheme you want
-- _ Themes from https://github.com/mbadolato/iTerm2-Color-Schemes _
-
-Set the hotkey:
-- In Iterm > Preferences > Keys
-- Set the 'Show/Hide iTerm with a system-wide hotkey' to Apple+Space
-- Set the color scheme (Zenburn-hotkey) for this profile
-
-# Chrome
-
-- Extensions are stored in the cloud so they are downloaded as soon as you log in.
-- Hold Cmd + Q to quit
-
-# Sublime Text 2
+## Sublime Text 2
 
 Settings: Copy the Preferences.sublime-settings into the user settings ( command + , )
 
@@ -252,25 +415,12 @@ Setup: Add the eolsemicolon.sublime-macro file to the Packages directory. Open i
 
 Copy the contents of the keymap file (to Default (OSX).sublime-keymap) to the user keybindings (Preferences > Key Bindings - User), or copy the file to the same Packages directory as the macro file.
 
-# Git Aliases
+========================================================================================================
 
-Bash profile:
-```bash
-alias g='git'
-```
+## Github Shinies for changing assignee, label, and milestone through commit messages
 
-Either add these to .git/config for your individual project, or to your global git configuration file (~/.gitconfig) or with: `git config --global --edit`
+I never got this working... does this work?
 
-See .gitconfig
-
-All commands can be used with arguments. For example, the `po` and `pu` commands can be followed by the branch that you want to push/pull, and the `ci` command can be followed by your commit message.
-
-# GitHub
-
-Add the [SSH key](https://github.com/settings/ssh)
-- Copy with: pbcopy < ~/.ssh/id_rsa.pub
-
-## Github Shinies for changing assignee, label, and milestone through commit messages ##
 - (from http://www.reigndesign.com/blog/adding-labels-and-re-assigning-github-issues-via-commit-message/)
 - heroku login
 - git clone git@github.com:joshrendek/github-postcommit-shinies.git; cd github-postcommit-shinies; sudo gem install heroku bundler; bundle install
@@ -280,8 +430,9 @@ Add the [SSH key](https://github.com/settings/ssh)
 
 Use with =user and ~label
 
-
 # AMPPS
+
+I don't use AMPPS anymore. I prefer spinning up a quick environment in Vagrant. But if you're in the kind of situation or time crunch were you really can't take the 40 minutes to setup a new Vagrant environment, hopefully this will help:
 
 - [Download](http://www.ampps.com/download)
 - Turn on the Apache server and go to [http://localhost/ampps](http://localhost/ampps)
@@ -293,26 +444,6 @@ Use with =user and ~label
 export PATH="/Applications/AMPPS/mysql/bin:$PATH"
 ```
 
-# VIM
-
-Copy the .vimrc file to ~
-
-## [Vundle](https://github.com/gmarik/Vundle.vim)
-
-Follow the [quick start instructions](https://github.com/gmarik/Vundle.vim#quick-start)
-
-### Non-Vundle packages
-
-[WP Cli](http://wp-cli.org/)
-===
-```
-curl -L https://raw.github.com/wp-cli/builds/gh-pages/phar/wp-cli.phar > wp-cli.phar; chmod +x wp-cli.phar; sudo mv wp-cli.phar /usr/bin/wp
-```
-
-Test with `wp`
-
-## [Bash completion](https://github.com/wp-cli/wp-cli/raw/master/utils/wp-completion.bash)
-
 ## Errors with LAMP stacks:
 
 - See [this FAQ item on setting up with MAMP](https://github.com/wp-cli/wp-cli/wiki/FAQ#error-cant-connect-to-the-database)
@@ -321,17 +452,3 @@ Test with `wp`
 sudo mv /usr/bin/php /usr/bin/php-backup
 sudo ln -s /Applications/AMPPS/php/bin/php /usr/bin/php
 ```
-
-# Key Remap
-
-[KeyRemap4MacBook](https://pqrs.org/macosx/keyremap4macbook/)
-
-- Decrease the key repeat
-- Open up the settings, get to the private.xml, replace it with this custom one (keymap/private.xml)
-- Back in the Change Key tab click ReloadXML. The custom definitions will be at the top
-
-# Bigger Notes Dashboard Widget
-
-Provides a bigger note-taking space in the Dashboard
-
-https://github.com/fauria/bigger-notes

@@ -74,6 +74,7 @@ brew cask install hipchat
 brew cask install iterm2
 brew cask install istat-menus
 brew cask install karabiner
+brew cask install licecap #gif screenrecording
 brew cask install little-snitch
 brew cask install rescuetime
 brew cask install sequel-pro

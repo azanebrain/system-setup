@@ -281,8 +281,6 @@ brew install php53
 
 ## Chrome
 
-__Note: I use Chrome Canary as my default Chrome. It used to be kinda janky, but now it's solid. Gotta love those bleeding edge upgrades__
-
 - Set the default: System Preferences > General > Default Web Browser
 - Extensions are stored in the cloud so they are downloaded as soon as you log in.
 - To enable the "Hold Cmd + Q to quit" option: Under Chrome in the toolbar, select "Warn Before Quitting"
@@ -330,7 +328,11 @@ Under Basic Configuration > Key repeat
 
 A selection of useful automation tasks like pausing YouTube located in /scripts. Can be added to Alfred if you have workflows, or saved run from Spotlight
 
-Props to [zach loubier](https://gist.github.com/zachloubier/9b07fd21292a7dfb92d9) for the scripts that control YouTube from the command line. They assume that you are using Chrome Canary. Update to your fav browser.
+Run them from the terminal by adding an alias to your .bash_profile file (where SCRIPTS_PATH is the path to the script file):
+
+alias youtubepauseplay='osascript '$SCRIPTS_PATH'/youtube_play_pause.scpt'
+
+Props to [zach loubier](https://gist.github.com/zachloubier/9b07fd21292a7dfb92d9) for the scripts that control YouTube from the command line. They assume that you are using Google Chrome. Update to your fav browser.
 
 ## SSH Keys
 

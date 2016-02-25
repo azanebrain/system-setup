@@ -1,22 +1,21 @@
 "*":
-  "exception-reporting":
-    userId: "ec207350-2326-fb8d-7539-7fbcaaeb13a8"
-  welcome:
-    showOnStartup: false
-  metrics:
-    userId: "e8ed2432554e6b834141a535a1726b6e2833b3f8"
+  "atom-typescript": {}
+  "autocomplete-plus": {}
+  core: {}
   editor:
-    softWrap: true
     invisibles: {}
     showIndentGuide: true
-    fontSize: 12
-  core: {}
+    softWrap: true
+  "exception-reporting":
+    userId: "ec207350-2326-fb8d-7539-7fbcaaeb13a8"
   linter: {}
-  "autocomplete-plus": {}
-  whitespace:
-    ignoreWhitespaceOnlyLines: true
-    ensureSingleTrailingNewline: false
-    removeTrailingWhitespace: false
+  metrics:
+    userId: "e8ed2432554e6b834141a535a1726b6e2833b3f8"
   "tree-view":
     hideVcsIgnoredFiles: true
-  "atom-typescript": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false
+    ignoreWhitespaceOnlyLines: true
+    removeTrailingWhitespace: false

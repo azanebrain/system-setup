@@ -16,6 +16,7 @@
 	cp = cherry-pick
 	d = diff
 	dname = diff --name-only
+	dstat = diff --name-status
 	st = status -sb
 	fall = fetch --all
 	ftags = fetch --tags
@@ -23,12 +24,13 @@
 	k = !gitk
 	l = log
 	lg = log --graph
-	lname = log --name-status
+	lname = log --name-only
 	lnomerge = log --no-merges
 	lp = log -p
 	lo = log --oneline --graph --all --decorate
 	loo = log --oneline
 	ls = log --since=1.days --shortstat
+	lstat = log --name-status
 	m = merge
 	mt = mergetool
 	p = pull
@@ -36,11 +38,12 @@
 	rb = rebase
 	rv = remote -v
   s = show
+  sname = show --name-only
+  sstat = show --name-status
   sh = stash
   sha = stash apply
   shl = stash list
   shp = stash pop
-  sname = show --name-only
 	t = tag
 
 	com = checkout master

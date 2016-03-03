@@ -6,13 +6,14 @@
 	b = branch
 	br = branch -r
 	ci = commit
-        cia = commit --amend
-        ciaa = commit -a --amend
+  cia = commit --amend
+  ciaa = commit -a --amend
 	cim = commit -am
 	co = checkout
 	cob = checkout -b
 	cot = checkout -t
 	coto = !sh -c 'git checkout -t origin/$1' -
+	cp = cherry-pick
 	d = diff
 	dname = diff --name-only
 	st = status -sb
@@ -32,6 +33,7 @@
 	mt = mergetool
 	p = pull
 	r = remote
+	rb = rebase
 	rv = remote -v
   s = show
   sh = stash

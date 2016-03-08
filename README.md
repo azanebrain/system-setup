@@ -84,6 +84,7 @@ brew cask install spectacle
 brew cask install spotify
 brew cask install vagrant
 brew cask install virtualbox
+brew cask install visual-studio-code
 brew cask install vlc
 brew install node
 # Run npm globally without sudo. See: http://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo
@@ -418,6 +419,14 @@ Setup: Add the eolsemicolon.sublime-macro file to the Packages directory. Open i
 
 Copy the contents of the keymap file (to Default (OSX).sublime-keymap) to the user keybindings (Preferences > Key Bindings - User), or copy the file to the same Packages directory as the macro file.
 
+## Visual Studio 
+
+It's not my favorite IDE, but it does a hell of a great job at TypeScript.
+
+Symlink the settings JSON file:
+```
+ln -s ~/Sites/system-setup/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
+```
 ========================================================================================================
 
 ## Github Shinies for changing assignee, label, and milestone through commit messages

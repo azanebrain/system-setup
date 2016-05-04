@@ -11,6 +11,8 @@
 	cim = commit -am
 	co = checkout
 	cob = checkout -b
+	# Checkout and pull
+	copo = !sh -c 'git checkout $1 && git pull origin $1' -
 	cot = checkout -t
 	coto = !sh -c 'git checkout -t origin/$1' -
 	cp = cherry-pick
@@ -20,7 +22,6 @@
 	st = status -sb
 	fall = fetch --all
 	ftags = fetch --tags
-	gtfo = reset --hard HEAD
 	k = !gitk
 	l = log
 	lg = log --graph
@@ -35,6 +36,13 @@
 	mt = mergetool
 	p = pull
 	r = remote
+        re = reset
+        reh = reset --hard
+	# Fun resets
+        # Get out of there
+        gtfo = reset --hard HEAD 
+        # quickjump reset like Nightcrawler
+        bamf = reset --hard head^ 
 	rb = rebase
 	rv = remote -v
   s = show

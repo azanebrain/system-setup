@@ -6,39 +6,53 @@
 	b = branch
 	br = branch -r
 	ci = commit
-        cia = commit --amend
-        ciaa = commit -a --amend
+	cia = commit --amend
+	ciaa = commit -a --amend
 	cim = commit -am
 	co = checkout
 	cob = checkout -b
+	# Checkout and pull
+	copo = !sh -c 'git checkout $1 && git pull origin $1' -
 	cot = checkout -t
 	coto = !sh -c 'git checkout -t origin/$1' -
+	cp = cherry-pick
 	d = diff
 	dname = diff --name-only
+	dstat = diff --name-status
 	st = status -sb
 	fall = fetch --all
 	ftags = fetch --tags
-	gtfo = reset --hard HEAD
 	k = !gitk
 	l = log
+	last = log -1 HEAD
 	lg = log --graph
-	lname = log --name-status
+	lname = log --name-only
 	lnomerge = log --no-merges
 	lp = log -p
 	lo = log --oneline --graph --all --decorate
 	loo = log --oneline
 	ls = log --since=1.days --shortstat
+	lstat = log --name-status
 	m = merge
 	mt = mergetool
 	p = pull
 	r = remote
+	re = reset
+	reh = reset --hard
+	# Fun resets
+	# Get out of there
+	gtfo = reset --hard HEAD
+	# quickjump reset like Nightcrawler
+	bamf = reset --hard head^
+	rb = rebase
 	rv = remote -v
-  s = show
-  sh = stash
-  sha = stash apply
-  shl = stash list
-  shp = stash pop
-  sname = show --name-only
+	s = show
+	sname = show --name-only
+	sstat = show --name-status
+	sh = stash
+	sha = stash apply
+	shl = stash list
+	shp = stash pop
 	t = tag
 
 	com = checkout master
@@ -52,8 +66,8 @@
 	pod = pull origin dev
 	pord = pull --rebase origin dev
 	pud = push origin dev
-  rom = rebase origin master
-  rod = rebase origin dev
+	rom = rebase origin master
+	rod = rebase origin dev
 	rm = rebase master
 	rd = rebase dev
 
@@ -66,8 +80,8 @@
 	ppd = pull prod dev
 	pprd = pull --rebase prod dev
 	pupd = push prod dev
-  rpm = rebase prod master
-  rpd = rebase prod dev
+	rpm = rebase prod master
+	rpd = rebase prod dev
 [core]
 	editor = /usr/bin/vim
 [hub]

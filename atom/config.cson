@@ -3,7 +3,7 @@
   "autocomplete-plus": {}
   core: {}
   editor:
-    fontSize: 13
+    fontSize: 12
     invisibles: {}
     showIndentGuide: true
     softWrap: true
@@ -12,8 +12,6 @@
   linter: {}
   metrics:
     userId: "e8ed2432554e6b834141a535a1726b6e2833b3f8"
-  "tree-view":
-    hideVcsIgnoredFiles: true
   "tree-view":
     hideVcsIgnoredFiles: false
   welcome:

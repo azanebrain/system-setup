@@ -53,6 +53,9 @@
   shl = stash list
   shp = stash pop
 	t = tag
+	# Track a remote branch
+	# Usage: git track remotename branchname
+	track = !sh -c 'git branch -u  $1/$2' -
 
 	com = checkout master
 	cod = checkout dev

@@ -458,7 +458,7 @@ export PATH="/Applications/AMPPS/mysql/bin:$PATH"
 
 ## Errors with LAMP stacks:
 
-- See [this FAQ item on setting up with MAMP](https://github.com/wp-cli/wp-cli/wiki/FAQ#error-cant-connect-to-the-database)
+- See [common issues](http://wp-cli.org/docs/common-issues/) and [this FAQ item on setting up with MAMP](http://wp-cli.org/#mamp)
 - For AMPPS: you must set the PHP version to 5.4 or higher, and setup a symlink for the PHP binary:
 ```bash
 sudo mv /usr/bin/php /usr/bin/php-backup

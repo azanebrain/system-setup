@@ -6,5 +6,12 @@
   "editor.scrollBeyondLastLine": false,
   "filePicker.alternateFileNameMatching": true,
 	// Columns at which to show vertical rulers
-	"editor.rulers": [80]
+	"editor.rulers": [80],
+	"editor.renderIndentGuides": true,
+	"search.exclude": {
+		"**/.git": true,
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/tmp": true
+	}
 }

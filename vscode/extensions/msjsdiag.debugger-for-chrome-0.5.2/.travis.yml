@@ -1,0 +1,13 @@
+language: node_js
+
+node_js:
+  - "4.1"
+
+before_script:
+  - npm install -g gulp
+  - npm install -g typings
+
+script:
+    - gulp build
+    - npm test
+    - gulp tslint

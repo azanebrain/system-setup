@@ -1,0 +1,49 @@
+{
+	"name": "vscode-smart-split-into-lines",
+	"displayName": "Smart split into lines",
+	"description": "Split cursor by selected lines with Ctrl+Alt+l.",
+	"version": "0.0.1",
+	"publisher": "JulioGold",
+	"repository": {
+		"url": "https://github.com/JulioGold/vscode-smart-split-into-lines"
+	},
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:smart.splitIntoLines"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "smart.splitIntoLines",
+				"title": "Split into lines"
+			}
+		],
+		"keybindings": [
+			{
+				"key": "ctrl+alt+l",
+				"when": "editorTextFocus",
+				"command": "smart.splitIntoLines"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "node ./node_modules/vscode/bin/compile",
+		"compile": "node ./node_modules/vscode/bin/compile -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"typescript": "^1.8.5",
+		"vscode": "^0.11.0"
+	},
+	"__metadata": {
+		"id": "224c16c8-0a6e-45f7-8827-beae23ff8106",
+		"publisherId": "83a42428-b7ab-45f6-bc7f-6b5b2d65723c",
+		"publisherDisplayName": "JulioGold"
+	}
+}

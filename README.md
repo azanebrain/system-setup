@@ -93,6 +93,8 @@ sudo chown -R `whoami` ~/.npm
 sudo chown -R `whoami` /usr/local/lib/node_modules
 # Add NVM (node version manager)
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.4/install.sh | bash
+# Set the default version of node to the most recent LTS
+nvm alias default 6.6.0 
 # Back to what we were doing:
 brew install phantomjs
 brew install python

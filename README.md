@@ -77,6 +77,7 @@ brew cask install karabiner
 brew cask install licecap #gif screenrecording
 brew cask install little-snitch
 brew cask install rescuetime
+brew cask install postman
 brew cask install sequel-pro
 brew cask install skype
 brew cask install slack

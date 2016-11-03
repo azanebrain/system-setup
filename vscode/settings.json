@@ -2,7 +2,7 @@
 {
 	"editor.wrappingColumn": 0,
 	"editor.wrappingIndent": "indent",
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
   "editor.scrollBeyondLastLine": false,
   "filePicker.alternateFileNameMatching": true,
 	// Columns at which to show vertical rulers

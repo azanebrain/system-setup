@@ -1,0 +1,164 @@
+{
+  "Angular Component": {
+    "prefix": "ng2-component",
+    "description": "Angular 2 component snippet",
+    "body": [
+      "import { Component, OnInit } from '@angular/core';",
+      "",
+      "@Component({",
+      "\tmoduleId: module.id,",
+      "\tselector: '${selector}',",
+      "\ttemplateUrl: '${feature}.component.html'",
+      "})",
+      "export class ${Feature}Component implements OnInit {",
+      "\tconstructor() { }",
+      "",
+      "\tngOnInit() { }$0",
+      "}"
+    ]
+  },
+  "Angular Service": {
+    "prefix": "ng2-service",
+    "description": "Angular 2 service snippet",
+    "body": [
+      "import { Injectable } from '@angular/core';",
+      "",
+      "@Injectable()",
+      "export class ${ServiceName}Service {",
+      "$0",
+      "\tconstructor() { }",
+      "}"
+    ]
+  },
+  "Angular Pipe": {
+    "prefix": "ng2-pipe",
+    "description": "Angular 2 pipe snippet",
+    "body": [
+      "import { Pipe, PipeTransform } from '@angular/core';",
+      "",
+      "@Pipe({",
+      "\tname: '${name}'",
+      "})",
+      "",
+      "export class ${PipeName}Pipe implements PipeTransform {",
+      "\ttransform(value: any, args: any[]): any {",
+      "\t\t$0",
+      "\t}",
+      "}"
+    ]
+  },
+  "Angular Routes": {
+    "prefix": "ng2-routing",
+    "description": "Angular 2 routing file snippet",
+    "body": [
+      "import { NgModule } from '@angular/core';",
+      "import { Routes, RouterModule } from '@angular/router';",
+      "",
+      "import { ${Name}Component } from './${name}.component';",
+      "",
+      "const routes: Routes = [",
+      "  { path: '${path}', component: ${Name}Component },",
+      "];",
+      "",
+      "@NgModule({",
+      "  imports: [RouterModule.for${Child|Root}(routes)],",
+      "  exports: [RouterModule],",
+      "})",
+      "export class ${Name}RoutingModule { }",
+      "",
+      "export const routedComponents = [${Name}Component];"
+    ]
+  },
+  "Http.get": {
+    "prefix": "ng2-http-get",
+    "description": "Angular 2 Http.get snippet",
+    "body": [
+      "return this.http.get('${url}')",
+      "\t.map((response: Response) => response.json()${0});"
+    ]
+  },
+  "Subscribe": {
+    "prefix": "ng2-subscribe",
+    "description": "Angular 2 observable subscribe snippet",
+    "body": [
+      "this.${service}.${function}",
+      "\t.subscribe(${arg} => this.${property} = ${arg});",
+      "$0"
+    ]
+  },
+  "Angular Bootstrapping": {
+    "prefix": "ng2-bootstrap",
+    "description": "Angular 2 bootstrap snippet",
+    "body": [
+      "import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';",
+      "",
+      "import { ${App}Module } from './${app}.module';",
+      "",
+      "platformBrowserDynamic().bootstrapModule(${App}Module)",
+      "\t.then(success => console.log(`Bootstrap success`))",
+      "\t.catch(error => console.log(error));",
+      "$0"
+    ]
+  },
+  "Angular Root Component": {
+    "prefix": "ng2-component-root",
+    "description": "Angular 2 App root component snippet",
+    "body": [
+      "import { Component } from '@angular/core';",
+      "",
+      "@Component({",
+      "\tmoduleId: module.id,",
+      "\tselector: '${my-app}',",
+      "\ttemplate: `",
+      "\t\t<router-outlet></router-outlet>",
+      "\t\t`",
+      "})",
+      "export class ${App}Component { }",
+      "$0"
+    ]
+  },
+  "Angular Root Module": {
+    "prefix": "ng2-module-root",
+    "description": "Angular 2 Root Module snippet",
+    "body": [
+      "import { NgModule } from '@angular/core';",
+      "import { BrowserModule  } from '@angular/platform-browser';",
+      "import { HttpModule } from '@angular/http';",
+      "",
+      "import { ${App}Component } from './${app}.component';",
+      "import { AppRoutingModule } from './${app}.routing'; //TODO: Create ${app}.routing", 
+      "",
+      "@NgModule({",
+      "\timports: [",
+      "\t\tBrowserModule,",
+      "\t\tHttpModule,",
+      "\t",
+      "\t\tAppRoutingModule,",
+      "\t],",
+      "\tdeclarations: [${App}Component],",
+      "\tproviders: [/* TODO: Providers go here */],",
+      "\tbootstrap: [${App}Component],",
+      "})",
+      "export class ${App}Module { }",
+      "$0"
+    ]
+  },
+  "Angular Module": {
+    "prefix": "ng2-module",
+    "description": "Angular 2 Module snippet",
+    "body": [
+      "import { NgModule } from '@angular/core';",
+      "",
+      "import { ${Name}Component }   from './${name}.component';",
+      "",
+      "@NgModule({",
+      "\timports: [],",
+      "\texports: [],",
+      "\tdeclarations: [${Name}Component],",
+      "\tproviders: [],",
+      "})",
+      "export class ${Name}Module { }",
+      "$0"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+	"name": "Angular2",
+	"publisher": "johnpapa",
+	"displayName": "Angular 2 TypeScript Snippets",
+	"description": "Angular 2 TypeScript snippets",
+	"icon": "images/angular-shield.png",
+	"galleryBanner": {
+		"color": "#0273D4",
+		"theme": "dark"
+	},
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johnpapa/vscode-angular2-snippets.git"
+	},
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "214cbfb9-7c06-4467-bad4-357ae83eb587",
+		"publisherId": "4434843a-4ebf-4f44-84f5-4176380c492d",
+		"publisherDisplayName": "johnpapa"
+	}
+}

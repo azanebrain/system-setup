@@ -1,17 +1,26 @@
 // Place your settings in this file to overwrite the default settings
 {
-	"editor.wrappingColumn": 0,
-	"editor.wrappingIndent": "indent",
-	"editor.tabSize": 2,
-  "editor.scrollBeyondLastLine": false,
-  "filePicker.alternateFileNameMatching": true,
+	"filePicker.alternateFileNameMatching": true,
+	"files.insertFinalNewline": true,
 	// Columns at which to show vertical rulers
-	"editor.rulers": [80],
-	"editor.renderIndentGuides": true,
+	"editor": {
+		"rulers": [80],
+		"renderIndentGuides": true,
+		"renderLineHighlight": "all",
+		"scrollBeyondLastLine": false,
+		"tabSize": 2,
+		"wrappingColumn": 0,
+		"wrappingIndent": "indent"
+	},
 	"search.exclude": {
 		"**/.git": true,
 		"**/node_modules": true,
 		"**/bower_components": true,
 		"**/tmp": true
+	},
+	"workbench.activityBar.visible": false,
+	"window": {
+		"showFullPath": true,
+		"zoomLevel": 0
 	}
 }

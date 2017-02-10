@@ -5,6 +5,7 @@
 	a = add
 	b = branch
 	br = branch -r
+        bc = branch --contains
 	ci = commit
   cia = commit --amend
   ciaa = commit -a --amend
@@ -15,6 +16,7 @@
 	copo = !sh -c 'git checkout $1 && git pull origin $1' -
 	cot = checkout -t
 	coto = !sh -c 'git checkout -t origin/$1' -
+	copo = !sh -c 'git checkout $1 && git pull' -
 	cp = cherry-pick
 	d = diff
 	dname = diff --name-only

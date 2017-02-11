@@ -30,8 +30,8 @@
 	lname = log --name-only
 	lnomerge = log --no-merges
 	lp = log -p
-	lo = log --oneline --graph --all --decorate
-	loo = log --oneline
+	lo = log --oneline --pretty=format:'%C(yellow)%h%Creset %s%d %C(bold blue)<%an> %Cgreen(%ad)' --date=short
+	loo = log --oneline --graph --all --decorate
 	ls = log --since=1.days --shortstat
 	lstat = log --name-status
 	m = merge

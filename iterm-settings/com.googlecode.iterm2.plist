@@ -11827,12 +11827,16 @@
 		<key>TB Is Shown</key>
 		<integer>1</integer>
 	</dict>
+	<key>NSWindow Frame NSFontPanel</key>
+	<string>-531 110 445 103 -1920 -30 1920 1057 </string>
 	<key>NSWindow Frame Preferences</key>
 	<string>274 571 606 456 0 0 1680 1027 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>-2952 1015 384 129 -3600 342 1680 1027 </string>
+	<key>NSWindow Frame SharedPreferences</key>
+	<string>-1305 343 796 473 -1920 -30 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>614 35 1004 760 0 0 1680 1027 </string>
+	<string>-1831 257 1209 770 -1920 -30 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>5 469 742 558 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
@@ -12785,7 +12789,7 @@
 				<real>1</real>
 			</dict>
 			<key>Blend</key>
-			<real>0.5</real>
+			<real>0.39012294671474357</real>
 			<key>Blink Allowed</key>
 			<false/>
 			<key>Blinking Cursor</key>
@@ -12793,7 +12797,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>2</real>
+			<real>23.447085336538464</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -12811,6 +12815,8 @@
 			<integer>80</integer>
 			<key>Command</key>
 			<string></string>
+			<key>Cursor Boost</key>
+			<real>0.0</real>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -13193,7 +13199,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Monaco 12</string>
+			<string>Monaco 19</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -13347,7 +13353,7 @@
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
 			<key>Transparency</key>
-			<real>0.30000001192092896</real>
+			<real>0.25820775970199406</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unlimited Scrollback</key>
@@ -13379,7 +13385,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>F1EDD438-13A3-49C8-A641-10A99F4E5F0D</string>
 	<key>NoSyncLastTipTime</key>
-	<real>489173272.46103102</real>
+	<real>494037251.87112701</real>
 	<key>NoSyncPermissionToShowTip</key>
 	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -13528,6 +13534,6 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.0</string>
+	<string>3.0.13</string>
 </dict>
 </plist>

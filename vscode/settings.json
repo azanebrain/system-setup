@@ -9,7 +9,7 @@
 		"renderLineHighlight": "all",
 		"scrollBeyondLastLine": false,
 		"tabSize": 2,
-		"wrappingColumn": 0,
+		"wordWrap": true,
 		"wrappingIndent": "indent"
 	},
 	"search.exclude": {

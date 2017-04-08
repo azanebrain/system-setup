@@ -60,7 +60,8 @@ curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/bin/
 # Desktop tools
 brew cask install alfred
-brew cask install atom
+# Sorry Atom! I use VSCode now... :c
+# brew cask install atom
 brew cask install boot2docker
 brew cask install commander-one
 brew cask install dropbox

@@ -18,12 +18,14 @@
 		"**/bower_components": true,
 		"**/tmp": true
 	},
+	"typescript": {
+		"check.tscVersion": false,
+		"implementationsCodeLens.enabled": true 
+	},
 	"window": {
 		"showFullPath": true,
 		"zoomLevel": 0
-	}
-,
-"typescript.check.tscVersion": false,
+	},
 "vsicons.presets.angular": true,
 "window.zoomLevel": 1,
 "workbench": {

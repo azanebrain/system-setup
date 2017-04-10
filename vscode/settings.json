@@ -22,14 +22,13 @@
 		"check.tscVersion": false,
 		"implementationsCodeLens.enabled": true 
 	},
+	"vsicons.presets.angular": true,
 	"window": {
 		"showFullPath": true,
-		"zoomLevel": 0
+		"zoomLevel": 1
 	},
-"vsicons.presets.angular": true,
-"window.zoomLevel": 1,
-"workbench": {
-	"activityBar.visible": false,
-	"iconTheme": "vscode-icons"
-}
+	"workbench": {
+		"activityBar.visible": false,
+		"iconTheme": "vscode-icons"
+	}
 }

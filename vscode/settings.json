@@ -18,11 +18,16 @@
 		"**/bower_components": true,
 		"**/tmp": true
 	},
-	"workbench.activityBar.visible": false,
 	"window": {
 		"showFullPath": true,
 		"zoomLevel": 0
 	}
 ,
-"window.zoomLevel": 1
+"typescript.check.tscVersion": false,
+"vsicons.presets.angular": true,
+"window.zoomLevel": 1,
+"workbench": {
+	"activityBar.visible": false,
+	"iconTheme": "vscode-icons"
+}
 }

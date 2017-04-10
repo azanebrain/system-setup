@@ -1,0 +1,78 @@
+{
+	"name": "sass-lint",
+	"displayName": "Sass Lint",
+	"description": "Sass Lint for Visual Studio Code",
+	"author": "glen-84",
+	"publisher": "glen-84",
+	"version": "0.0.4",
+	"license": "MIT",
+	"icon": "sass-lint.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/glen-84/vscode-sass-lint.git"
+	},
+	"bugs": {
+		"url": "https://github.com/glen-84/vscode-sass-lint/issues"
+	},
+	"engines": {
+		"vscode": "^1.6.0"
+	},
+	"categories": [
+		"Linters"
+	],
+	"activationEvents": [
+		"onLanguage:sass",
+		"onLanguage:scss"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"configuration": {
+			"type": "object",
+			"title": "Sass Lint configuration",
+			"properties": {
+				"sasslint.enable": {
+					"type": "boolean",
+					"default": true,
+					"description": "Enable or disable linting"
+				},
+				"sasslint.configFile": {
+					"type": "string",
+					"description": "A .sass-lint.yml file to use/fallback to if no config file is found in the current project",
+					"default": ""
+				},
+				"sasslint.resolvePathsRelativeToConfig": {
+					"type": "boolean",
+					"description": "This option allows you to choose to resolve file paths relative to your config file rather than relative to the root of your currently open project",
+					"default": false
+				},
+				"sasslint.run": {
+					"type": "string",
+					"enum": [
+						"onSave",
+						"onType"
+					],
+					"default": "onType",
+					"description": "Run the linter on save (onSave) or on type (onType)"
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"@types/node": "^7.0.12",
+		"typescript": "^2.2.2",
+		"vscode": "^1.1.0"
+	},
+	"dependencies": {
+		"vscode-languageclient": "^3.2.0"
+	},
+	"__metadata": {
+		"id": "997fc03c-d81e-4815-8bd1-2c4f9a1ac1a5",
+		"publisherId": "10cd19e4-12ae-42f2-91b0-812b8156947c",
+		"publisherDisplayName": "glen-84"
+	}
+}

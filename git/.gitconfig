@@ -6,6 +6,7 @@
 	b = branch
 	br = branch -r
         bc = branch --contains
+        bv = branch -v
 	ci = commit
   cia = commit --amend
   ciaa = commit -a --amend

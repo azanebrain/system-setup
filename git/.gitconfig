@@ -42,13 +42,13 @@
         re = reset
 	rb = rebase
         rehard = reset --hard
-        rehead = reset head~
+        rehead = reset HEAD~
 	rv = remote -v
 	# Fun resets
         # Get out of there
         gtfo = reset --hard HEAD 
         # quickjump reset like Nightcrawler
-        bamf = reset --hard head^ 
+        bamf = reset --hard HEAD^ 
   s = show
   sname = show --name-only
   sstat = show --name-status

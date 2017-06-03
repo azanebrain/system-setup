@@ -429,14 +429,14 @@ It's not my favorite IDE, but it does a hell of a great job at TypeScript.
 
 Symlink the settings JSON file:
 ```
-ln -s ~/Sites/system-setup/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
+ln -s $PWD/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
 
 Extensions are stored in this repo so I don't need to reinstall them all the time. 
 
 Symlink the extensions directory:
 ```
-ln -s  ~/Sites/system-setup/vscode/extensions extensions
+ln -s  $PWD/vscode/extensions extensions
 ```
 ========================================================================================================
 

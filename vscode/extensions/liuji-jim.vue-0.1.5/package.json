@@ -1,0 +1,57 @@
+{
+	"name": "vue",
+	"description": "Syntax Highlight for Vue.js",
+	"version": "0.1.5",
+	"author": "liuji-jim",
+	"publisher": "liuji-jim",
+	"icon": "images/vuejs-logo.png",
+	"keywords": [
+		"vue",
+		"vuejs",
+		"vue.js"
+	],
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LiuJi-Jim/vscode-vue.git"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "vue",
+				"aliases": [
+					"Vue.js",
+					"vue"
+				],
+				"extensions": [
+					".vue"
+				],
+				"configuration": "./vue.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "vue",
+				"scopeName": "text.html.vue",
+				"path": "./syntaxes/vue.tmLanguage.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "vue",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"license": "MIT",
+	"__metadata": {
+		"id": "25091d5b-da4b-45c3-893e-cb1bd7a27cda",
+		"publisherId": "a17b58ea-6357-4fe4-9eec-004515f9b89b",
+		"publisherDisplayName": "liuji-jim"
+	}
+}

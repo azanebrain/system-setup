@@ -30,5 +30,8 @@
 	"workbench": {
 		"activityBar.visible": false,
 		"iconTheme": "vscode-icons"
-	}
+	},
+	"window.zoomLevel": 1,
+	"vsicons.projectDetection.disableDetect": true,
+	"typescript.check.tscVersion": false
 }

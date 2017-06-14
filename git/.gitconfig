@@ -93,3 +93,5 @@
 	whitespace = trailing-space,space-before-tab
 [hub]
 	protocol = https
+[push]
+	default = simple

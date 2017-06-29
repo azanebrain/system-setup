@@ -4,6 +4,9 @@
 	"files.insertFinalNewline": true,
 	// Columns at which to show vertical rulers
 	"editor": {
+		"minimap": {
+			"enabled": false
+		},
 		"rulers": [80],
 		"renderIndentGuides": true,
 		"renderLineHighlight": "all",

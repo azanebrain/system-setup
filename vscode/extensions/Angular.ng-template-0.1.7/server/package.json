@@ -1,0 +1,35 @@
+{
+  "name": "ng-template",
+  "description": "Angular Language Service.",
+  "version": "0.1.7",
+  "author": "Angular",
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "compile": "installServerIntoExtension ../client ./package.json ./tsconfig-build.json && cp yarn.lock ../client/server && tsc -p tsconfig-build.json",
+    "watch": "installServerIntoExtension ../client ./package.json ./tsconfig.json && cp yarn.lock ../client/server && tsc --watch -p .",
+    "test": "tsc -p . && jasmine dist/**/*_spec.js"
+  },
+  "dependencies": {
+    "@angular/language-service": "5.0.0-beta.5",
+    "typescript": "^2.3.4",
+    "vscode-jsonrpc": "~3.2.0",
+    "vscode-languageserver": "~3.2.2"
+  },
+  "devDependencies": {
+    "@angular/compiler": "5.0.0-beta.5",
+    "@angular/compiler-cli": "5.0.0-beta.5",
+    "@angular/core": "5.0.0-beta.5",
+    "@types/jasmine": "^2.5.38",
+    "@types/node": "^6.0.46",
+    "jasmine": "^2.5.2",
+    "rxjs": "^5.0",
+    "zone.js": "^0.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/vscode-ng-language-service"
+  }
+}

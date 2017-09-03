@@ -22,16 +22,17 @@
 		"check.tscVersion": false,
 		"implementationsCodeLens.enabled": true 
 	},
-	"vsicons.presets.angular": true,
+	"vsicons": {
+		"presets.angular": true,
+		"projectDetection.disableDetect": true
+	},
 	"window": {
 		"showFullPath": true,
 		"zoomLevel": 1
 	},
 	"workbench": {
+	        "colorTheme": "Monokai",
 		"activityBar.visible": false,
 		"iconTheme": "vscode-icons"
-	},
-	"window.zoomLevel": 1,
-	"vsicons.projectDetection.disableDetect": true,
-	"typescript.check.tscVersion": false
+	}
 }

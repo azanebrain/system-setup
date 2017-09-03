@@ -1,0 +1,40 @@
+{
+	"name": "Angular1",
+	"publisher": "johnpapa",
+	"displayName": "Angular 1 JavaScript and TypeScript Snippets",
+	"description": "Angular 1 JavaScript and TypeScript snippets",
+	"icon": "images/angular-shield.png",
+	"galleryBanner": {
+		"color": "#0273D4",
+		"theme": "dark"
+	},
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johnpapa/vscode-angular1-snippets.git"
+	},
+	"version": "0.2.0",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "d34ed0fc-97a2-40d5-bd7d-f97b3658c92f",
+		"publisherId": "4434843a-4ebf-4f44-84f5-4176380c492d",
+		"publisherDisplayName": "johnpapa"
+	}
+}

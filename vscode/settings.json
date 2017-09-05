@@ -12,6 +12,7 @@
 		"wordWrap": true,
 		"wrappingIndent": "indent"
 	},
+	"editor.minimap.enabled": false,
 	"search.exclude": {
 		"**/.git": true,
 		"**/node_modules": true,
@@ -34,5 +35,6 @@
 	        "colorTheme": "Monokai",
 		"activityBar.visible": false,
 		"iconTheme": "vscode-icons"
-	}
+	},
+	"window.zoomLevel": -1,
 }

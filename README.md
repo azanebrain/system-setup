@@ -367,7 +367,34 @@ Change CAPS Lock and Ctrl
 
 # IDE / Text Editor
 
+## Visual Studio Code 
+
+I got into VS Code for the TypeScript support, but stayed because it's awesome
+
+Symlink the settings JSON file:
+
+```
+# Mac
+ln -s $PWD/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
+# Ubuntu
+ln -s $PWD/vscode/settings.json ~/.config/Code/User/settings.json
+```
+
+Extensions are stored in this repo so I don't need to reinstall them all the time. 
+
+Symlink the extensions directory:
+```
+ln -s  $PWD/vscode/extensions ~/.vscode/
+```
+
+### Fonts
+
+I really like Programming Ligatures (things like === becoming a three-line symbol)
+
+See [this article by Scott Hanslman](https://www.hanselman.com/blog/MonospacedProgrammingFontsWithLigatures.aspx) for a convincing rundown of using monospaced programming ligatures and setting them up in VSCode. The only step not mentioned is that you need to install the font file
+
 ## [Atom](https://atom.io)
+
 I like [Atom](https://atom.io) because it is made for devs who just want to get going. The out of the box features and customizability encompass the ideals that every IDE strives to provide to its user base.
 
 I used Sublime Text for a while, but Atom operates closer to the terminal. You can do a lot more through key commands and the stuff I care about (terminal functionality, package management, git integration) is baked in with zero configuration needed. That being said, I still jump between the two every few months...
@@ -423,24 +450,6 @@ Setup: Add the eolsemicolon.sublime-macro file to the Packages directory. Open i
 
 Copy the contents of the keymap file (to Default (OSX).sublime-keymap) to the user keybindings (Preferences > Key Bindings - User), or copy the file to the same Packages directory as the macro file.
 
-## Visual Studio Code 
-
-It's not my favorite IDE, but it does a hell of a great job at TypeScript.
-
-Symlink the settings JSON file:
-```
-# Mac
-ln -s $PWD/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
-# Ubuntu
-ln -s $PWD/vscode/settings.json ~/.config/Code/User/settings.json
-```
-
-Extensions are stored in this repo so I don't need to reinstall them all the time. 
-
-Symlink the extensions directory:
-```
-ln -s  $PWD/vscode/extensions ~/.vscode/
-```
 ========================================================================================================
 
 ## Github Shinies for changing assignee, label, and milestone through commit messages

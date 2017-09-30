@@ -4,6 +4,9 @@
 	"files.insertFinalNewline": true,
 	// Columns at which to show vertical rulers
 	"editor": {
+		"fontFamily": "Fira Code",
+		"fontLigatures": true,
+		"fontSize": 13,
 		"minimap": {
 			"enabled": false
 		},

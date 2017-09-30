@@ -1,0 +1,372 @@
+{
+	"name": "typescript-hero",
+	"displayName": "TypeScript Hero",
+	"description": "Additional tooling for the typescript language",
+	"icon": "etc/icon.png",
+	"galleryBanner": {
+		"color": "#1e324c",
+		"theme": "dark"
+	},
+	"version": "1.5.0",
+	"publisher": "rbbit",
+	"engines": {
+		"vscode": "^1.13.0",
+		"node": ">=8.0.0",
+		"npm": ">=5.3.0"
+	},
+	"categories": [
+		"Other",
+		"Languages"
+	],
+	"main": "./out/src/extension/extension",
+	"author": "Christoph Bühler <christoph.buehler@bluewin.ch>",
+	"license": "MIT",
+	"contributors": [],
+	"release": {
+		"getLastRelease": "semantic-release-visualstudio-marketplace-version"
+	},
+	"badges": [
+		{
+			"url": "https://img.shields.io/travis/buehler/typescript-hero.svg",
+			"href": "https://travis-ci.org/buehler/typescript-hero",
+			"description": "Travis build"
+		},
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/version-short/rbbit.typescript-hero.svg",
+			"href": "https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero",
+			"description": "Marketplace"
+		},
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/installs/rbbit.typescript-hero.svg",
+			"href": "https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero",
+			"description": "Installs"
+		},
+		{
+			"url": "https://img.shields.io/github/issues/buehler/typescript-hero.svg",
+			"href": "https://github.com/buehler/typescript-hero/issues",
+			"description": "GitHub issues"
+		},
+		{
+			"url": "https://img.shields.io/github/issues-pr/buehler/typescript-hero.svg",
+			"href": "https://github.com/buehler/typescript-hero/pulls",
+			"description": "GitHub pull requests"
+		},
+		{
+			"url": "https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg",
+			"href": "https://github.com/semantic-release/semantic-release",
+			"description": "Semantic release"
+		},
+		{
+			"url": "https://badges.greenkeeper.io/buehler/typescript-hero.svg",
+			"href": "https://greenkeeper.io/",
+			"description": "Greenkeeper"
+		},
+		{
+			"url": "https://img.shields.io/github/license/buehler/typescript-hero.svg",
+			"href": "https://github.com/buehler/typescript-hero/blob/master/LICENSE",
+			"description": "License"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/buehler/typescript-hero.git"
+	},
+	"bugs": {
+		"url": "https://github.com/buehler/typescript-hero/issues"
+	},
+	"homepage": "https://buehler.github.io/typescript-hero/",
+	"scripts": {
+		"vscode:prepublish": "yarn install --production",
+		"predevelop": "del-cli ./out",
+		"develop": "tsc",
+		"postinstall": "test -f ./node_modules/vscode/bin/install && node ./node_modules/vscode/bin/install || echo 'vscode/bin/install not found'",
+		"pretest": "del-cli ./out && tsc -p ./config/tsconfig.test.json && yarn run lint",
+		"test": "node ./node_modules/vscode/bin/test",
+		"lint": "tslint -c tslint.json --project ./config/tsconfig.build.json",
+		"build": "del-cli ./out && tsc -p ./config/tsconfig.build.json",
+		"package": "yarn run build && del-cli './*.vsix' && vsce package",
+		"semantic-release-pre": "semantic-release pre",
+		"semantic-release": "yarn run semantic-release-pre && vsce package && vsce publish -p $VSCE_TOKEN && yarn install && semantic-release post"
+	},
+	"devDependencies": {
+		"@types/chai": "^4.0.4",
+		"@types/mocha": "^2.2.43",
+		"@types/node": "^8.0.28",
+		"@types/reflect-metadata": "0.0.5",
+		"@types/sinon": "^2.3.4",
+		"@types/sinon-chai": "^2.7.29",
+		"chai": "^4.1.2",
+		"del-cli": "^1.1.0",
+		"filewalker": "^0.1.3",
+		"mocha-testdata": "^1.2.0",
+		"semantic-release": "^8.0.0",
+		"semantic-release-visualstudio-marketplace-version": "^1.0.0",
+		"sinon": "^3.2.1",
+		"sinon-chai": "^2.13.0",
+		"tslint": "^5.7.0",
+		"tslint-config-airbnb": "^5.3.0-beta",
+		"tsutils": "^2.8.2",
+		"vscode": "^1.1.5"
+	},
+	"dependencies": {
+		"inversify": "^4.3.0",
+		"inversify-inject-decorators": "^3.0.1",
+		"reflect-metadata": "^0.1.10",
+		"tslib": "^1.7.1",
+		"typescript": "~2.4.2",
+		"typescript-parser": "^1.3.3"
+	},
+	"activationEvents": [
+		"onLanguage:typescript",
+		"onLanguage:typescriptreact",
+		"onLanguage:javascript",
+		"onLanguage:javascriptreact"
+	],
+	"contributes": {
+		"commands": [
+			{
+				"command": "typescriptHero.resolve.addImport",
+				"title": "TS Hero: Add an import to current file"
+			},
+			{
+				"command": "typescriptHero.resolve.addImportUnderCursor",
+				"title": "TS Hero: Adds the current symbol under the cursor as an import to current file"
+			},
+			{
+				"command": "typescriptHero.resolve.addMissingImports",
+				"title": "TS Hero: Adds all missing imports for the open document"
+			},
+			{
+				"command": "typescriptHero.resolve.organizeImports",
+				"title": "TS Hero: Organize imports (sort and remove unused)"
+			},
+			{
+				"command": "typescriptHero.resolve.rebuildCache",
+				"title": "TS Hero: Rebuild the resolver cache"
+			},
+			{
+				"command": "typescriptHero.codeFix.executeCodeAction",
+				"title": "TS Hero (internal): Execute a code action"
+			},
+			{
+				"command": "typescriptHero.codeCompletion.executeIntellisenseItem",
+				"title": "TS Hero (internal): Execute the command for a intellisense item"
+			},
+			{
+				"command": "typescriptHero.documentCodeOutline.gotoNode",
+				"title": "TS Hero (internal): Jump to the given nodes location"
+			}
+		],
+		"keybindings": [
+			{
+				"command": "typescriptHero.resolve.addImport",
+				"key": "ctrl+shift+i",
+				"when": "editorTextFocus"
+			},
+			{
+				"command": "typescriptHero.resolve.addImportUnderCursor",
+				"key": "ctrl+alt+i",
+				"when": "editorTextFocus"
+			},
+			{
+				"command": "typescriptHero.resolve.addMissingImports",
+				"key": "ctrl+alt+shift+i",
+				"when": "editorTextFocus"
+			},
+			{
+				"command": "typescriptHero.resolve.organizeImports",
+				"key": "ctrl+alt+o",
+				"when": "editorTextFocus"
+			}
+		],
+		"views": {
+			"explorer": [
+				{
+					"id": "documentCodeOutline",
+					"name": "Code outline",
+					"when": "config.typescriptHero.codeOutline.enabled != false"
+				}
+			]
+		},
+		"configuration": {
+			"title": "TypeScript Hero",
+			"properties": {
+				"typescriptHero.verbosity": {
+					"enum": [
+						"Nothing",
+						"Errors",
+						"Warnings",
+						"All"
+					],
+					"default": "Warnings",
+					"description": "Defines the log output level in the output window."
+				},
+				"typescriptHero.completionSortMode": {
+					"enum": [
+						"default",
+						"bottom"
+					],
+					"default": "default",
+					"description": "Import completion sort order"
+				},
+				"typescriptHero.resolver.insertSpaceBeforeAndAfterImportBraces": {
+					"type": "boolean",
+					"default": true,
+					"description": "Defines if there should be a space inside the curly braces of an import statement."
+				},
+				"typescriptHero.resolver.insertSemicolons": {
+					"type": "boolean",
+					"default": true,
+					"description": "Defines if there should be a semicolon at the end of a statement."
+				},
+				"typescriptHero.resolver.stringQuoteStyle": {
+					"enum": [
+						"'",
+						"\""
+					],
+					"default": "'",
+					"description": "Defines if single or double quotes should be used."
+				},
+				"typescriptHero.resolver.ignorePatterns": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"uniqueItems": true,
+					"default": [
+						"build",
+						"out",
+						"dist"
+					],
+					"description": "Defines partial pathes that are ignored during indexing (e.g. 'node_modules' would exclude all modules)."
+				},
+				"typescriptHero.resolver.multiLineWrapThreshold": {
+					"type": "number",
+					"minimum": 1,
+					"multipleOf": 1,
+					"default": 125,
+					"description": "Defines the threshold when an import should be wrapped into a multiline import."
+				},
+				"typescriptHero.resolver.multiLineTrailingComma": {
+					"type": "boolean",
+					"default": true,
+					"description": "Defined if multi line imports contain the last trailing comma."
+				},
+				"typescriptHero.resolver.disableImportsSorting": {
+					"type": "boolean",
+					"default": false,
+					"description": "Defines if sorting is disable during organize imports."
+				},
+				"typescriptHero.resolver.organizeOnSave": {
+					"type": "boolean",
+					"default": true,
+					"description": "Defines if the imports should be organized on save."
+				},
+				"typescriptHero.resolver.ignoreImportsForOrganize": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"uniqueItems": true,
+					"default": [
+						"react"
+					],
+					"description": "Defines imports (libraries, so the 'from' part), which are not removed during 'organize imports'."
+				},
+				"typescriptHero.resolver.importGroups": {
+					"type": "array",
+					"items": {
+						"anyOf": [
+							{
+								"enum": [
+									"Modules",
+									"Plains",
+									"Workspace",
+									"Remaining"
+								]
+							},
+							{
+								"type": "string",
+								"pattern": "\\/[A-Za-z-_0-9]+\\/"
+							},
+							{
+								"type": "object",
+								"properties": {
+									"identifier": {
+										"enum": [
+											"Modules",
+											"Plains",
+											"Workspace",
+											"Remaining"
+										]
+									},
+									"order": {
+										"enum": [
+											"asc",
+											"desc"
+										]
+									}
+								},
+								"additionalProperties": false,
+								"required": [
+									"identifier",
+									"order"
+								]
+							},
+							{
+								"type": "object",
+								"properties": {
+									"identifier": {
+										"type": "string",
+										"pattern": "\\/[A-Za-z-_0-9]+\\/"
+									},
+									"order": {
+										"enum": [
+											"asc",
+											"desc"
+										]
+									}
+								},
+								"additionalProperties": false,
+								"required": [
+									"identifier",
+									"order"
+								]
+							}
+						]
+					},
+					"default": [
+						"Plains",
+						"Modules",
+						"Workspace"
+					],
+					"description": "Defines the groups of the imports ordering. Multiple groups possible, see readme for instructions."
+				},
+				"typescriptHero.resolver.resolverMode": {
+					"enum": [
+						"TypeScript",
+						"ES6",
+						"Both"
+					],
+					"default": "TypeScript",
+					"description": "Defines the mode of the symbol resolver (i.e. if JavaScript files should be indexed as well (experimental)."
+				},
+				"typescriptHero.resolver.promptForSpecifiers": {
+					"type": "boolean",
+					"default": true,
+					"description": "Defines if typescript hero should ask the user for default specifiers or duplicate specifier aliases."
+				},
+				"typescriptHero.codeOutline.enabled": {
+					"type": "boolean",
+					"default": true,
+					"description": "Defines if the code outline feature (and window) are enabled or not."
+				}
+			}
+		}
+	},
+	"__metadata": {
+		"id": "38583aca-2ba1-417f-80fc-68ca8d717fb4",
+		"publisherId": "c5d551f6-3d2b-41b9-8b4b-6224c4fcfb87",
+		"publisherDisplayName": "Christoph Bühler"
+	}
+}

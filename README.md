@@ -392,6 +392,10 @@ Symlink the snippets directory:
 ln -s  $PWD/vscode/snippets ~/.config/Code/User/
 ```
 
+### Configuration
+
+* Allow multiselect (Ubuntu): `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier "<Super>"`
+
 ### Fonts
 
 I really like Programming Ligatures (things like === becoming a three-line symbol)

@@ -4,6 +4,7 @@
 	"files.insertFinalNewline": true,
 	// Columns at which to show vertical rulers
 	"editor": {
+		"formatOnPaste": true,
 		"fontFamily": "Fira Code",
 		"fontLigatures": true,
 		"fontSize": 13,
@@ -28,6 +29,8 @@
 		"check.tscVersion": false,
 		"implementationsCodeLens.enabled": true 
 	},
+	"typescriptHero.resolver.insertSemicolons": false,
+	"typescriptHero.resolver.multiLineTrailingComma": true,
 	"vsicons.presets.angular": true,
 	"window": {
 		"showFullPath": true,

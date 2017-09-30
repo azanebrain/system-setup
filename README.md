@@ -387,6 +387,11 @@ Symlink the extensions directory:
 ln -s  $PWD/vscode/extensions ~/.vscode/
 ```
 
+Symlink the snippets directory:
+```
+ln -s  $PWD/vscode/snippets ~/.config/Code/User/
+```
+
 ### Fonts
 
 I really like Programming Ligatures (things like === becoming a three-line symbol)

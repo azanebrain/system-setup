@@ -380,6 +380,11 @@ ln -s $PWD/vscode/settings.json ~/Library/Application\ Support/Code/User/setting
 ln -s $PWD/vscode/settings.json ~/.config/Code/User/settings.json
 ```
 
+Symlink the keybindings:
+```
+ln -s $PWD/vscode/keybindins.json ~/.config/Code/User/keybindings.json
+```
+
 Extensions are stored in this repo so I don't need to reinstall them all the time. 
 
 Symlink the extensions directory:

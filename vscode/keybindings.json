@@ -1,0 +1,20 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "ctrl+shift+a ctrl+shift+s",
+    "command": "workbench.action.files.saveAs"
+  },
+  {
+    "key": "ctrl+shift+s",
+    "command": "-workbench.action.files.saveAs"
+  },
+  {
+    "key": "ctrl+shift+s",
+    "command": "workbench.action.files.saveAll"
+  },
+  {
+    "key": "ctrl+j",
+    "command": "editor.action.joinLines"
+  }
+]
+

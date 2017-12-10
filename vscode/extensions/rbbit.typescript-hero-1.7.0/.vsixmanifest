@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Language="en-US" Id="typescript-hero" Version="1.7.0" Publisher="rbbit"/>
+    <DisplayName>TypeScript Hero</DisplayName>
+    <Description xml:space="preserve">Additional tooling for the typescript language</Description>
+    <Tags>keybindings,typescript,typescriptreact,javascript,javascriptreact</Tags>
+    <Categories>Other,Languages</Categories>
+    <GalleryFlags>Public</GalleryFlags>
+    <Badges><Badge Link="https://travis-ci.org/buehler/typescript-hero" ImgUri="https://img.shields.io/travis/buehler/typescript-hero.svg" Description="Travis build" /><Badge Link="https://ci.appveyor.com/project/buehler/typescript-hero" ImgUri="https://ci.appveyor.com/api/projects/status/p1vbbyh69j4s0rbh?svg=true" Description="AppVeyor build" /><Badge Link="https://github.com/buehler/typescript-hero/issues" ImgUri="https://img.shields.io/github/issues/buehler/typescript-hero.svg" Description="GitHub issues" /><Badge Link="https://github.com/buehler/typescript-hero/pulls" ImgUri="https://img.shields.io/github/issues-pr/buehler/typescript-hero.svg" Description="GitHub pull requests" /></Badges>
+    <Properties>
+      <Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.17.0" />
+      <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
+      
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/buehler/typescript-hero.git" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/buehler/typescript-hero.git" />
+        
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/buehler/typescript-hero.git" />
+        
+      
+      <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/buehler/typescript-hero/issues" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://buehler.github.io/typescript-hero/" />
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#1e324c" />
+      <Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="dark" />
+      <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
+      
+      
+    </Properties>
+    <License>extension/LICENSE.txt</License>
+    <Icon>extension/etc/icon.png</Icon>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Code"/>
+  </Installation>
+  <Dependencies/>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
+    <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Content.License" Path="extension/LICENSE.txt" Addressable="true" /><Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/etc/icon.png" Addressable="true" />
+  </Assets>
+</PackageManifest>

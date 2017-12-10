@@ -1,0 +1,1839 @@
+2017-12-07T23:14:47.850Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:48.033Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:48.806Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:49.108Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:49.238Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:49.586Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:50.784Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:51.188Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:51.406Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:51.614Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:51.720Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:52.078Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:53.299Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:14:53.624Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:15:26.004Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:15:26.196Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:15:26.333Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:15:39.813Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:18:42.745Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:19:22.551Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:19:26.563Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:19:54.440Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:19:54.888Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-07T23:20:00.236Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:00.493Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:00.683Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:00.898Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:01.224Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:02.342Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:02.542Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:02.689Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:03.624Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:03.924Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:04.233Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:04.563Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:05.169Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:08.031Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:08.866Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:09.229Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:09.586Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:09.990Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:10.385Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:10.973Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:11.187Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:11.369Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:11.963Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:12.295Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:12.516Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:12.808Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:13.425Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:13.790Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:16.546Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:16.860Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:17.886Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:20:18.248Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:21:01.245Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:21:01.656Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:21:02.330Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:21:06.567Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:21:10.006Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:21:10.969Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:05.512Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:07.993Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-07T23:23:08.000Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:12.465Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":196}
+2017-12-07T23:23:12.823Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:13.054Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:13.116Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":59}
+2017-12-07T23:23:13.250Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:13.438Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:13.760Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:13.768Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:23.226Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:23.469Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:49.424Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:50.236Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:50.522Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:50.763Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:51.189Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:51.441Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:51.556Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:51.787Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:52.033Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:52.241Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:52.833Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:53.390Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:53.711Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:53.919Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:54.231Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:54.449Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:55.081Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:55.484Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:55.899Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:56.182Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:56.520Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:56.775Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:57.152Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:57.798Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:58.543Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:23:58.546Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:24:04.174Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:24:04.513Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:24:10.734Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:27:55.398Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-07T23:28:58.639Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:28:58.897Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:28:59.513Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:28:59.734Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:29:01.012Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:41:12.328Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:41:14.711Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:41:15.152Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:41:17.809Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:41:20.728Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:41:21.574Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:44:40.441Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:06.382Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:06.737Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:06.958Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:07.190Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:07.814Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:09.673Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:09.913Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:10.133Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:10.137Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:11.045Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:12.618Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:13.579Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:13.583Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:16.330Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:16.620Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:16.625Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:20.437Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:20.698Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:20.929Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:22.415Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:26.919Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:27.182Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:27.448Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:28.438Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:28.577Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:29.034Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:29.079Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:29.986Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:31.630Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:32.377Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:33.523Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:34.361Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:34.760Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:34.760Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:40.254Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-07T23:52:40.343Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-07T23:52:40.353Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.spec.ts"}}
+2017-12-07T23:52:40.357Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.spec.ts"}}
+2017-12-07T23:52:52.165Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":11130}
+2017-12-07T23:52:52.192Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:52.194Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:52.197Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-07T23:52:52.199Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:24:00.054Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:24:03.788Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:24:04.033Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:24:04.243Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:24:06.127Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:25:35.366Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:25:35.632Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:25:51.656Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:25:51.981Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T00:25:52.460Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:03:54.469Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:03:57.734Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:03:57.972Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:03:58.943Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:03:59.408Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:04:01.231Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:04:03.808Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T01:11:01.967Z - info: [ImportResolveExtension] disposed
+2017-12-08T01:11:01.967Z - info: [CodeCompletionExtension] disposed
+2017-12-08T01:11:01.968Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-08T01:11:01.968Z - info: [CodeActionCreator] disposed
+2017-12-08T01:11:01.969Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-08T01:11:01.971Z - info: [TypeScriptHero] disposed
+2017-12-08T17:42:33.134Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-08T17:42:33.151Z - info: [DeclarationIndexMapper] initialized
+2017-12-08T17:42:33.154Z - info: [ImportResolveExtension] initialized
+2017-12-08T17:42:33.155Z - info: [CodeCompletionExtension] initialized
+2017-12-08T17:42:33.155Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-08T17:42:33.156Z - info: [CodeActionCreator] initialized
+2017-12-08T17:42:33.156Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-08T17:42:33.158Z - info: [TypeScriptHero] initialized
+2017-12-08T17:42:34.064Z - info: [ImportResolveExtension] disposed
+2017-12-08T17:42:34.064Z - info: [CodeCompletionExtension] disposed
+2017-12-08T17:42:34.064Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-08T17:42:34.065Z - info: [CodeActionCreator] disposed
+2017-12-08T17:42:34.065Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-08T17:42:34.069Z - info: [TypeScriptHero] disposed
+{"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"level":"error","message":"uncaughtException: write EPIPE\nError: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Fri Dec 08 2017 09:42:34 GMT-0800 (PST)","process":{"pid":28893,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":146116608,"heapTotal":99315712,"heapUsed":58085784,"external":1332964}},"os":{"loadavg":[3.6748046875,3.4423828125,2.54345703125],"uptime":149908},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2017-12-08T17:42:34.452Z - error: uncaughtException: write EPIPE
+Error: write EPIPE
+	at exports._errnoException (util.js:1050:11)
+	at WriteWrap.afterWrite [as oncomplete] (net.js:813:14) {"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Fri Dec 08 2017 09:42:34 GMT-0800 (PST)","process":{"pid":28893,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":145305600,"heapTotal":99315712,"heapUsed":58211880,"external":1332964}},"os":{"loadavg":[3.6748046875,3.4423828125,2.54345703125],"uptime":149908},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2017-12-08T17:42:38.094Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-08T17:42:38.103Z - info: [DeclarationIndexMapper] initialized
+2017-12-08T17:42:38.105Z - info: [ImportResolveExtension] initialized
+2017-12-08T17:42:38.105Z - info: [CodeCompletionExtension] initialized
+2017-12-08T17:42:38.106Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-08T17:42:38.106Z - info: [CodeActionCreator] initialized
+2017-12-08T17:42:38.107Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-08T17:42:38.107Z - info: [TypeScriptHero] initialized
+2017-12-08T17:43:10.503Z - info: [DeclarationIndexMapper] built index for workspace "veyo-facility-portal-frontend" {"durationMs":32405}
+2017-12-08T17:44:37.294Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T17:44:44.233Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":6675}
+2017-12-08T17:44:50.364Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":5616}
+2017-12-08T18:10:11.732Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":4867}
+2017-12-08T18:11:02.973Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":4110}
+2017-12-08T18:11:44.653Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:11:49.407Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":4538}
+2017-12-08T18:11:49.619Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:12:29.094Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:12:31.594Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:12:36.585Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:13:21.879Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":4702}
+2017-12-08T18:13:22.085Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:13:47.862Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:13:48.105Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:13:49.355Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:28:33.020Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:28:38.422Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:22.625Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:24.280Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:24.528Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:27.519Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:27.795Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:28.829Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:29.095Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:29.978Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:30.398Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:31.134Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:31.381Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:32.550Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:40:32.806Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:12.304Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:12.936Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:13.950Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:24.908Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:26.496Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:28.113Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T18:41:28.414Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:28.766Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:29.512Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":2}
+2017-12-08T18:41:30.251Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:30.482Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:31.179Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":177}
+2017-12-08T18:41:32.052Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:32.866Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":131}
+2017-12-08T18:41:33.111Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":104}
+2017-12-08T18:41:33.198Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":82}
+2017-12-08T18:41:33.572Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":134}
+2017-12-08T18:41:33.573Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:33.819Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":46}
+2017-12-08T18:41:34.160Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":92}
+2017-12-08T18:41:34.319Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:34.362Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:34.820Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:38.721Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:39.232Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:39.802Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:40.396Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:40.869Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:41.699Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:41:42.338Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T18:41:49.534Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":6563}
+2017-12-08T18:45:11.720Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:11.925Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:16.057Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:16.291Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:16.502Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:19.448Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:19.811Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:22.490Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:22.985Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:23.295Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:27.452Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:27.704Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:28.066Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:31.165Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T18:45:31.506Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:32.170Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:32.470Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:33.838Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:45:34.255Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":105}
+2017-12-08T18:45:34.256Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":40}
+2017-12-08T18:45:35.350Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":93}
+2017-12-08T18:45:35.684Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":37}
+2017-12-08T18:55:45.987Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":195}
+2017-12-08T18:55:46.672Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":62}
+2017-12-08T18:55:47.315Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":114}
+2017-12-08T18:55:47.687Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":72}
+2017-12-08T18:55:47.933Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver/driver.mock.ts"}}
+2017-12-08T18:55:48.157Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:55:48.182Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:55:57.920Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":9314}
+2017-12-08T18:55:58.533Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:55:58.534Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:57:17.086Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:57:20.076Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:57:24.630Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:57:24.901Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:57:30.850Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:57:34.241Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:05.954Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:06.219Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:13.836Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:14.102Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:14.511Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:14.767Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:15.797Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:16.070Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:22.896Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:30.124Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T18:58:33.697Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:33.962Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:34.644Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T18:58:34.899Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:33.633Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:34.658Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:34.969Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:42.908Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:43.120Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:45.127Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:45.419Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:47.014Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:03:47.274Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:50.160Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:51.935Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:53.155Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1019}
+2017-12-08T19:03:53.257Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:53.823Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:54.230Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:54.456Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:54.672Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:56.439Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:56.696Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:56.977Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:57.131Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:57.459Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:57.913Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:58.126Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:58.296Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:59.582Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:03:59.879Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:00.014Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:00.032Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:00.384Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:04:00.846Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:01.059Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:01.208Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:01.216Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:01.548Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:02.747Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:03.094Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:03.739Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:04.092Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:04.902Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:05.413Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:05.730Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:06.168Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:06.448Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:06.611Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:20.868Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:21.182Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:21.720Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:04:22.150Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:22.693Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:23.774Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:24.172Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:26.165Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:27.743Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:31.881Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:32.682Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:34.980Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:41.158Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:41.601Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:43.508Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:45.942Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:49.011Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:50.133Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:07:50.476Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:09:56.236Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:09:56.496Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:09:58.199Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:10:54.736Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:07.191Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:09.370Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":375}
+2017-12-08T19:11:09.453Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:10.308Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":477}
+2017-12-08T19:11:10.324Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:10.445Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:10.711Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:11.052Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:11.853Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:11.908Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":59}
+2017-12-08T19:11:12.086Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:12.200Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":56}
+2017-12-08T19:11:12.440Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":106}
+2017-12-08T19:11:12.638Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:12.756Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":56}
+2017-12-08T19:11:12.784Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:12.981Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":117}
+2017-12-08T19:11:13.110Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":61}
+2017-12-08T19:11:13.122Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:13.548Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":79}
+2017-12-08T19:11:13.707Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:13.715Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:14.069Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:14.091Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:14.279Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:14.455Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:15.376Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:16.517Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:17.450Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:17.821Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:18.163Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:18.323Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:18.630Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:19.386Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:19.934Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:21.609Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1029}
+2017-12-08T19:11:21.709Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:22.037Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:22.383Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:22.800Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:11:22.874Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:23.141Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:23.433Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:25.659Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:27.410Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:28.272Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:29.090Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:30.122Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:30.720Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:35.023Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:35.918Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:36.618Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:37.195Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:37.759Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:11:44.983Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:13.417Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:56.026Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:57.134Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:57.662Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:58.322Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:58.719Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:16:59.148Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:00.847Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T19:17:09.677Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":8174}
+2017-12-08T19:17:10.931Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:13.601Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:13.864Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:25.081Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:17:26.964Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:27.784Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:29.117Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:31.447Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:31.824Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:34.920Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:17:35.313Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary/itinerary.mock.ts"}}
+2017-12-08T19:17:41.125Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":5186}
+2017-12-08T19:17:41.208Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:18:46.657Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:07.451Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:19.401Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:20.157Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:20.570Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:20.944Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:21.339Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:21.762Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:22.580Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:23.042Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary/itinerary.mock.ts"}}
+2017-12-08T19:19:23.476Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:19:32.315Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":8392}
+2017-12-08T19:19:32.447Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:21:41.215Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:00.219Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:00.465Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:03.720Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:07.142Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-08T19:22:24.992Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":17101}
+2017-12-08T19:22:25.018Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:25.022Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:25.280Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:25.664Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:33.970Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:36.174Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:36.828Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:37.979Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:39.183Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:22:39.524Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:39.649Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:39.810Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:40.084Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:41.871Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:42.085Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:42.316Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:42.358Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:42.615Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:42.909Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:44.019Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:44.335Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:44.488Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:44.718Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:45.113Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:45.147Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:45.503Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:45.672Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:46.338Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:46.785Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:22:47.519Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:48.272Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:48.615Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:22:49.108Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:49.469Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:50.273Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:50.527Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:51.856Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:52.586Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:52.821Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:53.174Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:53.406Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:53.745Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:54.116Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:54.334Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:55.414Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:57.917Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":2169}
+2017-12-08T19:22:58.233Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:58.237Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:58.580Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:58.700Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:58.949Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:22:59.419Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:00.789Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:01.209Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:01.488Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:02.277Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:03.083Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:03.444Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:04.852Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:04.853Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:05.152Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:05.360Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:05.579Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:07.715Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:07.925Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:09.781Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":805}
+2017-12-08T19:23:09.806Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:10.078Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:10.236Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:10.526Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":84}
+2017-12-08T19:23:12.745Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:13.029Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:15.280Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:23:33.435Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":17484}
+2017-12-08T19:23:39.538Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:40.194Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:41.635Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:23:42.409Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:23:57.929Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":14766}
+2017-12-08T19:24:19.662Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:35.470Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:41.694Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:42.854Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":338}
+2017-12-08T19:24:43.021Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:43.304Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:43.376Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:43.749Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:44.092Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:46.453Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1235}
+2017-12-08T19:24:46.483Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:24:46.956Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:25:06.244Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":18429}
+2017-12-08T19:25:06.260Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:39.372Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":10676}
+2017-12-08T19:25:43.370Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:43.720Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:45.350Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:45.691Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:47.304Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:48.538Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:56.453Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:25:57.347Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:26:13.840Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:26:14.090Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:26:22.596Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:26:24.141Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:26:24.377Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:26:24.686Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:26:42.606Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":17465}
+2017-12-08T19:26:43.763Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:00.542Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:01.490Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:03.206Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1527}
+2017-12-08T19:27:03.390Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:03.394Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:03.396Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:04.119Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:04.236Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:04.494Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:04.641Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:06.260Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:27:06.514Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:06.545Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:06.773Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:06.979Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:08.491Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:08.702Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:08.957Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:09.165Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:09.367Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:09.452Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:09.533Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:09.824Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:11.662Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:12.432Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:13.632Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:13.933Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:14.167Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:15.014Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:15.352Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:15.573Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:15.803Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:17.630Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:25.647Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:28.716Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:27:28.961Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:45.877Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":16502}
+2017-12-08T19:27:52.944Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:27:58.087Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:02.718Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:28:21.038Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":17635}
+2017-12-08T19:28:25.585Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:25.897Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:26.798Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:28.055Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itineraries-list-screen/itineraries-list-screen.component.ts"}}
+2017-12-08T19:28:28.299Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:28.599Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:44.731Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":15811}
+2017-12-08T19:28:44.884Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:44.900Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:49.278Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:50.656Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:50.955Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:52.779Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:53.452Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:53.858Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:54.564Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:54.968Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:55.148Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:55.563Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:57.898Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:28:58.436Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:01.371Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:29:02.968Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:03.285Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:03.693Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:05.119Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:07.931Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:10.138Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:10.408Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:10.558Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:12.301Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:13.315Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:13.335Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:13.572Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:13.755Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:22.494Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:25.584Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:36.154Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:37.564Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:37.996Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:38.343Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:39.300Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:41.243Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1445}
+2017-12-08T19:29:41.943Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":301}
+2017-12-08T19:29:41.946Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:41.947Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:42.339Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":73}
+2017-12-08T19:29:43.651Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:43.988Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":92}
+2017-12-08T19:29:46.531Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:46.974Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:53.705Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:54.642Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":250}
+2017-12-08T19:29:54.650Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:55.181Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:55.342Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:55.517Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:55.759Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:55.983Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:58.114Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:59.472Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:59.777Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:59.859Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:29:59.908Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:00.257Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:00.524Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:04.241Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:04.704Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:13.917Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:16.883Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:18.460Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1210}
+2017-12-08T19:30:18.510Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:18.881Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":147}
+2017-12-08T19:30:19.014Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:19.206Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:19.412Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":182}
+2017-12-08T19:30:19.417Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:19.886Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":149}
+2017-12-08T19:30:19.961Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:20.024Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:20.186Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:20.371Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:22.180Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:23.125Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":211}
+2017-12-08T19:30:23.126Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:23.637Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":245}
+2017-12-08T19:30:23.781Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:24.059Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":173}
+2017-12-08T19:30:24.328Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":143}
+2017-12-08T19:30:24.329Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:25.374Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:26.782Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:27.069Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:27.366Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:28.061Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:28.675Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:29.109Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:29.847Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:30.791Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:31.100Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:31.386Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:31.484Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:31.735Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:31.888Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:34.229Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:34.453Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:34.630Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:34.794Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:35.072Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:35.288Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:49.036Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:49.327Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:49.487Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:50.346Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:50.607Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:30:50.780Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:02.493Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":2778}
+2017-12-08T19:31:02.576Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:02.577Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:02.637Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:02.640Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:02.641Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:02.767Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":140}
+2017-12-08T19:31:03.627Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":238}
+2017-12-08T19:31:03.628Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:03.787Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:03.942Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:04.205Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:04.409Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:06.265Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:06.534Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:06.679Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:07.302Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:07.564Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:07.762Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:08.117Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:08.500Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:08.917Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:09.185Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:09.426Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.051Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1561}
+2017-12-08T19:31:11.080Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.083Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.085Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.499Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.634Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.654Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:11.904Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:12.047Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:14.557Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:15.053Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:19.314Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:20.577Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:20.793Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:20.970Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:21.297Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:21.529Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:21.657Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:22.229Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:23.945Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:24.355Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:25.063Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:26.615Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:27.135Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:27.549Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:27.960Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:30.208Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T19:31:30.531Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:31:30.850Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:31:52.418Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":21524}
+2017-12-08T19:32:29.092Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:30.480Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:34.315Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:40.049Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1793}
+2017-12-08T19:32:40.093Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:40.104Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:40.109Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:40.662Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:40.921Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:40.956Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:49.083Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:50.764Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:53.705Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:56.637Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":2030}
+2017-12-08T19:32:56.747Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:57.578Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:58.597Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:32:59.316Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:00.452Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:00.736Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:01.205Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:02.423Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:02.755Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:04.077Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:05.190Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:05.564Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:09.769Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:20.359Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T19:33:39.020Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":18004}
+2017-12-08T19:33:39.037Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:33:39.258Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:39:22.429Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:01.661Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:38.995Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:39.267Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:40.264Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:41.690Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:42.804Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:43.741Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:45.762Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:46.035Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:40:49.737Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:11.524Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:12.445Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:12.746Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:12.919Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:13.277Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:38.857Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:41.529Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:41:53.810Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:11.826Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:16.310Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:16.579Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:22.457Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1293}
+2017-12-08T19:42:22.622Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:22.958Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:23.231Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:25.376Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:25.626Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:37.774Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver/driver.mock.ts"}}
+2017-12-08T19:42:37.792Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T19:42:38.417Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:42:47.171Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":8473}
+2017-12-08T19:42:47.324Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:45:55.955Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:45:58.159Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:45:58.502Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T19:45:59.034Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:46:05.534Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":6388}
+2017-12-08T19:46:14.350Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:46:14.880Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:46:50.648Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:47:56.406Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:25.696Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:32.188Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:32.692Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:33.041Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:35.309Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:35.700Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:36.025Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:39.916Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:40.525Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:41.479Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:41.839Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:42.799Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:56.638Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:48:56.880Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:49:33.568Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:49:56.656Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:49:57.794Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:00.412Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1318}
+2017-12-08T19:50:00.613Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:00.823Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:01.080Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:01.532Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:01.907Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:03.823Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:04.142Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:04.318Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:04.634Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:05.175Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:05.481Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:05.484Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:05.794Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:06.206Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:06.586Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:06.704Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:07.018Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:07.280Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:07.483Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:07.612Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:08.217Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:08.692Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:10.459Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:11.510Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:12.115Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":133}
+2017-12-08T19:50:12.486Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:12.799Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:12.901Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:13.216Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:14.555Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:14.900Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:15.135Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:15.398Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:15.907Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:16.234Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:17.307Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:17.395Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:18.066Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:18.406Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:18.677Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:19.294Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:19.601Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-08T19:50:20.174Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:20.561Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:21.236Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:21.564Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:50:22.702Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-08T19:50:22.763Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-08T19:50:31.853Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":8457}
+2017-12-08T19:50:32.040Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:54:25.456Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:54:26.691Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-08T19:59:12.278Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T18:31:28.764Z - info: [ImportResolveExtension] disposed
+2017-12-09T18:31:28.785Z - info: [CodeCompletionExtension] disposed
+2017-12-09T18:31:28.788Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-09T18:31:28.790Z - info: [CodeActionCreator] disposed
+2017-12-09T18:31:28.791Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-09T18:31:28.791Z - info: [TypeScriptHero] disposed
+2017-12-09T19:53:45.404Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-09T19:53:45.418Z - info: [DeclarationIndexMapper] initialized
+2017-12-09T19:53:45.422Z - info: [ImportResolveExtension] initialized
+2017-12-09T19:53:45.423Z - info: [CodeCompletionExtension] initialized
+2017-12-09T19:53:45.425Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-09T19:53:45.426Z - info: [CodeActionCreator] initialized
+2017-12-09T19:53:45.427Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-09T19:53:45.427Z - info: [TypeScriptHero] initialized
+2017-12-09T19:53:48.421Z - info: [ImportResolveExtension] disposed
+2017-12-09T19:53:48.422Z - info: [CodeCompletionExtension] disposed
+2017-12-09T19:53:48.422Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-09T19:53:48.422Z - info: [CodeActionCreator] disposed
+2017-12-09T19:53:48.422Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-09T19:53:48.422Z - info: [TypeScriptHero] disposed
+{"error":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"level":"error","message":"uncaughtException: read ECONNRESET\nError: read ECONNRESET\n\tat exports._errnoException (util.js:1050:11)\n\tat Pipe.onread (net.js:581:26)","stack":"Error: read ECONNRESET\n\tat exports._errnoException (util.js:1050:11)\n\tat Pipe.onread (net.js:581:26)","exception":true,"date":"Sat Dec 09 2017 11:53:48 GMT-0800 (PST)","process":{"pid":24902,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/angular-segment","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":147628032,"heapTotal":102461440,"heapUsed":63025720,"external":2534971}},"os":{"loadavg":[2.3271484375,2.20751953125,1.71875],"uptime":244182},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":26,"file":"net.js","function":"Pipe.onread","line":581,"method":"onread","native":false}]}
+2017-12-09T19:53:48.452Z - error: uncaughtException: read ECONNRESET
+Error: read ECONNRESET
+	at exports._errnoException (util.js:1050:11)
+	at Pipe.onread (net.js:581:26) {"error":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"stack":"Error: read ECONNRESET\n\tat exports._errnoException (util.js:1050:11)\n\tat Pipe.onread (net.js:581:26)","exception":true,"date":"Sat Dec 09 2017 11:53:48 GMT-0800 (PST)","process":{"pid":24902,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/angular-segment","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":147652608,"heapTotal":102461440,"heapUsed":63143672,"external":2534971}},"os":{"loadavg":[2.3271484375,2.20751953125,1.71875],"uptime":244182},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":26,"file":"net.js","function":"Pipe.onread","line":581,"method":"onread","native":false}]}
+2017-12-09T19:53:51.880Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-09T19:53:51.893Z - info: [DeclarationIndexMapper] initialized
+2017-12-09T19:53:51.895Z - info: [ImportResolveExtension] initialized
+2017-12-09T19:53:51.895Z - info: [CodeCompletionExtension] initialized
+2017-12-09T19:53:51.896Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-09T19:53:51.897Z - info: [CodeActionCreator] initialized
+2017-12-09T19:53:51.898Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-09T19:53:51.898Z - info: [TypeScriptHero] initialized
+2017-12-09T19:53:58.543Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-09T19:53:58.551Z - info: [DeclarationIndexMapper] initialized
+2017-12-09T19:53:58.556Z - info: [ImportResolveExtension] initialized
+2017-12-09T19:53:58.557Z - info: [CodeCompletionExtension] initialized
+2017-12-09T19:53:58.560Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-09T19:53:58.565Z - info: [CodeActionCreator] initialized
+2017-12-09T19:53:58.566Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-09T19:53:58.567Z - info: [TypeScriptHero] initialized
+2017-12-09T19:54:05.144Z - info: [DeclarationIndexMapper] built index for workspace "angular-segment" {"durationMs":13260}
+2017-12-09T19:54:05.174Z - info: [ImportResolveExtension] disposed
+2017-12-09T19:54:05.174Z - info: [CodeCompletionExtension] disposed
+2017-12-09T19:54:05.174Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-09T19:54:05.174Z - info: [CodeActionCreator] disposed
+2017-12-09T19:54:05.175Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-09T19:54:05.175Z - info: [TypeScriptHero] disposed
+{"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"level":"error","message":"uncaughtException: write EPIPE\nError: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Sat Dec 09 2017 11:54:05 GMT-0800 (PST)","process":{"pid":25089,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/angular-segment","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":322842624,"heapTotal":274194432,"heapUsed":85925944,"external":1082588}},"os":{"loadavg":[3.72216796875,2.53515625,1.837890625],"uptime":244199},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2017-12-09T19:54:05.339Z - error: uncaughtException: write EPIPE
+Error: write EPIPE
+	at exports._errnoException (util.js:1050:11)
+	at WriteWrap.afterWrite [as oncomplete] (net.js:813:14) {"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Sat Dec 09 2017 11:54:05 GMT-0800 (PST)","process":{"pid":25089,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/angular-segment","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":322916352,"heapTotal":274194432,"heapUsed":86087008,"external":1082588}},"os":{"loadavg":[3.72216796875,2.53515625,1.837890625],"uptime":244199},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2017-12-09T19:54:09.636Z - info: [DeclarationIndexMapper] built index for workspace "angular-segment" {"durationMs":11090}
+2017-12-09T19:54:09.644Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T19:54:09.645Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T19:54:09.646Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T19:54:09.647Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T19:54:09.845Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:17:53.605Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:17:55.731Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":907}
+2017-12-09T20:17:55.830Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:17:56.296Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:00.470Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:03.389Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:06.400Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-09T20:18:07.135Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:07.736Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:09.539Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":696}
+2017-12-09T20:18:09.915Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:09.973Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:10.870Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:10.892Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:11.075Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:11.218Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:12.307Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:12.854Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:13.481Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:13.891Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:21.702Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-09T20:18:22.342Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:23.585Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-09T20:18:23.871Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:24.082Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:24.635Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:25.304Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.008Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.183Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.299Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.552Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.642Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.742Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:26.980Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:27.669Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:28.009Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:29.245Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:29.446Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:29.467Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:29.762Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:31.191Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:31.671Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:31.837Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":70}
+2017-12-09T20:18:32.025Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:32.059Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:32.327Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:35.344Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:38.478Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:38.840Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:39.159Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:18:39.525Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:19:41.178Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:19:42.289Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:19:43.415Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:19:45.053Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:19:45.511Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:19:52.441Z - info: [DeclarationIndexMapper] rebuilt index for workspace "angular-segment" {"durationMs":6051}
+2017-12-09T20:19:59.009Z - info: [DeclarationIndexMapper] rebuilt index for workspace "angular-segment" {"durationMs":5962}
+2017-12-09T20:43:33.699Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-09T20:43:35.015Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:43:37.474Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-09T20:43:37.991Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:40:42.565Z - info: [ImportResolveExtension] disposed
+2017-12-10T17:40:42.568Z - info: [CodeCompletionExtension] disposed
+2017-12-10T17:40:42.569Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-10T17:40:42.571Z - info: [CodeActionCreator] disposed
+2017-12-10T17:40:42.571Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-10T17:40:42.571Z - info: [TypeScriptHero] disposed
+2017-12-10T17:40:53.089Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-10T17:40:53.140Z - info: [DeclarationIndexMapper] initialized
+2017-12-10T17:40:53.142Z - info: [ImportResolveExtension] initialized
+2017-12-10T17:40:53.142Z - info: [CodeCompletionExtension] initialized
+2017-12-10T17:40:53.143Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-10T17:40:53.144Z - info: [CodeActionCreator] initialized
+2017-12-10T17:40:53.144Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-10T17:40:53.144Z - info: [TypeScriptHero] initialized
+2017-12-10T17:41:07.964Z - info: [DeclarationIndexMapper] built index for workspace "veyo-facility-portal-frontend" {"durationMs":14874}
+2017-12-10T17:41:08.917Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:21.032Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:22.232Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:34.081Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:48.364Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:50.365Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1394}
+2017-12-10T17:41:50.791Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":161}
+2017-12-10T17:41:50.793Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:50.995Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:52.283Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1169}
+2017-12-10T17:41:52.321Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:54.520Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:54.605Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:55.429Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T17:41:57.517Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:41:58.527Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:01.201Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:01.311Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:02.919Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:05.633Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:05.979Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:07.445Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:14.588Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:14.921Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:15.829Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":813}
+2017-12-10T17:42:15.861Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:15.944Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:16.073Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:16.208Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:16.455Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:16.512Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:16.732Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:17.992Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":949}
+2017-12-10T17:42:18.026Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:18.464Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:20.528Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:21.721Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":787}
+2017-12-10T17:42:21.756Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:21.968Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:22.127Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:23.181Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":949}
+2017-12-10T17:42:23.213Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:24.009Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":793}
+2017-12-10T17:42:24.049Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:24.625Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:27.445Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:27.761Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:28.930Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:31.977Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:32.294Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:33.352Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:33.608Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:34.607Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:35.805Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":733}
+2017-12-10T17:42:35.838Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:36.758Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":431}
+2017-12-10T17:42:36.785Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:36.999Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:37.132Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:37.553Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:43.786Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:45.112Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":856}
+2017-12-10T17:42:45.144Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:45.299Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:45.972Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":531}
+2017-12-10T17:42:45.989Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:46.234Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:46.397Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:47.078Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:47.295Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:47.467Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:47.798Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:48.211Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:48.328Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:48.574Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:49.277Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:49.571Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:49.946Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:49.950Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:50.281Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:51.118Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:51.440Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:52.283Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:53.456Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:53.513Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:42:53.909Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:14.065Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:15.166Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:18.008Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:19.196Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:20.585Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":504}
+2017-12-10T17:43:20.657Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:20.865Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:20.987Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:21.278Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:21.426Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:21.794Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T17:43:22.183Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:22.630Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:22.988Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:23.332Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:23.961Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:24.294Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:24.936Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:25.270Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:26.995Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:27.008Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:27.209Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:27.345Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:28.238Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:28.777Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:30.759Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:31.755Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:32.060Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:35.414Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:37.028Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:37.439Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:37.744Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:37.946Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:38.270Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:39.635Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:40.009Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:40.358Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:40.890Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-10T17:43:41.153Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:41.440Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:43:45.603Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":4079}
+2017-12-10T17:56:52.669Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:56:55.221Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:56:55.464Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:00.029Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:03.349Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:04.274Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T17:57:15.611Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:17.356Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1153}
+2017-12-10T17:57:17.877Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:18.062Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:18.366Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:18.646Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:18.862Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:18.985Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:22.079Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:22.370Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:22.629Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:25.086Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":502}
+2017-12-10T17:57:26.318Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":783}
+2017-12-10T17:57:26.352Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:26.598Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:26.734Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:26.976Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":177}
+2017-12-10T17:57:27.212Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":77}
+2017-12-10T17:57:27.442Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":77}
+2017-12-10T17:57:27.662Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":73}
+2017-12-10T17:57:27.878Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":98}
+2017-12-10T17:57:28.020Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:28.159Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":88}
+2017-12-10T17:57:28.350Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:29.139Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:29.761Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:29.763Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:30.069Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:30.793Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:31.232Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:32.744Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":606}
+2017-12-10T17:57:32.862Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:33.469Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:34.469Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":980}
+2017-12-10T17:57:34.510Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:34.618Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:34.733Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:35.001Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:35.362Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:35.543Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T17:57:35.760Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:36.316Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:37.287Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:37.302Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:37.890Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:38.246Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:38.334Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:38.656Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:38.690Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:38.871Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:39.089Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:39.964Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:41.975Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:43.674Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:45.014Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":957}
+2017-12-10T17:57:45.049Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:45.254Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:45.633Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:45.634Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:46.058Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:46.081Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:46.407Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:46.414Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:47.985Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:48.360Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:48.557Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:48.753Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:48.928Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:49.154Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:49.480Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:50.176Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:51.277Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-10T17:57:51.519Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:57:51.808Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:58:03.560Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":11615}
+2017-12-10T17:59:44.521Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T17:59:45.571Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:45.961Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:46.981Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:47.960Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:48.560Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:49.333Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:54.430Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:54.673Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T17:59:54.833Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:00:05.558Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:00:57.381Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:45.051Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:49.033Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:49.364Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:51.669Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:52.561Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:54.684Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:55.068Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:57.646Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:01:57.939Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:30.804Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:31.080Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:31.383Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:33.030Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:33.270Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:33.394Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:36.886Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:37.182Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:37.483Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:40.800Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:41.284Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:44.273Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:44.642Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":71}
+2017-12-10T18:02:44.751Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":34}
+2017-12-10T18:02:45.699Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":66}
+2017-12-10T18:02:46.281Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:46.956Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:47.268Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:47.779Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:48.318Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":64}
+2017-12-10T18:02:48.552Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:02:50.051Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver/driver.mock.ts"}}
+2017-12-10T18:02:50.341Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:03:04.031Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":13366}
+2017-12-10T18:03:04.206Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-10T18:03:04.242Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:03:04.250Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:03:12.447Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":7685}
+2017-12-10T18:04:17.976Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:04:21.629Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-10T18:04:32.796Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":10496}
+2017-12-10T18:04:32.808Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:04:32.809Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:02.080Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:03.811Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:04.068Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:06.674Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:07.196Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:17.366Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:19.689Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:21.995Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:23.835Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:24.337Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":212}
+2017-12-10T18:05:24.777Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:24.907Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:25.225Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:25.300Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:28.244Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:29.354Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:29.666Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:33.351Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:05:58.660Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:06:01.346Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:06:11.447Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:34.851Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:40.851Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-10T18:07:50.307Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":8807}
+2017-12-10T18:07:50.378Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:50.379Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:50.380Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:50.393Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:50.809Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":426}
+2017-12-10T18:07:51.528Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":113}
+2017-12-10T18:07:53.227Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":42}
+2017-12-10T18:07:53.472Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":50}
+2017-12-10T18:07:53.722Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":107}
+2017-12-10T18:07:56.171Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":139}
+2017-12-10T18:07:57.064Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:57.234Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:57.458Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:57.547Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:57.918Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:58.079Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:58.469Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:59.138Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:59.167Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:59.376Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:07:59.558Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:00.074Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:00.611Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:01.012Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:01.574Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":143}
+2017-12-10T18:08:01.698Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:02.008Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:02.801Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:02.858Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:03.118Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":64}
+2017-12-10T18:08:03.157Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:03.365Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":182}
+2017-12-10T18:08:03.577Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:03.902Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:03.946Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:04.513Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:04.812Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:05.604Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":736}
+2017-12-10T18:08:05.646Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:06.160Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":160}
+2017-12-10T18:08:06.163Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:06.194Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:06.392Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:06.565Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:06.934Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T18:08:07.084Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:07.289Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:07.552Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:07.972Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:08.284Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:08.973Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:09.193Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:09.349Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:12.726Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:13.063Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:13.538Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:13.595Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:13.840Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:14.038Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:14.961Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":741}
+2017-12-10T18:08:14.985Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:15.447Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:15.711Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:24.626Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:24.873Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:25.072Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:25.095Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:25.285Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:25.484Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:28.603Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:28.972Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:32.296Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:33.162Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:33.979Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:35.346Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":4}
+2017-12-10T18:08:36.641Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:39.003Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:39.319Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:40.303Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:40.717Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:40.811Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:41.101Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:41.216Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:41.533Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:44.714Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:45.917Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:46.182Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:46.679Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":165}
+2017-12-10T18:08:46.981Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:47.311Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:47.328Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:47.614Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:47.770Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:47.989Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:48.320Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:48.396Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:48.584Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:48.782Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:49.613Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:49.687Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:50.041Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:50.049Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:50.381Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:50.398Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:50.719Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:51.701Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:53.266Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:53.467Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:53.605Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:08:58.270Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:04.086Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:05.662Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:06.204Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:06.415Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:06.600Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:11.015Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:11.335Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:17.249Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":98}
+2017-12-10T18:09:18.516Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":144}
+2017-12-10T18:09:18.614Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:19.040Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":81}
+2017-12-10T18:09:19.669Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:20.025Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":39}
+2017-12-10T18:09:21.172Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:21.210Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:21.437Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:21.514Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:21.879Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:24.101Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:26.054Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:26.754Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:27.324Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":113}
+2017-12-10T18:09:27.898Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:28.108Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:28.272Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:28.503Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:28.822Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:29.091Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:29.426Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:29.794Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:33.281Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:33.516Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:33.921Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:34.128Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:34.338Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:35.130Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:37.970Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:38.286Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:38.651Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:40.592Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:40.940Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:41.308Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:41.521Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:41.700Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:42.768Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:43.357Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:44.067Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:44.282Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:50.525Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:52.908Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":116}
+2017-12-10T18:09:53.659Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:53.794Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:54.044Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:54.097Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:54.306Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:54.513Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:55.089Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T18:09:55.409Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":120}
+2017-12-10T18:09:55.715Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:56.039Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:56.205Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:56.428Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:56.811Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:57.659Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:09:58.849Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:00.313Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:00.797Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":37}
+2017-12-10T18:10:01.246Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":68}
+2017-12-10T18:10:01.716Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:01.938Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:02.127Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:03.681Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:04.233Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":56}
+2017-12-10T18:10:04.497Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:10:46.842Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-10T18:10:47.163Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:11:02.279Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":14659}
+2017-12-10T18:11:02.309Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:39.820Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:40.097Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:41.424Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:41.617Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:41.776Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:47.674Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:47.971Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:51.510Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:51.891Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:54.873Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:55.277Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:58.628Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:12:59.101Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":143}
+2017-12-10T18:12:59.139Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":36}
+2017-12-10T18:13:00.632Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":116}
+2017-12-10T18:13:01.037Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":42}
+2017-12-10T18:13:01.304Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":31}
+2017-12-10T18:13:01.853Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":73}
+2017-12-10T18:13:02.132Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":54}
+2017-12-10T18:13:02.219Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver/driver.mock.ts"}}
+2017-12-10T18:13:02.435Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:13:02.466Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:13:12.164Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":9296}
+2017-12-10T18:14:30.577Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:31.455Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:31.694Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:35.766Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:36.481Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:36.775Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:48.033Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:49.146Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":236}
+2017-12-10T18:14:49.343Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:49.399Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:49.800Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T18:14:49.868Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:50.276Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:50.841Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:51.178Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:51.548Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:51.971Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:52.283Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:53.178Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":784}
+2017-12-10T18:14:53.270Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:14:53.471Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-10T18:14:53.730Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:03.546Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":9355}
+2017-12-10T18:15:03.711Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:08.312Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:09.906Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:11.423Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:12.523Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:13.001Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:13.426Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:13.809Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:13.986Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:14.285Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:14.569Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:14.924Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:15.027Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:15.369Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:15.632Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:16.025Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:16.071Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:16.341Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:16.526Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:16.939Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:17.194Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:17.466Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:18.315Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:19.318Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:19.674Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:21.387Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:21.781Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:22.487Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:23.285Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:23.474Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:23.699Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:23.714Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:23.909Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:24.038Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:25.633Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:26.644Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:26.949Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:27.303Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:29.241Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:29.506Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:30.698Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:31.947Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:32.919Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:33.917Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:34.096Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:34.259Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:34.766Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:36.397Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:36.443Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-10T18:15:36.934Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:49.560Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":12502}
+2017-12-10T18:15:49.594Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:49.761Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:50.228Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:51.181Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:51.508Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:51.745Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:52.919Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:15:53.290Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:23.108Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:37.235Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:42.329Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:45.099Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:51.051Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:51.322Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:51.687Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-10T18:16:51.940Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:52.176Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:16:59.140Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":6801}
+2017-12-10T18:16:59.555Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:17:00.434Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:17:06.473Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/driver-eta/driver-eta.service.ts"}}
+2017-12-10T18:17:13.795Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":6670}
+2017-12-10T18:17:13.806Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:34.548Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:35.477Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":742}
+2017-12-10T18:33:35.665Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:35.674Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:36.427Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":91}
+2017-12-10T18:33:38.395Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:38.814Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:40.699Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:41.502Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":561}
+2017-12-10T18:33:41.529Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:41.529Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:41.530Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:41.741Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":31}
+2017-12-10T18:33:42.149Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":46}
+2017-12-10T18:33:42.449Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":69}
+2017-12-10T18:33:42.698Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":53}
+2017-12-10T18:33:42.931Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":92}
+2017-12-10T18:33:46.931Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":63}
+2017-12-10T18:33:47.422Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":65}
+2017-12-10T18:33:48.351Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":53}
+2017-12-10T18:33:48.615Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":79}
+2017-12-10T18:33:48.854Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":101}
+2017-12-10T18:33:49.499Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":102}
+2017-12-10T18:33:50.440Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:50.716Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:33:51.501Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":727}
+2017-12-10T18:33:51.555Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":31}
+2017-12-10T18:33:52.006Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":26}
+2017-12-10T18:34:09.751Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:34:52.229Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:04.963Z - info: [ImportResolveExtension] disposed
+2017-12-10T18:36:04.963Z - info: [CodeCompletionExtension] disposed
+2017-12-10T18:36:04.963Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-10T18:36:04.963Z - info: [CodeActionCreator] disposed
+2017-12-10T18:36:04.963Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-10T18:36:04.963Z - info: [TypeScriptHero] disposed
+2017-12-10T18:36:10.301Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-10T18:36:10.314Z - info: [DeclarationIndexMapper] initialized
+2017-12-10T18:36:10.316Z - info: [ImportResolveExtension] initialized
+2017-12-10T18:36:10.316Z - info: [CodeCompletionExtension] initialized
+2017-12-10T18:36:10.317Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-10T18:36:10.317Z - info: [CodeActionCreator] initialized
+2017-12-10T18:36:10.317Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-10T18:36:10.317Z - info: [TypeScriptHero] initialized
+2017-12-10T18:36:12.429Z - info: [ImportResolveExtension] disposed
+2017-12-10T18:36:12.429Z - info: [CodeCompletionExtension] disposed
+2017-12-10T18:36:12.430Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-10T18:36:12.430Z - info: [CodeActionCreator] disposed
+2017-12-10T18:36:12.430Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-10T18:36:12.430Z - info: [TypeScriptHero] disposed
+{"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"level":"error","message":"uncaughtException: write EPIPE\nError: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Sun Dec 10 2017 10:36:13 GMT-0800 (PST)","process":{"pid":18491,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":148979712,"heapTotal":104558592,"heapUsed":72002272,"external":1981642}},"os":{"loadavg":[4.52685546875,3.3837890625,3.154296875],"uptime":325927},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2017-12-10T18:36:13.109Z - error: uncaughtException: write EPIPE
+Error: write EPIPE
+	at exports._errnoException (util.js:1050:11)
+	at WriteWrap.afterWrite [as oncomplete] (net.js:813:14) {"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Sun Dec 10 2017 10:36:13 GMT-0800 (PST)","process":{"pid":18491,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":149090304,"heapTotal":104558592,"heapUsed":72116824,"external":1981642}},"os":{"loadavg":[4.52685546875,3.3837890625,3.154296875],"uptime":325927},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2017-12-10T18:36:16.942Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-10T18:36:16.949Z - info: [DeclarationIndexMapper] initialized
+2017-12-10T18:36:16.950Z - info: [ImportResolveExtension] initialized
+2017-12-10T18:36:16.950Z - info: [CodeCompletionExtension] initialized
+2017-12-10T18:36:16.951Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-10T18:36:16.951Z - info: [CodeActionCreator] initialized
+2017-12-10T18:36:16.952Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-10T18:36:16.952Z - info: [TypeScriptHero] initialized
+2017-12-10T18:36:28.249Z - info: [DeclarationIndexMapper] built index for workspace "veyo-facility-portal-frontend" {"durationMs":11303}
+2017-12-10T18:36:28.250Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:28.252Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:28.253Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:28.254Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:28.258Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:28.335Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-10T18:36:35.721Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":6855}
+2017-12-10T18:36:35.727Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:36.207Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:40.366Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:42.445Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:47.376Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:48.589Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:36:57.565Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/itinerary-card/itinerary-card.component.ts"}}
+2017-12-10T18:37:05.966Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":7802}
+2017-12-10T18:37:06.238Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T18:40:54.835Z - info: [ImportResolveExtension] disposed
+2017-12-10T18:40:54.835Z - info: [CodeCompletionExtension] disposed
+2017-12-10T18:40:54.835Z - info: [DocumentSymbolStructureExtension] disposed
+2017-12-10T18:40:54.835Z - info: [CodeActionCreator] disposed
+2017-12-10T18:40:54.835Z - info: [OrganizeImportsOnSaveExtension] disposed
+2017-12-10T18:40:54.835Z - info: [TypeScriptHero] disposed
+2017-12-10T19:31:27.554Z - info: [DeclarationIndexMapper] initializing index mapper for 1 workspaces
+2017-12-10T19:31:27.574Z - info: [DeclarationIndexMapper] initialized
+2017-12-10T19:31:27.577Z - info: [ImportResolveExtension] initialized
+2017-12-10T19:31:27.577Z - info: [CodeCompletionExtension] initialized
+2017-12-10T19:31:27.578Z - info: [DocumentSymbolStructureExtension] initialized
+2017-12-10T19:31:27.579Z - info: [CodeActionCreator] initialized
+2017-12-10T19:31:27.580Z - info: [OrganizeImportsOnSaveExtension] initialized
+2017-12-10T19:31:27.581Z - info: [TypeScriptHero] initialized
+2017-12-10T19:31:34.411Z - info: [DeclarationIndexMapper] built index for workspace "veyo-facility-portal-frontend" {"durationMs":6853}
+2017-12-10T19:31:34.420Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:31:35.033Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:32:17.353Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:32:17.632Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:32:20.732Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:32:20.981Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:32:40.296Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:32:40.684Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:33:02.709Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:33:15.977Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:33:18.079Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:27.732Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:48.192Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:48.850Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:49.694Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:50.358Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":1}
+2017-12-10T19:39:52.326Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1209}
+2017-12-10T19:39:52.481Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:52.957Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":149}
+2017-12-10T19:39:52.963Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:52.966Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:53.252Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:53.561Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:57.668Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:57.960Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:39:59.978Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:01.292Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1139}
+2017-12-10T19:40:01.327Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:01.790Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":111}
+2017-12-10T19:40:01.882Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:02.052Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:02.178Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:02.326Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:02.656Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":91}
+2017-12-10T19:40:03.006Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":86}
+2017-12-10T19:40:03.097Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":85}
+2017-12-10T19:40:03.281Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:03.768Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":102}
+2017-12-10T19:40:03.888Z - info: [CodeActionCreator] calculated diagnostics {"durationMs":116}
+2017-12-10T19:40:04.442Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:05.720Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":1027}
+2017-12-10T19:40:06.083Z - info: [CodeCompletionExtension] calculated code completions {"durationMs":96}
+2017-12-10T19:40:06.275Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:06.294Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:06.615Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:08.561Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:40:08.977Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:46:56.292Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:46:56.573Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:47:15.849Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:47:20.599Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:47:22.299Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:47:26.723Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T19:47:28.421Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T20:01:02.958Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T20:01:03.219Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T20:01:04.468Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T21:45:14.733Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T21:45:14.951Z - info: [CodeActionCreator] calculated diagnostics
+2017-12-10T21:45:15.608Z - info: [OrganizeImportsOnSaveExtension] organizeOnSave for file {"meta":{"file":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend/src/app/environment/environment.service.ts"}}
+2017-12-10T21:45:22.174Z - info: [DeclarationIndexMapper] rebuilt index for workspace "veyo-facility-portal-frontend" {"durationMs":5935}

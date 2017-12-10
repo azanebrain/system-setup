@@ -40,7 +40,8 @@
 		"activityBar.visible": false,
 		"iconTheme": "vscode-icons"
 	},
-	"window.zoomLevel": 2,
+	"window.zoomLevel": 1,
 	"workbench.colorTheme": "Monokai",
-	"vsicons.projectDetection.autoReload": true
+	"vsicons.projectDetection.autoReload": true,
+	"workbench.panel.location": "bottom"
 }

@@ -67,10 +67,10 @@
 	por = pull --rebase origin
 	pu = push origin
 	pom = pull origin master
-	porm = pull --rebase origin master
+	prom = pull --rebase origin master
 	pum = push origin master
 	pod = pull origin dev
-	pord = pull --rebase origin dev
+	prod = pull --rebase origin dev
 	pud = push origin dev
   rom = rebase origin master
   rod = rebase origin dev

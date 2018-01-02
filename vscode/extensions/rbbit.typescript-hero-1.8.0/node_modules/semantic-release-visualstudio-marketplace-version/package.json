@@ -1,0 +1,33 @@
+{
+  "name": "semantic-release-visualstudio-marketplace-version",
+  "version": "1.0.0",
+  "description": "Semantic Release plugin for getting latest version of published vs/vscode extension on marketplace.visualstudio.com.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kumarharsh/semantic-release-visualstudio-marketplace-version"
+  },
+  "keywords": [
+    "semantic-release",
+    "visual-studio",
+    "visual-studio-code",
+    "vscode"
+  ],
+  "author": {
+    "name": "Kumar Harsh",
+    "email": "khs@playlyfe.com",
+    "url": "https://github.com/kumarharsh"
+  },
+  "dependencies": {
+    "@semantic-release/error": "^1.0.0",
+    "request": "^2.79.0",
+    "lodash.get": "^4.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1"
+  },
+  "license": "MIT"
+}

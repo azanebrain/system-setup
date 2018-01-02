@@ -1,0 +1,14 @@
+div.mdl-cell.mdl-cell--12-col.mdl-grid
+    h2
+        img.logo(src='file://'+ imagesPath +'/SpellCheck.png')
+        | Issues
+    div.mdl-cell.mdl-cell--12-col
+        if spellingErrors
+            if spellingErrors.length
+                ul
+                    each val in spellingErrors.slice(0,200)
+                        li= `${val[0]} (${val[1]})`
+            else
+                b None!
+        else
+            b Analyzing...

@@ -1,0 +1,12 @@
+# Dependency directory
+
+# Ignore generated test files.
+test
+dist/test
+
+# Ignore Config Files
+typings
+tsconfig.json
+tslint.json
+typings.json
+

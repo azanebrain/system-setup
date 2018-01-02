@@ -1,0 +1,10 @@
+{
+  "root": true, /* restrict to this level */
+  "extends": "standard",
+  "rules": {
+    "comma-dangle": "off",
+    "no-extra-semi": "error",
+    "semi": ["error", "always"],
+    "space-before-function-paren": ["error", "never"]
+  }
+}

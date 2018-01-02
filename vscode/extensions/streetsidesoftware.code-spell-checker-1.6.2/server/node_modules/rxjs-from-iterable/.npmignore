@@ -1,0 +1,10 @@
+# Ignore Dev Env things
+.vscode
+
+# Ignore Unit test stuff
+/temp
+/coverage
+*.test.js
+*.test.d.ts
+*.test.js.map
+*.test.ts

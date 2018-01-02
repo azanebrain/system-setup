@@ -43,5 +43,10 @@
 	"window.zoomLevel": 1,
 	"workbench.colorTheme": "Monokai",
 	"vsicons.projectDetection.autoReload": true,
-	"workbench.panel.location": "bottom"
+	"workbench.panel.location": "bottom",
+	"cSpell.userWords": [
+		"Veyo",
+		"Veyopedia"
+	],
+	"editor.multiCursorModifier": "alt"
 }

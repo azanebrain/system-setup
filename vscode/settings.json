@@ -8,6 +8,7 @@
 		"fontFamily": "Fira Code",
 		"fontLigatures": true,
 		"fontSize": 13,
+		"lineNumbers": "interval",
 		"minimap": {
 			"enabled": false
 		},

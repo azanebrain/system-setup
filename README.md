@@ -227,6 +227,18 @@ I used Sublime Text for a while, but Atom operates closer to the terminal. You c
 
 [Shortcut cheatsheet](https://bugsnag.com/blog/atom-editor-cheat-sheet)
 
+## [Redshift](http://jonls.dk/redshift/)
+
+Redshift is Flux for Linux
+
+Symlink the config file:
+
+```
+ln -s $PWD/redshift/redshift.conf ~/.config/redshift.conf
+```
+
+I've had problems with using a DisplayLink docking station, where all of the randr commands (like rotating the screens) don't work on the external monitors. This includes redshift :sad_panda:
+
 ## Sublime Text 2
 
 Settings: Copy the Preferences.sublime-settings into the user settings ( command + , )

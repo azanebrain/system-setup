@@ -1,0 +1,239 @@
+2018-01-26T17:00:49.448Z - info: Starting up CodeOutline.
+2018-01-26T17:00:49.449Z - info: Starting up ImportOrganizer.
+2018-01-26T17:00:49.629Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/incontact/AcmeReferenceApp","durationMs":184}
+2018-01-29T18:32:20.703Z - info: Starting up CodeOutline.
+2018-01-29T18:32:20.704Z - info: Starting up ImportOrganizer.
+2018-01-29T18:32:39.983Z - info: Starting up CodeOutline.
+2018-01-29T18:32:39.985Z - info: Starting up ImportOrganizer.
+2018-01-29T18:32:56.060Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":35409}
+2018-01-29T18:32:56.170Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-01-29T18:32:56.170Z - info: Stopping ImportOrganizer.
+{"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"level":"error","message":"uncaughtException: write EPIPE\nError: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Mon Jan 29 2018 10:32:56 GMT-0800 (PST)","process":{"pid":8754,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":514129920,"heapTotal":466497536,"heapUsed":429615320,"external":777889}},"os":{"loadavg":[9.19189453125,5.01171875,2.072265625],"uptime":61763},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2018-01-29T18:32:56.194Z - error: uncaughtException: write EPIPE
+Error: write EPIPE
+	at exports._errnoException (util.js:1050:11)
+	at WriteWrap.afterWrite [as oncomplete] (net.js:813:14) {"error":{"code":"EPIPE","errno":"EPIPE","syscall":"write"},"stack":"Error: write EPIPE\n\tat exports._errnoException (util.js:1050:11)\n\tat WriteWrap.afterWrite [as oncomplete] (net.js:813:14)","exception":true,"date":"Mon Jan 29 2018 10:32:56 GMT-0800 (PST)","process":{"pid":8754,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":514129920,"heapTotal":466497536,"heapUsed":429653912,"external":777889}},"os":{"loadavg":[9.19189453125,5.01171875,2.072265625],"uptime":61763},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":14,"file":"net.js","function":"WriteWrap.afterWrite [as oncomplete]","line":813,"method":"afterWrite [as oncomplete]","native":false}]}
+2018-01-29T18:33:07.019Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":27067}
+2018-01-29T19:15:34.409Z - info: Starting up CodeOutline.
+2018-01-29T19:15:34.409Z - info: Starting up ImportOrganizer.
+2018-01-29T19:15:34.721Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/incontact/AcmeReferenceApp/HTML","durationMs":314}
+2018-01-29T19:32:10.178Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":221}
+2018-01-29T19:32:50.349Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":157}
+2018-01-29T20:24:38.537Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":3214}
+2018-01-29T20:39:35.551Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":10941}
+2018-01-29T20:39:37.671Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1079}
+2018-01-29T20:55:10.995Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":5034}
+2018-01-30T01:22:23.157Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":11257}
+2018-01-30T01:22:30.696Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":602}
+2018-01-30T01:27:26.854Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1842}
+2018-01-30T01:27:27.583Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":226}
+2018-01-30T19:58:36.433Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1724}
+2018-01-30T20:55:35.044Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-01-30T20:55:35.045Z - info: Stopping ImportOrganizer.
+2018-01-30T20:55:36.513Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-01-30T20:55:36.523Z - info: Stopping ImportOrganizer.
+2018-01-31T02:07:41.900Z - info: Starting up CodeOutline.
+2018-01-31T02:07:41.919Z - info: Starting up ImportOrganizer.
+2018-01-31T02:07:45.530Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-01-31T02:07:53.788Z - info: Starting up CodeOutline.
+2018-01-31T02:07:53.790Z - info: Starting up ImportOrganizer.
+2018-01-31T02:08:05.181Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":11403}
+2018-01-31T02:09:04.047Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":426}
+2018-01-31T02:15:37.940Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":3259}
+2018-01-31T02:17:44.792Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":452}
+2018-01-31T02:18:18.239Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":472}
+2018-01-31T02:18:24.554Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":484}
+2018-01-31T02:18:38.910Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":432}
+2018-01-31T02:18:43.381Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":387}
+2018-01-31T02:19:13.835Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":626}
+2018-01-31T02:19:32.195Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":312}
+2018-01-31T02:20:51.536Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":265}
+2018-01-31T02:21:54.580Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":153}
+2018-01-31T02:22:15.268Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":198}
+2018-01-31T02:22:21.714Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":134}
+2018-01-31T02:22:33.911Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":134}
+2018-01-31T02:22:38.177Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":146}
+2018-01-31T02:23:14.933Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":141}
+2018-01-31T02:23:21.662Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":133}
+2018-01-31T15:57:00.015Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":976}
+2018-01-31T16:05:14.865Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":192}
+2018-01-31T18:44:39.544Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":484}
+2018-01-31T18:44:46.369Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":518}
+2018-01-31T18:45:06.172Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":170}
+2018-01-31T18:45:46.815Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":148}
+2018-01-31T18:46:35.892Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":699}
+2018-01-31T19:00:05.479Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":383}
+2018-01-31T19:11:17.930Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":973}
+2018-01-31T19:16:39.641Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":501}
+2018-01-31T19:24:37.425Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":201}
+2018-01-31T19:37:03.652Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":177}
+2018-01-31T19:56:01.057Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":224}
+2018-01-31T19:58:52.095Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":299}
+2018-01-31T20:02:33.978Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":470}
+2018-01-31T20:06:54.707Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":224}
+2018-01-31T20:07:42.928Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":575}
+2018-01-31T20:07:48.027Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":369}
+2018-01-31T20:12:51.067Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":229}
+2018-01-31T20:17:57.398Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1052}
+2018-01-31T22:36:36.172Z - info: Starting up CodeOutline.
+2018-01-31T22:36:36.173Z - info: Starting up ImportOrganizer.
+2018-01-31T22:36:53.632Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":17472}
+2018-01-31T22:37:44.522Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":12049}
+2018-01-31T22:38:19.833Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":12187}
+2018-01-31T22:38:30.938Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":10599}
+2018-01-31T22:38:43.571Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":11847}
+2018-01-31T22:39:01.503Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":14530}
+2018-01-31T22:57:27.933Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-01-31T22:57:27.935Z - info: Stopping ImportOrganizer.
+2018-01-31T23:01:22.403Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1021}
+2018-01-31T23:07:11.814Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":202}
+2018-01-31T23:20:30.302Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":503}
+2018-01-31T23:21:24.653Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":710}
+2018-01-31T23:26:49.424Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":233}
+2018-01-31T23:27:26.394Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1277}
+2018-01-31T23:27:32.660Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":804}
+2018-01-31T23:27:39.163Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1090}
+2018-01-31T23:28:23.722Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":266}
+2018-01-31T23:29:29.835Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1400}
+2018-01-31T23:29:36.258Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":605}
+2018-01-31T23:29:44.930Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":417}
+2018-01-31T23:29:48.049Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1842}
+2018-01-31T23:29:51.608Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":341}
+2018-01-31T23:30:20.112Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":224}
+2018-01-31T23:31:15.185Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1136}
+2018-01-31T23:31:17.266Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":412}
+2018-01-31T23:31:33.833Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":520}
+2018-01-31T23:34:59.988Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":2522}
+2018-01-31T23:35:33.525Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1227}
+2018-01-31T23:36:06.643Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1282}
+2018-01-31T23:36:21.132Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":235}
+2018-01-31T23:51:04.471Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":284}
+2018-01-31T23:56:23.038Z - info: Starting up CodeOutline.
+2018-01-31T23:56:23.038Z - info: Starting up ImportOrganizer.
+2018-01-31T23:56:36.009Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":12973}
+2018-02-01T00:23:10.576Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":238}
+2018-02-01T00:25:05.285Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":225}
+2018-02-01T00:26:41.600Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":159}
+2018-02-01T00:26:45.185Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":184}
+2018-02-01T00:28:09.733Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":170}
+2018-02-01T00:29:32.410Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":219}
+2018-02-01T00:56:03.315Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-02-01T00:56:03.315Z - info: Stopping ImportOrganizer.
+2018-02-01T00:57:27.219Z - info: Starting up CodeOutline.
+2018-02-01T00:57:27.220Z - info: Starting up ImportOrganizer.
+2018-02-01T00:57:41.130Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":13917}
+2018-02-01T01:08:17.480Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":670}
+2018-02-01T01:22:53.229Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":2163}
+2018-02-01T01:24:58.462Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":445}
+2018-02-01T15:42:37.031Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":212}
+2018-02-01T17:43:27.350Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":179}
+2018-02-01T21:34:46.781Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":474}
+2018-02-01T21:47:53.294Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":241}
+2018-02-01T21:54:05.941Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":469}
+2018-02-01T22:23:36.923Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":226}
+2018-02-01T22:24:42.218Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":680}
+2018-02-01T22:24:46.983Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":494}
+2018-02-01T22:24:54.876Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":305}
+2018-02-01T22:25:37.170Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":315}
+2018-02-01T22:26:26.070Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":754}
+2018-02-01T22:26:41.675Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":174}
+2018-02-02T00:14:04.802Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":346}
+2018-02-02T00:35:04.305Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":417}
+2018-02-02T00:35:40.770Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":327}
+2018-02-02T00:50:13.851Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":358}
+2018-02-02T00:59:08.175Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":934}
+2018-02-02T01:01:22.236Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":380}
+2018-02-02T01:01:44.251Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":561}
+2018-02-02T01:01:48.831Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1152}
+2018-02-02T01:01:50.292Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":736}
+2018-02-02T01:02:22.154Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":473}
+2018-02-02T01:08:37.089Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":928}
+2018-02-02T01:14:49.937Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":682}
+2018-02-02T01:20:05.097Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":612}
+2018-02-02T01:24:11.579Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":763}
+2018-02-02T01:40:00.761Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":971}
+2018-02-02T01:40:54.293Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1034}
+2018-02-02T01:49:18.923Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":914}
+2018-02-02T01:49:20.761Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":773}
+2018-02-02T18:45:12.968Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":343}
+2018-02-02T18:47:49.607Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":427}
+2018-02-02T18:48:14.322Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":483}
+2018-02-02T18:50:14.079Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":407}
+2018-02-02T18:52:05.711Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":329}
+2018-02-02T18:58:31.412Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":316}
+2018-02-02T18:59:47.849Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":559}
+2018-02-02T19:25:49.844Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":364}
+2018-02-02T19:30:50.389Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":626}
+2018-02-02T19:37:39.268Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":516}
+2018-02-02T19:42:01.586Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":474}
+2018-02-02T20:06:08.604Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":676}
+2018-02-02T20:10:04.391Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":673}
+2018-02-02T20:13:07.305Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":696}
+2018-02-02T20:15:52.141Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":250}
+2018-02-02T20:16:29.843Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":459}
+2018-02-02T20:20:07.323Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":309}
+2018-02-02T20:26:46.291Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":762}
+2018-02-02T20:31:42.959Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":437}
+2018-02-02T20:35:36.469Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1246}
+2018-02-02T20:39:12.744Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":286}
+2018-02-02T20:43:45.480Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":578}
+2018-02-02T20:47:44.406Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":769}
+2018-02-02T20:48:47.353Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":713}
+2018-02-02T20:55:19.170Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":699}
+2018-02-02T21:07:45.258Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":295}
+2018-02-02T21:09:37.672Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":267}
+2018-02-02T21:13:55.935Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":884}
+2018-02-02T21:22:13.001Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":637}
+2018-02-02T21:25:42.748Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":561}
+2018-02-02T21:31:54.913Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":444}
+2018-02-02T21:35:56.556Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":217}
+2018-02-02T21:39:38.564Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":710}
+2018-02-02T21:39:56.085Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":937}
+2018-02-02T21:45:47.223Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":243}
+2018-02-02T21:49:30.475Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":574}
+2018-02-02T22:03:15.093Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":504}
+2018-02-02T22:34:05.690Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":466}
+2018-02-02T22:39:31.428Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1004}
+2018-02-02T22:48:32.746Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":1224}
+2018-02-02T22:48:36.131Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":903}
+2018-02-02T22:51:36.497Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":982}
+2018-02-02T22:56:32.450Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":618}
+2018-02-02T23:00:16.499Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":654}
+2018-02-02T23:06:27.138Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":315}
+2018-02-02T23:12:58.012Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":929}
+2018-02-02T23:23:34.961Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":264}
+2018-02-02T23:25:27.056Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":482}
+2018-02-02T23:34:58.502Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":494}
+2018-02-02T23:42:46.085Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":235}
+2018-02-02T23:43:57.503Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":250}
+2018-02-02T23:45:09.162Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":241}
+2018-02-02T23:48:51.698Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":682}
+2018-02-02T23:51:39.954Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":586}
+2018-02-02T23:54:49.954Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":584}
+2018-02-02T23:58:40.064Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":435}
+2018-02-03T00:03:38.274Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":317}
+2018-02-03T00:07:29.797Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":419}
+2018-02-03T17:08:47.688Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":381}
+2018-02-03T17:08:49.121Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-02-03T17:08:49.122Z - info: Stopping ImportOrganizer.
+2018-02-05T19:19:46.568Z - info: Starting up CodeOutline.
+2018-02-05T19:19:46.568Z - info: Starting up ImportOrganizer.
+2018-02-05T19:19:48.656Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-02-05T19:19:48.657Z - info: Stopping ImportOrganizer.
+{"error":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"level":"error","message":"uncaughtException: read ECONNRESET\nError: read ECONNRESET\n\tat exports._errnoException (util.js:1050:11)\n\tat Pipe.onread (net.js:581:26)","stack":"Error: read ECONNRESET\n\tat exports._errnoException (util.js:1050:11)\n\tat Pipe.onread (net.js:581:26)","exception":true,"date":"Mon Feb 05 2018 11:19:48 GMT-0800 (PST)","process":{"pid":20315,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":168505344,"heapTotal":129499136,"heapUsed":100975632,"external":1228538}},"os":{"loadavg":[3.61181640625,2.93505859375,3.06884765625],"uptime":415460},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":26,"file":"net.js","function":"Pipe.onread","line":581,"method":"onread","native":false}]}
+2018-02-05T19:19:48.690Z - error: uncaughtException: read ECONNRESET
+Error: read ECONNRESET
+	at exports._errnoException (util.js:1050:11)
+	at Pipe.onread (net.js:581:26) {"error":{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read"},"stack":"Error: read ECONNRESET\n\tat exports._errnoException (util.js:1050:11)\n\tat Pipe.onread (net.js:581:26)","exception":true,"date":"Mon Feb 05 2018 11:19:48 GMT-0800 (PST)","process":{"pid":20315,"uid":1001,"gid":1001,"cwd":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","execPath":"/usr/share/code/code","version":"v7.9.0","argv":["/usr/share/code/code","/usr/share/code/resources/app/out/bootstrap","--type=extensionHost"],"memoryUsage":{"rss":168505344,"heapTotal":129499136,"heapUsed":101012544,"external":1236730}},"os":{"loadavg":[3.61181640625,2.93505859375,3.06884765625],"uptime":415460},"trace":[{"column":11,"file":"util.js","function":"exports._errnoException","line":1050,"method":"_errnoException","native":false},{"column":26,"file":"net.js","function":"Pipe.onread","line":581,"method":"onread","native":false}]}
+2018-02-05T19:19:55.642Z - info: Starting up CodeOutline.
+2018-02-05T19:19:55.643Z - info: Starting up ImportOrganizer.
+2018-02-05T19:20:05.760Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":10188}
+2018-02-05T19:31:37.028Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":820}
+2018-02-05T19:40:48.802Z - info: Starting up CodeOutline.
+2018-02-05T19:40:48.803Z - info: Starting up ImportOrganizer.
+2018-02-05T19:41:17.279Z - info: Built index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-facility-portal-frontend","durationMs":28479}
+2018-02-05T19:42:23.634Z - info: Not stopping CodeOutline. It's enabled by config.
+2018-02-05T19:42:23.634Z - info: Stopping ImportOrganizer.
+2018-02-05T20:05:20.046Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":478}
+2018-02-05T20:05:25.046Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":855}
+2018-02-05T20:05:26.988Z - info: Rebuilt index for workspace {"workspace":"/home/wreckgar/Sites/veyo/veyo-yoda/Veyo.Yoda.Web/public","durationMs":236}

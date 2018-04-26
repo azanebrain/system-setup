@@ -183,30 +183,14 @@ Change CAPS Lock and Ctrl
 
 I got into VS Code for the TypeScript support, but stayed because it's awesome
 
-Symlink the settings JSON file:
+I use [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) to keep my extensions and settings in line between machines. 
 
-```
-# Mac
-ln -s $PWD/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
-# Ubuntu
-ln -s $PWD/vscode/settings.json ~/.config/Code/User/settings.json
-```
-
-Symlink the keybindings:
-```
-ln -s $PWD/vscode/keybindins.json ~/.config/Code/User/keybindings.json
-```
-
-Extensions are stored in this repo so I don't need to reinstall them all the time. 
-
-Symlink the extensions directory:
-```
-ln -s  $PWD/vscode/extensions ~/.vscode/
-```
+The only thing it doesn't link are the user snippets.
 
 Symlink the snippets directory:
 ```
 ln -s  $PWD/vscode/snippets ~/.config/Code/User/
+ln -s  $PWD/vscode/snippets ~/.config/Code\ -\ Insiders/User/
 ```
 
 ### Configuration

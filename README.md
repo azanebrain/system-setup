@@ -425,20 +425,20 @@ Copy the contents of the keymap file (to Default (OSX).sublime-keymap) to the us
 
 ## Visual Studio Code 
 
-It's not my favorite IDE, but it does a hell of a great job at TypeScript.
+I started using VSCode for the Typescript support, but stayed for everything else.
 
-Symlink the settings JSON file:
-```
-ln -s $PWD/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
-```
+* Download [VSCode](https://code.visualstudio.com/) - or the [Insiders Edition](https://code.visualstudio.com/insiders/)
+* Install the Settings Sync Extension and configure it
+* Install FiraCode font: `sudo apt install fonts-firacode`
+* Restart VSCode
 
-Extensions are stored in this repo so I don't need to reinstall them all the time. 
+### Settings Sync
 
-Symlink the extensions directory:
-```
-ln -s  $PWD/vscode/extensions extensions
-```
-========================================================================================================
+I use Settings Sync to store settings in GitHub (shan.code-settings-sync). Once you enter the Gist Key and ID, it will start to download everything. Then you'll probably need to restart VS Code
+
+### FiraCode Font
+
+[FiraCode](https://github.com/tonsky/FiraCode/wiki) is a monospaced ligature font that makes reading code easier. Never again be confused by "==" vs "==="!
 
 ## Github Shinies for changing assignee, label, and milestone through commit messages
 

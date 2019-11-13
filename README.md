@@ -119,7 +119,7 @@ plugins=(
 )
 ```
 
-Now you'll definitely want to restart the terminal, but you also may need to restart the computer.
+Now you'll need to log out of the current user session and log back in for Zsh to take control as the default terminal.
 
 # Chrome
 

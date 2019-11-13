@@ -148,7 +148,7 @@ This will install
 * Spotify: Music
 
 ```
-snap install dbeaver-ce --edge && postman --classic && snap install spotify --classic
+snap install code-insiders --classic && snap install dbeaver-ce --edge && snap install postman --classic && snap install spotify --classic
 ```
 
 ## Shortcut!
@@ -160,7 +160,7 @@ Instead of going through the manual steps for the extra tools, try setting every
 * [Rider](https://www.jetbrains.com/rider): An IDE I use for .NETCore development
 
 ```
-snap install dbeaver-ce --edge && postman --classic && snap install spotify --classic && snap install docker --classic && snap install dotnet-sdk --classic && snap install rider --classic
+snap install code-insiders --classic && snap install dbeaver-ce --edge && snap install postman --classic && snap install spotify --classic && snap install docker --classic && snap install dotnet-sdk --classic && snap install rider --classic
 ```
 
 Now alias any programs that are using the snap namespace

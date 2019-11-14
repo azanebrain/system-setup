@@ -121,19 +121,6 @@ plugins=(
 
 Now you'll need to log out of the current user session and log back in for Zsh to take control as the default terminal.
 
-# Chrome
-
-I had issues getting Chrome Stable setup, refer to the Snapcraft section.
-
-```
-# Chromium
-# From: https://www.ubuntuupdates.org/ppa/google_chrome?dist=stable
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
-sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
-sudo apt-get update 
-sudo apt-get install chromium-browser
-```
-
 # Snapcraft
 
 Snapcraft is a package manager for popular programs that don't target devs so they don't have easy desktop installation paths.
@@ -142,13 +129,14 @@ I'm not sure if it was Ubuntu 18 or Zsh, but I already had Snapcraft installed. 
 
 This will install
 
+* Chromium: The base Chrome browser
 * VSCode Insiders: I like to use the insiders version for cutting edge features
 * [DBeaver Community Edition](https://dbeaver.io): Dabatabse client
 * [Postman](https://getpostman.com): API testing / management
 * Spotify: Music
 
 ```
-snap install code-insiders --classic && snap install dbeaver-ce --edge && snap install postman --classic && snap install spotify --classic
+snap install chromium && snap install code-insiders --classic && snap install dbeaver-ce --edge && snap install postman --classic && snap install spotify --classic
 ```
 
 ## Shortcut!

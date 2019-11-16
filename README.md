@@ -218,7 +218,9 @@ I started using VSCode for the Typescript support, but stayed for everything els
 
 ## Settings Sync
 
-I use Settings Sync to store settings in GitHub (shan.code-settings-sync). Once you enter the Gist Key and ID, it will start to download everything. Then you'll probably need to restart VS Code
+I use Settings Sync to store settings in GitHub (shan.code-settings-sync). Once you enter the Gist ID and your account key, it will start to download everything (if it doesn't use the 'Download Settings' option to kick it off). Then you'll probably need to restart VS Code.
+
+I store my key in a password manager since it's stored in the main GitHub site and hidden after generation. The Gist ID is the key of the settings file stored in your Gists account.
 
 ## FiraCode Font
 

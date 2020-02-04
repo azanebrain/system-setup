@@ -193,6 +193,14 @@ docker-compose --version
 
 I'm still not 100% sure I understand the difference between installing the SDK vs the runtime, or when the SDK doesn't cover everything you'll need. If I run into a problem, I'll update these instructions.
 
+# Node
+
+If Node/NPM starts complaining about being unable to watch for file changes, you'll need to increase some buffer value. Refer to this link for the fix:
+
+[VisualStudio.com - Linux Setup](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
+
+You'll probably have to do this if you're working on any kind of node app
+
 # SSH Key Help
 
 If you're having issues with the key, try some of the solutions in this section

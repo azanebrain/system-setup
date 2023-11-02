@@ -95,3 +95,5 @@
 	protocol = https
 [push]
 	default = simple
+[init]
+	defaultBranch = main
